@@ -63,13 +63,15 @@ def refresh_pads(pads, urlopen=urllib2.urlopen, make_file=make_file,
     queue.join()
 
 if __name__ == '__main__':
+    os.chdir(path('.'))
+    subprocess.check_call(['git', 'pull'])
+
     f = open(path('pads.txt'), 'r')
     refresh_pads([pad.strip() for pad in f if pad.strip()])
-    
-    os.chdir(path('.'))
     
     for filename in os.listdir(DEFAULT_DIR):
         fullpath = os.path.join(DEFAULT_DIR, filename)
         subprocess.check_call(['git', 'add', fullpath])
     subprocess.call(['git', 'commit', '-m', COMMIT_MSG, '--author',
                      COMMIT_AUTHOR])
+    subprocess.check_call(['git', 'push'])
