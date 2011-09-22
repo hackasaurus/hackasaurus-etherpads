@@ -1,0 +1,1999 @@
+Hackasaurus Weekly Call
+Call time: 3:00pm EST Tuesdays
+Canada +1 416 848 3114 Ext. 92 Conference number 7600# 
+US or Intl. +1 650 903 0800 Ext. 92 Conference number 7600# 
+US Toll-Free +1 800 707 2533 PW 369 Conference number 7600#
+irc.mozilla.org #hackasaurus: http://j.mp/chatzilla 
+
+Sept 21
+
+Roll Coall (who is here?):
+ * Jess
+ * Richard
+ * Anna
+ * Matt
+
+
+
+
+
+
+Status Update:
+ * Atul- hack sharing
+ * Anna
+   * Editable map of hack jams around the world: http://g.co/maps/3p5e6
+   * Blog post recapping last week's school hack jams: http://maban.co.uk/60
+     * There were a couple of really geeky kids who had  their own servers and were totally into Mozilla stuff! (like  @LcawteWikia).
+     * Kids didn't know how to copy and paste using ctrl+c and ctrl+v. We should teach this.
+     * Need to add a bit about creative commons to the jam, with description/links on how to search for images.
+     * More requests for programming (Next week I'm going to a workshop on making games in javascript. I could make simple games and publish them in the webpad, kids can change variables to do things like "make spaceship fly faster")
+     * Ability to share and "making it stay like that" was biggest demand
+     * It'd be useful to have Tear go straight to webpad, tricky to explain it.
+     * Need  to either look at making the width of the dialogue box flexible, or  "ok" and "nevermind" to be on the left instead of the right so they  don't get cut off on small screens. (I've built a fix for this if Atul thinks it's a good idea)
+     * Hit esc key to close dialogue box
+     * Very useful where you can't accidently select the quote marks while doing something like swapping in an image
+     * A little buggy on some machines. Dialogue wouldn't open or would get stuck while opening.
+ * Jess
+   * Maker Faire
+     * http://www.wnyc.org/shows/rookies/blogs/rookies-blog/2011/sep/17/hackasaurus-design-challenge-young-maker-pavilion/
+     * 
+ * Richard
+   * Stickers 0.4alpha
+     * changelist
+       * theme capability
+       * spreadsheet optional
+       * static fields
+       * image library
+       * local image files
+       * modified alignment target
+     * need CSS ninja
+     * source repository?
+   * Swag-O-Matic 0.4alpha 
+     * http://netfools.com/swag-o-matic/
+       * Dietrich Ayala - Mozilla Reps
+         * feedback !!
+ * Matt
+   * General copywriting and editing
+   * Copyediting on "jam in a box" kit  (will follow up via email)
+
+
+Peer Assist- Design Challenge for the Festival
+
+http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
+
+
+Other initiatives:
+ * http://www.hacknow.org/ (A programming contest for young people in Europe)
+ * https://twitter.com/codingforkids
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roll Call -- who's here?
+ * Matt Thompson
+ * Victor Porof
+ * Jess Klein
+ * Anna Debenham
+ * Enric Senabre
+ * Richard Milewski
+
+Sept 14
+ * Beta Progress Update
+   * Tools
+     * Atul working on the hack sharing
+     *  http://hackasaurus.github.com/hackasaurus-project-updates/
+   * Jams- Did v1 of lesson, badges, and ed.objectives
+   * Tilt
+     * http://dl.dropbox.com/u/2388316/tilt/beta/0901.webm
+     * https://github.com/victorporof/Tilt/raw/r90/bin/Tilt.xpi
+     * https://addons.mozilla.org/en-US/firefox/addon/tilt/
+     * export any webpage to 3D: http://dl.dropbox.com/u/2388316/tilt/beta/export.png
+     * 
+
+ * OER - Lesson Plan review
+   * http://etherpad.mozilla.com:9000/Hackasaurus-superhero-lessonplan -lesson plan
+   * http://www.flickr.com/photos/jessicaklein/6141811332/ - badge sample
+   * http://etherpad.mozilla.com:9000/Hackasaurus-learning-objectives -learning objectives
+
+ * What are we doing this week?
+   * Jess:
+     *  http://hackasaurus.lighthouseapp.com/projects/81480/tickets/45-write-up-a-goals-matrix 
+     * http://hackasaurus.lighthouseapp.com/projects/81480/tickets/22-compile-and-revise-exemplary-lesson-plans (review with OER team)
+     * http://hackasaurus.lighthouseapp.com/projects/81480/tickets/46-create-html5-slide-show (w/Richard)
+     * http://hackasaurus.lighthouseapp.com/projects/81480/tickets/26-printables-factsheets (to coincide with the lesson content)
+     * Maker Faire this weekend
+     * New Visions planning 
+   * Atul:
+     *  http://hackasaurus.lighthouseapp.com/projects/81472/tickets/54-determine-strategy-for-sharing-hacks
+   * Anna:
+     * http://hackasaurus.lighthouseapp.com/projects/81474/tickets/13-goggles-page-on-hackasaurus-website-should-match-cheat-sheet-language (inc general cleanup of the Goggles page)
+     * http://hackasaurus.lighthouseapp.com/projects/81474/tickets/11-create-movies-for-installing-hackasaurus-bookmarklet-on-firefox
+     * http://hackasaurus.lighthouseapp.com/projects/81474/tickets/16-decouple-the-websites-source-code-from-hackasaurusorg
+     * http://hackasaurus.lighthouseapp.com/projects/81474/tickets/9-remove-unneeded-files-from-the-hackasaurusorg-repository
+     * Workshop planning for 2 hack jams this week
+
+ * Stickers- Richard
+   * http://netfools.com/stickers/ - Alpha-stage prototype 
+   * Demo Google Spreadsheet for Stickers:
+            https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0AoqgT-WezUePdFpDcUxRTEJnM2d5MVRlaERXNGxFQ1E&output=html
+            (You will want to paste that link into the STICKERS webapp)
+ 
+   * Open Questions re Stickers:
+     * Which label templates should it support?
+     * Can anyone find data for A4 label templates?
+     * Please post usability gripes and grumbles
+     * Should the Stickers App have an easter egg visible only with X-ray goggles?
+
+ * Website- Anna
+   * http://hackasaurus.org/goggles/a-better-goggles-page.html
+
+ * Upcoming  Events
+   * September 15th: Hack jam at Varndean school in Brighton
+   * September 16th: Hack jam at Longhill school in Brighton
+   * September 17-18: Hackasaurus + HIVE NYC at World Maker Faire NYC http://makerfaire.com/newyork/2011/
+   * September 25- Hackasaurus at New Visions Digital Teacher Corps http://www.newvisions.org/Digital%20Teacher%20Corps
+   * October- 10-15- Hackasaurus + Hive NYC at Mobility Shifts conference http://mobilityshifts.org/workshops/
+   * October 24- Hackshop with NYPL + Pratt Library Studies students
+   * November 4-6, 2011: Mozilla Festival, London, UK
+     * https://donate.mozilla.org/page/signup/festival-save-the-date
+     * https://wiki.mozilla.org/Drumbeat/Festival2011
+   * November 9 Hackasaurus demo at CCCB Barcelona
+   * November 24-25 Hackasaurus Hackjam in Nairobi, Kenya
+
+
+
+
+Sep 6
+
+Roll Call -- who's here?
+
+ * Anna
+ * Richard
+ * Victor
+ * Enric
+ * Chloe
+ * Jess
+
+Update Conference Recap
+ * Talk notes and slides: http://lanyrd.com/2011/updateconf/sggxw/ (video to come soon)
+ * Feedback: 
+   * A few of the tweets: http://goo.gl/5Pe8X
+   * High school students got involved in the discussion on Twitter: http://goo.gl/fuBCN
+   * Can we use this as a springboard to push discussions, such as more open source in schools?
+ * Call-to-action on how people can get involved
+   * Lots of eager developers wanting to run workshops at schools now
+   * I  recommended the "STEM ambassador" scheme. Maybe we could have  "Hackasaurus ambassadors" (could be done in conjunction with the STEM  scheme)
+     * Badge for people to put on their website
+   * Perhaps on the "how to run your own hack jam" section, a "why you should run a hack jam" section with links to these resources. (see FAQs http://etherpad.mozilla.com:9000/Hackasaurus-FAQ )
+
+
+Embeddable "badges" / Wordpress widget:
+ * Hackasaurus Jam- organizer
+ * Hackasaurus Ambassador
+ * Action item: Anna, Jess, Richard to follow up and work on the bug in lighthouse 
+   * Lighthouse: http://hackasaurus.lighthouseapp.com/projects/81480/tickets/25-media-create-embeddable-banner
+ * Action item: Chloe to help us with defining the badges moving forward
+ * Action item: Anna to show us the newspaper article! http://yfrog.com/gzx5ruvrj (someone else took this photo)
+
+
+Beta Progress Update:
+
+See http://hackasaurus.github.com/hackasaurus-project-updates/
+
+We pushed items that are outside of Beta into new categories so that we can really see what we have left to do.
+
+ * data hosting- if lots of kids started using hackasaurus, wwhd?
+   * amazon s3
+ * Action item: investigate if webpad is the best way to share hacks?
+ * Action item: check out http://webpad.hackasaurus.org/ give Atul feedback
+ * Action item: educator review/ co-dev of OER tools
+ * Richard working on creating Hackasaurus stickers that can be personalized 
+   * prototype: http://netfools.com/labels/
+
+Mozilla Festival (formerly known as "DRUMBEAT")
+   * Hackasaurus game design challenge 
+     * Hackasaurus team
+     * Jono + David Humphrey + Brett
+     * + Ravensbourne students
+   * Hackasaurus Curriculum hackfest
+     * Hackasaurus team 
+     * + Ravensbourne students
+     * + dream team of educators & kids
+
+Use the tools vs. improve the tools?
+   * Target audience: definitely adults, circle back on kids
+     * Adults: some can know HTML & JS can make a parcour, ones that don't can play
+     * Make parcours for particular audiences
+   * Hack on Parcour Kit - Games where the goggles are the controllers
+     * Allows people to build own games in a choose-your-own-adventure style
+     * http://toolness.github.com/hackasaurus-parable/
+   * Self-guided curriculum styled as a game
+     * Badges. Assessments. Comics. 
+     * 
+   * Hacking journalism- art piece
+     * http://www.neural.it/art/2011/04/newstweek_mutant_news.phtml
+     * Hacking one of the news partners site -- realtime 
+     * The results could be on an HTMLpad, shareable
+ * Action item: Jess & Atul taking first shot at tweet-length recap of the parcour challenge
+ * Action item: Michelle to summarize where the festival opportunties are. 1) parcour challenge, 2) learning labs, 3) info session for educators
+
+
+
+Upcoming Events
+
+ * September 15th: Hack jam at Varndean school in Brighton
+ * September 16th: Hack jam at Longhill school in Brighton
+ * September 17-18: Hackasaurus + HIVE NYC at World Maker Faire NYC http://makerfaire.com/newyork/2011/
+ * September 25- Hackasaurus at New Visions Digital Teacher Corps http://www.newvisions.org/Digital%20Teacher%20Corps
+ * October- 10-15- Hackasaurus + Hive NYC at Mobility Shifts conference http://mobilityshifts.org/workshops/
+ * October 24- Hackshop with NYPL + Pratt Library Studies students
+ * November 4-6, 2011: Mozilla Festival, London, UK
+   * https://donate.mozilla.org/page/signup/festival-save-the-date
+   * https://wiki.mozilla.org/Drumbeat/Festival2011
+ * November 24-25 Hackasaurus Hackjam in Nairobi, Kenya
+
+Aug 30
+
+Progress update towards Beta
+ * Tools: http://hackasaurus.github.com/hackasaurus-project-updates/
+ * Jams: 
+   * User testing set up in Nairobi, NY, Boston
+   * Version 2 of 10 steps to Hack Jam for youth
+   * Updated F.A.Q.
+   * Instructions to send to people who want to list a hack jam in Lanyrd: http://etherpad.mozilla.com:9000/adding-events-to-lanyrd
+ * Website: Ticket #9 Complete but needs committing to the live site http://hackasaurus.lighthouseapp.com/projects/81474/tickets/9-remove-unneeded-files-from-the-hackasaurusorg-repository
+ * Badges: Working on draft one-page plan
+ * Games: See Victor's post 
+
+Hackasaurus Badges one-pager
+http://etherpad.mozilla.com:9000/Hackasaurus-badges
+ * Next steps: Publish as blog post(s) (Matt. with consultation from Jess & Erin) 
+   * Incorporate feedback from today's Mozilla Foundation team call
+ * Work out a Hackasaurus Badges roadmap for Q4 / Q1. With quarterly goals and metrics.
+   * Will eventually hire Hackasaurus Badges / Assessment resource. As contractor.
+
+   * Dig into assessment piece. 
+   * 
+
+Beta dashboard
+http://labs.toolness.com/temp/hackasaurus-dashboard/
+*  The sparkline next to each repository name is a graph of commits per  week over the last 8 weeks, with a maximum range of 100 commits in one  week.
+* Any tickets with a light yellow background are tagged "discuss".
+    (Anna): Love this! What about green ones for "help" and red for "blocker" -- good idea!
+
+
+Discuss "help" and "discuss" tickets
+ * 
+
+Hackasaurus.org Website metrics
+ * What do we want to measure?
+ * How will me measure it? What tool(s) should w
+
+Review Lighthouse workflow
+ * What else do we have to do to make our Lighthouse use more effective?
+
+
+
+The Festival plans
+ * event in October?
+ * plans for November
+ * 
+
+Upcoming Events
+
+ * September 5th: Update Conference (Anna giving a talk about Digital Natives) http://lanyrd.com/2011/updateconf/
+ * September (11th?): Hackasaurus Kids workshop at Barcamp Brighton 6 during Brighton Digital Festival http://brightondigitalfestival.co.uk/
+ * September 15th: Hack jam at Varndean school in Brighton
+ * September 16th: Hack jam at Longhill school in Brighton
+ * September 17-18: Hackasaurus + HIVE NYC at World Maker Faire NYC http://makerfaire.com/newyork/2011/
+ * September 24-25 Hackasaurus Hackjam in Nairobi, Kenya
+ * September 25- Hackasaurus at New Visions Digital Teacher Corps http://www.newvisions.org/Digital%20Teacher%20Corps
+ * October- 10-15- Hackasaurus + Hive NYC at Mobility Shifts conference http://mobilityshifts.org/workshops/
+ * October 24- Hackshop with NYPL + Pratt Library Studies students
+ * November 4-6, 2011: Mozilla Festival, London, UK
+   * https://donate.mozilla.org/page/signup/festival-save-the-date
+   * https://wiki.mozilla.org/Drumbeat/Festival2011
+
+ * In the works:
+   * Toronto Hacking Education Day
+   * Boston Hackfest
+   * Hive Hackshops with Educators
+   * OER at OVC
+
+Inspiration for the week
+ * http://www.dontfeartheinternet.com/
+ * http://www.codecademy.com/#!/
+ * Baby Html 
+
+
+
+Aug 24 -- Agenda
+
+Roll Call -- who's here?
+ * Matt
+ * Victor
+ * Atul
+ * humph
+ * Richard
+ * Anna
+ * brett
+ * jess
+
+How can Hackasaurus use Lighthouse more effectively?
+ * Main Hackasaurus Lighthouse page: 
+ * http://hackasaurus.lighthouseapp.com/hackasaurus
+   * @ Anna / Atul: Can we remove log-in requirement from this page?
+ * Example Web Made Movies Lighthouse pages:
+   * Overview pages:
+     * https://processing-js.lighthouseapp.com/projects/41284-processingjs/overview
+     * https://webmademovies.lighthouseapp.com/projects/63272-popcornjs/overview
+   * Milestone view:
+     * https://webmademovies.lighthouseapp.com/projects/63272-popcornjs/milestones/current
+ * Sample Bug
+     * https://webmademovies.lighthouseapp.com/projects/63272/tickets/655-timeline-plugin-needs-a-wrapper-container#ticket-655-2
+   * Tags
+     * https://processing-js.lighthouseapp.com/projects/41284-processingjs/tickets?q=tagged%3A%22parser%22
+       * tagged "parser"
+   * What is a bug?
+     * https://processing-js.lighthouseapp.com/projects/41284-processingjs/milestones/current
+   * Using with Github
+     * https://processing-js.lighthouseapp.com/projects/41284/tickets/1566-draw-anti-aliased-shapes-when-smooth-is-called
+     * https://github.com/jbuck/processing-js/network
+   * Why'd you choose to use Lighthouse instead of Bugzilla?
+     * Bugzilla: more intimidating for newcomers. + more than people generally need
+     * It's  easy for non-technical folks to file bugs. Simple, low-bar text box for  newcomers to file bugs. Then the community triages, etc., later.
+     * Lighthouse: more social way to manage bugs
+       * Overview page: helpful for people on the "edge" of the work
+ * Overview page = almost like Facebook wall / Twitter feed showing tickets pushed through stages of development
+ * Shared ticket bins. (vs. Bugzilla custom queries)
+ * Milestones and completion toward milestones provide a top level view.
+ * Created states that map to familiar Bugzilla states
+ * Challenge: difficult to manage dependcies in Lighthouse
+   * Solution: created state called "blocked"
+   * 
+
+
+Questions about using Lighthouse more effectively:
+ * Prioritizing tickets / ticket states
+   * How do you guys prioritize bugs? Do you use tags? 
+     * WMM: Adopted "time-based" train-style release style
+     * Created milestones by date
+     * Push bugs between milestones instead of prioritizing 
+       * Use community triaging / social conventions / communication 
+       * Could also use tags. e.g., "blocker"
+         * Like Bugzilla flags or whiteboard
+   * How do you drive more community participation?
+     * Frustration with Lighthouse: when you get account, it limits the number of members
+     * Must get a version of Lighthouse that will allow you to grow to the number of developers you have working on the project. 
+     * 50 is maximum number of developers on free account. 
+     * Challenge:
+       * Have to manually add developers to main account
+   * Overview pages:
+     * Bobby has found overview pages especially useful. Easy to manage and track progress. 
+     * As alternative to drowning in bugmail. 
+   * How do you make use of states and bins?
+   * How do you tie open tickets into your community calls? Do you do triage in your calls?
+   * When do you file a bug for a task vs. "just doing it?"
+     * David: we file bugs for absolutely everything
+     * A ticket saying "we need to update this documentation" / "we need to blog"
+     * Not just techincal stuff -- everything
+     * That way things don't get lost in emails / a sense that anyone can get involved and it stays accountable
+   * Linking with GitHub
+     * Possible to link directly. WMM has turned it off / doing it manually.
+         * 
+
+Tilt 3D & X-Ray Goggles mash-up
+ * Blog post about Hackasaurus mashup is at http://blog.mozilla.com/tilt/2011/08/26/hackasaurus-x-ray-goggles-mashup/
+
+ * Feedback on how Goggles currently work / bugs to file
+     * e.g., http://hacks.mozilla.org/
+     * If you turn Goggles on here, all nodes are shifted to the right
+     * Easily fixable with node.getBoundingClientRect()
+     * Please file a bug for the Goggles here:
+     * http://hackasaurus.lighthouseapp.com/projects/81472-goggles/overview
+   * What's been added to Tilt to better integrate with Goggles
+   * How to start Tilt from Goggles
+     * Easiest way: use a key combo
+     * Cannot start an extension from a web page. (No way to do this whatsoever.)
+     * Options
+       * a) start with simple key combination in the Goggles that would open Tilt.
+       * b) completely re-write Tilt in a web page. Get out of chrome environment and use HTML for it.  (but this is probably too much work)
+
+ * New version of Tilt
+   * https://github.com/victorporof/Tilt/raw/r90/bin/Tilt.xpi
+     * Liked color-coding aspect of Goggles. Applied it in this later version.
+     * Tree-like representation on the left shows what DOM looks like.
+     * Can also customize colors. Easily change themes. Get colo-picker, create your own representations.
+   * Game-like experiences / portal style transitions
+     * Not sure if this can be implemented in current version of Tilt
+     * Probably be best to make a new branch for Tilt
+     * Add new features to Tilt which don't make sense from a developer point of view
+     * Game-like experience vs. developer tool
+       * e.g., de-bugging web pages
+   * Next steps:
+     * Blogging about the project
+     * http://blog.mozilla.com/tilt/
+
+Hackasaurus Badges One-pager (draft):
+ * 5% baked draft: http://etherpad.mozilla.com:9000/Hackasaurus-badges
+ * To discuss in more detail next week
+
+Hackasaurus Beta Quest! 
+ * https://wiki.mozilla.org/Hackasaurus/Roadmap
+ * Now that we've got Lighthouse sorted, what do we need to focus on next in terms of Beta process / workflow / resources / etc.
+ * 
+
+
+
+
+
+
+ * Hackasaurus projects in Lighthouse:
+   * Tools:
+     * Goggles
+     * WebPad
+     * HackBook
+   * Jams / Events: http://hackasaurus.lighthouseapp.com/projects/81480-events/tickets?q=all
+   * Web site: http://hackasaurus.lighthouseapp.com/projects/81474-website/tickets?q=all
+   * Games: 
+   * Badges http://hackasaurus.lighthouseapp.com/projects/81475-badges/tickets?q=all
+ * Tagging tickets
+   * Tag with topic:
+     * event-kit
+     * bug
+     * feature
+   * Add sub-categories as appropriate
+     * Website: 
+     * Badges: 
+     * Events: 
+     * Tools
+       * Goggles: http://hackasaurus.lighthouseapp.com/projects/81472-goggles/tickets?q=all
+       * Hackbook: http://hackasaurus.lighthouseapp.com/projects/81470-hackbook/tickets?q=all
+       * Webpad: http://hackasaurus.lighthouseapp.com/projects/81473-webpad/tickets?q=all
+   * Flag tickets for discussion / participation
+     * "Help" tag = surface for community participation
+       * http://hackasaurus.lighthouseapp.com/tickets?q=tagged%3A%22help%22
+     * "Discuss" = surface for next community call
+       * http://hackasaurus.lighthouseapp.com/tickets?q=tagged%3A%22discuss%22
+     * "Good student project" / "Good first bug"
+       * Create this as a tag?
+ * Assigning tickets
+   * Assign to yourself -- but not others.
+ * Prioritizing tickets / ticket states
+   * [get advice from David Humphrey & Popcorn team]
+   * [same on dependency]
+ * Fancy Lighthouse stuff to explore
+   * Creating separate Lighthouse projects for each part of the project
+   * Learn more about states and bins
+   * What else can we adopt from Web Made Movies and other projects?
+
+ * Markdown
+   * A live preview for Markdown is here: http://softwaremaniacs.org/playground/showdown-highlight/
+
+Flesh out goals for Q4 2012
+ * Pathways. 
+   * 
+ * 
+ * Badges one-pager
+ * Browsing basics
+   * 
+ * Remix
+   * Text
+   * Images
+ * Make your own page
+ * Make your own web site
+ * Remix JavaScript
+ * (Programming in JavaScript?)
+ * 
+ * 
+ * Remix Javascript
+ * Persistence
+ * Social persistence
+ * 
+ * What's in scope for Q4 2012
+ * 
+ * 
+ * 
+ * 
+
+Aug 17
+
+ * Discuss with Victor possible Tilt 3D / X-Ray Goggles mash-up
+
+ * Updating roadmap for Beta:
+   * https://wiki.mozilla.org/Hackasaurus/Roadmap
+   * 
+   * http://airship.moonchaser.net/timeline/cardset_back.html
+   * http://airship.moonchaser.net/timeline/cardset_front.html
+   * 
+
+
+
+Notes on updating beta:
+
+Aug 16
+ * Roadmap to Beta
+
+   * Badges?
+     * Literacy / Safety
+       * Helping / facillitating / web ethics 
+     * Skill-focused
+       * Remixing
+       * Making
+       * Design ?
+       * [Geeking out]
+     * Participation-focused
+       * Number of jams 
+       * Facillitating / teaching, etc.
+   * what is the first Hackasaurus badge?
+   * what is the assessment criteria required to demonstrate the competency?
+
+   * Games
+     * Polished "training mission"
+       * clean up language
+       * clean up design
+   * Tools
+     * 1 pager draft for localization- and publicize to test
+     * 
+   * Website
+     * hold off on major tech decisions until Q4 when Sarah? starts
+     * work on copy in a staged wiki area
+
+
+
+
+Aug 9
+In attendance:
+ * Matt Thompson
+
+Status update: progress towards Beta
+https://wiki.mozilla.org/Hackasaurus/Roadmap
+ * Tools
+   * 
+ * Jams
+   * 
+ * Web site
+   * 
+ * Games
+   * 
+ * Badges
+   * 
+
+Hackasaurus Game Sprint
+ * Chat w. Victor Porof / Tilt?
+
+
+
+
+
+Agenda
+
+Work out details for the Aug 8 - 12 Hackasaurus game sprint:
+http://bit.ly/r8vUgX - Matt's blog 
+http://etherpad.mozilla.com:9000/Hackasaurus-Game-Sprint - planning ether
+
+ * Scope. What are we trying to build build? What are pomising minimum viable prototype ideas?
+ * Focus. How do we avoid trying to do too much and stay focused?
+ * Youth. How are we involving youth? How do we involve them at the right points in the process? 
+ * Logistics. What do we need in terms of logistics?
+   * Food?
+   * Equipment?
+   * Wifi / etc?
+ * Remote participation. How are we enabling remote participation?
+
+The Goggles Puzzle is at http://netfools.com/puzzle/
+The video is at http://youtu.be/joahQOBwnGM
+
+
+FAQ- frequently asked questions?
+
+http://hackasaurus.lighthouseapp.com/dashboard - our project tracker
+
+
+
+
+
+
+
+
+
+
+Hackasaurus Weekly Call
+Call time: 3:00pm EST Tuesdays
+Canada +1 416 848 3114 Ext. 92 Conference number 7600# 
+US or Intl. +1 650 903 0800 Ext. 92 Conference number 7600# 
+US Toll-Free +1 800 707 2533 PW 369 Conference number 7600#
+irc.mozilla.org #hackasaurus: http://j.mp/chatzilla 
+
+Aug 2
+In attendance:
+ * Matt Thompson (on vacation)
+ * Jess Klein
+ * Richard Milewski
+ * Anna Debenham
+ * Atul Varma
+ * Rafi Santo
+ * Malcolm Williams
+
+Agenda
+
+Work out details for the Aug 8 - 12 Hackasaurus game sprint:
+http://bit.ly/r8vUgX - Matt's blog 
+http://etherpad.mozilla.com:9000/Hackasaurus-Game-Sprint - planning ether
+
+ * Scope. What are we trying to build build? What are pomising minimum viable prototype ideas?
+ * Focus. How do we avoid trying to do too much and stay focused?
+ * Youth. How are we involving youth? How do we involve them at the right points in the process? 
+ * Logistics. What do we need in terms of logistics?
+   * Food?
+   * Equipment?
+   * Wifi / etc?
+ * Remote participation. How are we enabling remote participation?
+
+The Goggles Puzzle is at http://netfools.com/puzzle/
+The video is at http://youtu.be/joahQOBwnGM
+
+
+FAQ- frequently asked questions?
+
+http://hackasaurus.lighthouseapp.com/dashboard - our project tracker
+
+
+
+
+
+
+
+
+
+
+
+July 26 
+
+In attendance
+ * Matt Thompson
+ * Atul Varma
+ * Anna Debenham
+ * jess klein
+ * Dan Mosedale
+ * Geoffrey MacDougall
+ * Brett Gaylor
+ * Dave Humphrey
+ * Ben Moskowitz
+ * Jono
+ * Alina
+
+Agenda
+
+HTML5 Gaming & Hackasaurus Working Group
+
+ * Quick round of introductions & context
+   * 30-second intro on who you are and why you're interested in HTML5 gaming / Hackasaurus
+     * David Humphrey: 
+       * Tyring to find ways to build games that aren't in a box but use the web itself
+       * More collaboration amongst a bunch of standlone projects.
+     * Dan Mosedale:
+       * long-time Mozilla hacker. Working w. David Humphrey on Paladin 3d gaming engine. Many folks working on games at MoFo / Labs, etc. Understanding of how games fit w. Hackasaurus.
+     * Brett Gaylor:
+       * Working on adaptation of Cory Doctorow's Little Brother. Looking for how Little Borther might fit with Hackasaurus missions. 
+         * 2 separate initiatives: hybrid of comic book and WebGL. Looking to plant Hackasaurus mission.
+         * Create ARG-like experiences. (Alternate Reality Games)
+         * Nethernet example is close to what we're thinking.
+     * Atul Varma:
+       * Interested in creating good learning experiences. 
+       * Using X-Ray Goggles as "controller" for a game
+       * Creating API 
+     * Jono:
+       * Teaching P2PU course on HTML 5 game development
+       * Want to reduce the barrier to entry for novice game developers
+       * Especially interested in creating games that provoke creativity on the part of players instead of just asking them to do what the designer planned
+       * Interested in how we can raise the next generation of hackers
+     * Jess Klein
+       * Main interesting in games: educational experiences. Past worked at Sesame Street for games on smart phones, etc. 
+       * Also interested in ARGs. In context of Hackasaurus jams and storytelling. 
+     * Geoffrey MacDougall:
+       * Raising money for MoFo. Will try to find money for these efforts. 
+       * Spent 10 - 15 years in games industry. MMOs. Lots of contacts in ARGs -- including Nethernet. + made one of first in-browser 3D games. Happy to make introductions.
+     * Anna Debenham:
+       * Interested in learning more about how kids can build games instead of just consuming them.
+     * Ben Moskowitz
+       * Love Hackasaurus, love games (nerd basically [proudly] )<3
+     * Alina Mierlus (no audio for me :( )
+       * long-time Mozilla contributor. Worked w/ various local/small tech. communities over the years.
+       * interested in helping building the next community of (open) web makers. 
+
+
+     * Others? Please add
+
+
+ * What's in scope for Hackasaurus games? What is Hackasaurus looking for here?
+   * All sugar, no medicine. Fun, self-guided game-like experiences.
+   * Think and play like a hacker. Use basic HTML / CSS / Javascript to solve puzzles, move through the game and level up.
+     * would be cool to break the fourth wall: if we are doing narrative games, the characters should be aware the are living on a webpage
+   * "The open web is the game-space." The web as a massive Alternate Realty Game. Blur the line between reality and play. 
+   * Follow an open innovation model. Focus Hackasaurus team time on Tools & Jams. Drive community participation and innovation around Games. 
+     * establish APIs or documentation to challenge people to make games
+     * constrain it to a type of game: social, meta, arcade...
+
+ * Next steps and how we're going to work together:
+
+   * 1) Hack sprint to first minimum viable game prototype
+     * Aug 8 - 12 @ new Moz T.O. office
+     * Scope / outcome: 
+       * Prototype basic game mechanics. Whet player, game designer and developer's appetite for creating and sharing "hack mazes."
+       * Concretely: 1 or 2 hack mazes. Bust a hack, open a portal to the next page in the maze. Cool, Portal-style HTML5 transitions. 
+         * Have kids come in Aug 12 to test the prototype? (Matt Price may be able to help)
+         * Follow best practises from Buttercamp
+         * Surface as blog post and invite game designers to show up (Bobby may be able to help)
+         * 
+
+   * 2) Launch "Hack This Game" Innovation Challenge 
+     * Build infrastructure for open innovation on Hackasaurus games going forward. 
+     * MoJo style platform for submitting prototypes, sharing ideas & code
+     * Launch publicly w. Hackasaurus Beta in Sep
+     * Hack sprint at Mozilla Festival in London in November. Involve kids as co-designers
+       * Constrain with SDK. 
+       * 
+     * How do we involve kids?
+       * Run game design jams
+       * Find Game On and other HTML5 games ripe for remixing
+         * let kids remix the games by hacking the source
+     * Share cool assets & tools for developers to play with:
+       * Plug-in architecture for X-Ray Goggles (to come)
+       * WebGL.
+       * Tilt. For cool 3-d style transitions.
+       * Popcorn.js. For cinematic cut scenes, transitions, etc.
+       * Paladin? 
+       * Others? Please add here.
+
+   * 3) Clearer documentation around our thinking
+     * MATT: Blog post on this meeting and thinking to date
+     * MATT & ATUL: Update Hackasaurus roadmap accordingly https://wiki.mozilla.org/Hackasaurus/Roadmap
+     * ATUL: Blog post on "Parable of the Hackasaurus"
+     * BRETT: Follow up on possible Little Brother narrative universe / game arc
+     * BRETT: Interview / bring in Nethernet people
+     * BEN: Document Arcade game idea?
+     * Other blog posts / documentation?
+
+ * "Passive Multiplayer Online Game" (PMOG)
+ * Arcade games. Pac Man, etc. Figure out way to adapt that for hacking pages with the X-Ray Goggles.
+ * Missions and small-games. Feels like might be over-arching narratives later... but too ealry on to get there yet. Bunch of msall different experiements.
+
+ * Paladin game sprint. To be done for Q3. Hasn't come out publicly. Looking to make public splash before too long.  Current WIP is at <https://github.com/alankligman/paladin/>.
+ * 
+ * 
+ * 
+
+Types of games
+
+Interactive narrative
+    -scripted
+        -cyoa
+        -linear..etc.
+    -can be "learning experiences"
+    -can be simple, like the missions/parables, or advanced
+    -designer retains control/experience
+    -need story designer
+    -sandboxed
+
+ARG (alternate reality games)
+    -extra reality layer
+    -blends real world
+    -http://videos.mozilla.org/serv/webmademovies/nethernet.webm
+    (Nethernet, Shadow Cities...)
+    
+Metagames
+    -can the badges be the mechanic? i dont think the mechanic, but the incentive
+    -what if the "game" is a social part that works by who is earning badges?
+    -earning points—turn based games? can we "judge" hacks and you get points for sweet hacks
+    -there are leaderboards
+
+Arcade games
+passive games—they play themselves—and you interact by changing the conditions as the "god"
+    -pacman — plays itself, change a css selector to create a barrier?
+    -space invaders—plays itself, change barriers by adding a div
+     -maze game—you have a little mouse trying to escape or get some cheese.  he has his own AI routines but his movement is limited. You can remove  or create gates by using HTML, and when a gate is removed he will run  through. think chu chu rocket or lemmings
+     -there's a 4 / 4 square grid and a timer. you control a little man  trying to escape, by pressing the arrow keys to traverse the  environment. Every 10 seconds the stylesheet cycles and half the squares  become deadly.  You need to both navigate the character and  change the  style sheet to survive.
+-Tetris?
+(see Pacman DS game)
+
+Regular games that are remixable
+    A game that you can remix?
+
+What are our mechanics?
+        If X-Ray Goggles is the controller...
+            -remix things that exist
+            -discover things that are hidden in the source
+            -change CSS selectors
+            -physics and other passive processes that are affected by hacking the source
+            -achievements
+
+=======================================================
+stop here
+
+
+
+Past Meetings
+
+Upcoming Events:
+TBC: 15th September at Varndean School, Brighton UK
+TBC: 16th September at Longhill High School, Brighton UK
+
+In attendance
+ * Matt Thompson
+ * Richard Milewski
+ * Anna Debenham
+ * Ben
+ * Enric Senabre
+
+July 19
+
+Hackasaurus Draft Roadmap
+https://wiki.mozilla.org/Hackasaurus/Roadmap
+   * Sharing with Dan Mosedale & Pascal
+     * Q4 2011 / Q1 2012: more robust hack gallery / way to share hacks.
+       * Central Scratch site vs. Hackasaurus integration with other communities and sites. (e.g., Flickr, deviantart, etc.)
+     * Badges: integrate with what P2PU are doing https://wiki.mozilla.org/Badges picture: https://wiki.mozilla.org/File:Infrastructure_prototype.png
+       * Totally. Already working with Erin on this.
+     * Tools: Add localization details to Q3 beta launch
+     * Localization for web site
+       * Switching to Django
+     * Push back to Sep 15 / 30?
+       * 
+ * Does this format work?
+ * How do we make this clearer, better, easier for co-builders to participate?
+ * What's missing from Beta?
+ * How realistic are these metrics?
+
+Anna: It would be good to get some of this on the website, particularly the "what are we building" section.
+TASK: Anna: can you mock-up ways we can make the call for participation / help around building Hackasaurus Beta more prominent on the home page?
+
+
+Report-back from Barcelona hack jam
+ * 16 kids at Citilab. initial report and some pics of the hacks: https://wiki.mozilla.org/Drumbeat/StoneSoup/HTML_hacking#Hackasaurus_at_Tecnoestiu_.40CitiLab
+ * How did our localization efforts work?
+   * Spanish translation: worked well :)
+     * 
+ * Where do we need to improve our documentation for hosting your own jam?
+   * videos? (using popcornjs) as per hackbook image page http://hackasaurus.org/hackbook/images
+ * http://htmlpad.org/hackasaurio/
+
+Hackasaurus Beta Work Sprint
+ * Blog post coming later this week
+
+"Hack This Game" Innovation Challenge
+ * Launch w. Beta
+ * Turn up volume at Mozilla Festival
+   * Extension mechanism or APIs for Goggles. To make it easier to create web pages that react to things users do with Goggles, etc.
+   * Goggles as your "controller" for game.
+   * Piggy-backing off badges. Need incentives to draw gaming experts. 
+   * Ben M able to help design and scope design challenges. 
+     * Very clear ask and constraints.
+     * Give them tools to play with
+
+"Vortal" Hackasaurus Game Concept
+ * Blog post coming later this week
+ * Looking for early feedback and ideas
+
+Hack Ed Day in Toronto
+http://publics.hackinghistory.ca/2011/07/11/hack-ed-first-thoughts/
+ * 
+
+Tuesday, July 26
+Agenda
+
+"Hackasaurus Game" conversation
+ * "Hack This Game" Innovation Challenge framework
+ * "Vortal" game prototype
+ * Hackasaurus Beta sprintb
+ * Mozilla Festival 
+
+
+In attendance
+ * Matt Thompson, Mozilla
+ * Richard Milewski
+ * Malcolm
+ * Enric Senabre
+ * Atul
+ * Anna Debenham
+ * 
+ * Ricarose Roque, MIT Scratch Team
+ * Andrés Monroy-Hernández
+
+other tools:
+http://appinventor.googlelabs.com/about/
+http://code.google.com/p/catroid/
+http://www.stencyl.com/
+http://processing.org/
+http://research.microsoft.com/en-us/projects/kodu/
+http://www.automatoon.com/
+
+articles:
+http://www.readwriteweb.com/archives/to_understand_the_future_of_tech_listen_to_kids.php
+http://www.kickstarter.com/projects/evhan55/designblocks-visual-programming-for-artists
+
+kids innovation:
+http://resources.scratchr.org/
+http://wiki.scratch.mit.edu/
+Agenda July 12
+
+Hackasaurus Roadmap Update
+ * The path to Beta release in September
+ * Working on documenting this on Hackasaurus wiki & web site now
+ * Adding tickets now for the new milestone, "The First Beta": http://hackasaurus.lighthouseapp.com/projects/66492-hackasaurus/milestones/117011-the-first-beta
+
+What's in scope for the beta release? 
+ * Stable toolset with polished UX.  Stable, user-friendly versions of X-ray Goggles, WebPad and HackBook. Polished UX with consistent branding and experience across tools.
+ * "Jam in a Box 1.0" complete and ready for testing. Clear step-by-step guide for hosting your own design or hack jam for kids.
+ * Cleaned-up web site. Tweak Hackasaurus.org with updated copy and design. 
+ * Games.  Placeholder page -- with launch of Hackasaurus Games Innovation Challenge. Invite participation and co-building in this area in particular. 
+ * Establish & track clear participation metrics. Ensure we're set up to track progress and measure participation. 
+
+
+ * What can Hackasaurus learn from Scratch?
+   * Andrés Monroy-Hernandes from the Scratch team will be joining the call, and possibly a couple of other folks from the Scratch team that can talk about Scratch 2.0.
+
+   * Questions
+     * 
+   * Notes 
+     * Remixing & "how kids work on each other's work."
+     * Web site design
+       * Create something in scratch, then share it on the web site
+       * Emphasizes kids work and graphics -- rather than on their own design elements
+       * Make it easy to share stuff and get feedback from others. 
+
+   * Major innovation for Scratch 2.0: Combine creation space and community space
+     * Like moving from "MS Word" to "Google Docs"
+     * Not just view and play, but see code / authoring environment right into the browser
+     * Bringing authoring environment online. Less division between desktop and web site. 
+     * Making it easier to browse and explore the 1.9 million projects they have
+     * Many kids work really hard on a project, but disappointing when few people use it.
+
+     * Global / localization
+       * Desktop application was initially English-only. Translating not only language, but getting engine ready for localization. Engineer had to be able to ready application for scale, e.g., supporting unicode characters. 
+       * Large volunteer translation community
+       * Large web site translation community as well
+       * Try to design for a diversity of interests and styles. e.g., for animals, dancing, clothing styles, etc. Not trying to appeal to a single interest -- diversity as a core design principle. + a metric for success. 
+       * Modding Scratch. Many work on Scratch Wiki. Group or sub-teams that stick to their niche interest.
+
+     * Diverse range of motivations
+       * Art / drawing. Tool to animate their work.  See programming not as a goal, but as a way to animate their art. See it as an expression tool, not primarily a programming tool.
+         * Other tools emerging: merge between processing.js and scratch. artists interested in digital art. 
+       * Some move to Flash.
+       * Video games. Interested in designing their own games. Explore wide range of different features.
+       * 
+Scratch side projects & related tools
+codepal.me
+http://research.microsoft.com/en-us/projects/kodu/
+http://appinventor.googlelabs.com/about/
+ http://www.alice.org/
+http://code.google.com/p/catroid/
+http://www.stencyl.com/
+Processing
+DesignBlocks
+
+ * Hackbook Update (Anna)
+ *  http://hackasaurus.org/hackbook/images.php (More info on Hackasaurus mailing list: http://groups.google.com/group/hackasaurus/browse_thread/thread/82b720d7ea806bab )
+   * "Hack This" buttons
+   * Resources links
+
+ * Brighton school hack jam recap (Anna)
+   * Goggles couldn't be installed
+   * USB sticks didn't work at all
+   * Hackbook went down well, but not as intuitive as I'd hoped
+     * Need to add a getting started page with step-by-step instructions (Done this on the homepage now)
+     * More templates
+     * Copy code buttons
+     * Challenges (can you turn the background color from green to red?)
+   * Etherpad chat
+ * Solutions for next time?
+   * Making Hsaurus IE compatible
+   * Getting kids out of school
+   * Many kids didn't know how to switch between tabs (14-year-olds)
+   * 
+
+
+ * Hack session at Citilab, Barcelona - 15th July
+   * 20 kids from 10 to 12 years
+   * Idea of a small collage on a newspaper page as starter
+   * Checking hability with Google images first
+   * Will follow steps at http://hackasaurus.org/teachers/
+   * Eliciting/practising around one or two pages only
+   * Some kids would present their hacks in front of a chroma key
+   * Small Firefox pins as rewards for hacks Anna: I resorted to cupcakes as bribes with the Brighton hack jam (the kids were very naughty!) Worked very well. :)
+   * State of localization
+     * X-Ray Gogles Dialogues
+     * http://htmlpad.org/hackasaurio/
+     * http://htmlpad.org/profesaurus/
+
+New locations, New plan of attacks! (Malcolm)
+ * Researching the interest of the targeted audience.
+ * Befriend the Cybernavigators and allow them to have ownership in their space. Respect their Abode! 
+
+ * Bite size and quick hits (halloween size treats)
+   * One tool in one day!
+   * Basic missions
+   * The Open Web is so large that we need to direct our users for focus.
+                Share, Share out and Follow Up!
+http://etherpad.mozilla.com:9000/Chicago-Hack-Jacker
+http://etherpad.mozilla.com:9000/Chicago-CyberSands
+ * Rapid prototyping format, growth in failure.
+
+ * Questions
+   * How can we help?
+
+
+
+
+
+July 5 Hackasaurus Community Call is CANCELLED
+ * Normal calls will resume again July 12
+
+
+
+
+
+
+
+
+Agenda June 28
+
+Boston hack jam (Nigel Jacob / Chris Osgood)
+ * Boston Mayor's office interested in doing one or more HackDay-type events for highschool / middleschool students through the summer.
+ * G
+   * Question: What age range are we looking at? Hackasaurus is mostly focused on tweens.
+ * We could have members of the Hackasaurus team come and do one or two workshops. 
+ * Or train high school seniors early summer to run workshops for younger kids later in the summer.
+
+ * Questions & next steps
+   * 
+
+Toronto hack jam
+ * 1. http://publics.hackinghistory.ca/2011/06/23/digital-humanities-for-grade-6/ This  is a blog post for public consumption, on the site we use to talk about  our digital outreach programs at the History Department (U of T)
+ * 2. http://clinton.hackinghistory.ca/2011/06/23/summary-links-to-student-projects/ I  wrote this for the kids & teacher in the class I worked with.  The  kids' first names are mentioned in a bunch of places on the site (which  is probably temporary -- I just set it up to have a place to store links  that the kids needed for assignments), and I haven't gotten any kind of  waivers from parents so PLEASE don't share the second link with  anyone.  It's worth looking at, though, because it contains links to the  various individual projects the kids ended up forking off of a template  page I put up on Jsbin.
+
+ * I  think teachers (and hopefully parents) would come in droves to an event  like the one we talked about last week -- a day-long showcase of  different educational hacking projects (a HackEd Jam? HackEd Day?  I'm  terrible with  titles).  The teacher's I've spoken to all say it makes  the most sense to hold it about 2 weeks after school starts.  Definitely  looking forward to planning that if you're still up for it.
+
+Successfully moved from Goggles to Jsbin
+Teaching kids "to be hackers" rather than just "how to use this tool
+
+ * Questions & Next Steps
+   * Very interested in helping to support this. Especially if you can drive / take a lead role in organizing. 
+   * How do we move from one-off jams to longer-term learning. 
+     * 
+   * Setting up laboratory for ongoing Hackasaurus curriculum
+   * 
+
+Chicago Hack Jams
+http://etherpad.mozilla.com:9000/Chicago-Hack-Jacker
+
+New locations, no plan of attacks! 
+ *         Research the interest of the targeted audience.
+ *         Befriend the Cybernavigators 
+ *         Bite size and quick hits (halloween size treats)
+
+Goal
+ *         Supportive Points (no more than 3)
+ *         Aim to fail? (Introducing the Process of Prototyping)
+ *         Product! 
+
+
+
+Hackasaurus: Computing at School event report-back (copied across from the Drumbeat call)
+   * "Teaching Hackasaurus to teachers"
+     * Mostly high school teachers. A few primary school teachers.
+     * A few ICT consultants
+       * Really popular topic, full room and people queuing out the door
+       * Teachers really enthusiastic and said they'd use it in lessons
+       * Collaboration theme worked well
+   * Feedback from organiser: "In the "What might you do differently ..." section of the feedback form many folk mentioned "inventive ways of using the web" as something they would like to use more in the classroom."
+   * Writeup: http://maban.co.uk/57 TODO: add blog to Yahoo Pipes (Can Atul help me?)
+   * "Firefox on a Stick"
+     * Many computers don't allow you to run programs off a USB stick
+       * e.g., TedX Kids event: firewall. 
+     * Proxy settings? That need to be set up in browser for educational environments. 
+
+ * TASKS: 
+   * Anna: can you create a "Hackasaurus for teachers"
+   * Question for group: does draft "technical checklist / troubleshooting"
+     * Piece out technical checklist and add it to wiki
+         * http://etherpad.monezilla.com:9000/hackasaurus-technical-checklist
+       * Need to pull from here:
+         * http://etherpad.mozilla.com:9000/jammin
+       * 
+
+
+Browser address bar issues
+Interesting post on how Firefox removing the http:// or even javascript injetion in the address bar might affect Hackasaurus: http://blog.babelzilla.org/2011/06/25/is-the-death-of-the-address-bar-programmed/
+"the use of JavaScript in the address bar was an easy entry point to start hacking web pages"
+One  of the comments: "Unfortunately, a disconnect will occur in future when  a person tries to write their first HTML code containing a link."
+Shall we write a response?
+
+Upcoming events:
+ * Coding for Kids at London Hackspace http://london.hackspace.org.uk/ (date and details tba)
+ * Barcamp Brighton 6 on the 10th-11th September http://2011.barcampbrighton.org/ (still organising but there will be a youth section of this)
+ * Hack Jam on 8th/15th July at Citilab (Barcelona)
+   * None of these events are showing up at Hackasaurus.org I
+   *  haven't added mine because they haven't been confirmedW
+     * What's our process for adding events to Lanyard going forward? 
+       * Let's review and add in each week's call? Good idea :)
+       * Anna can you own this? Yeah :p Sweet! more work for Anna. :)
+       *  Log in using Hackasaurus twitter account, add the event and click "attend"
+
+An experimental puzzle to solve using X-ray Goggles: http://netfools.com/puzzle/
+    Is this useful?   Too hard?  Too easy?  Goggle the div that holds the caption for a hint. - That's awesome!
+
+Agenda June 21
+
+Roadmap
+Atul took a bit of a vaction from work + vacation from Hackasaurus last week, so he hasn't done much work on the Roadmap since last week's meeting. :(  What are next steps on this?
+ * Tools / Games / Jams
+ * (would it be useful to have a glossary? and then simplify the glossary by coalescing terms, etc? maybe that is too hard-core.)
+
+Hackasaurus Banner
+For use on pages that don't share the site's navigation such as the hackbook and Web Pad
+http://dl.dropbox.com/u/228132/hackasaurus/hackasaurus-header.jpg
+http://dl.dropbox.com/u/228132/hackasaurus/hackasaurus-header.png
+http://hackasaurus.org/hackbook/
+One header to rule them them all: Anna and Jess to work on next iteration
+
+
+Hackasaurus Banner / Widget for Hackasaurus Friendly Websites?
+Should we try to encourage some sites to bury easter eggs in their source that can only be found with X-ray goggles?   (think XKCD tooltips).+1 
+-once we grow up and have version 1.0 out
+-could be a fun task for a hack jam +1 great idea
+-could be fun to do if we do a world wide web scavenger hunt
+
+Thoughts on things to do with X-ray goggle missions.  http://netfools.com/anaglyph/
+
+
+Mentorship
+83 people signed up (54 as mentors, 30 as mentees) from all over the world
+The form: http://goo.gl/iefna
+Really rubbish draft of a page on the scheme: http://scrunchup.com/mentorship/
+
+
+Hackbook has shipped! :)
+Hackbook now on Hackasaurus http://hackasaurus.org/hackbook (trying out the banner)
+TODO: add link to hackbook from hackasaurus
+
+Skype
+Atul Skyped w/ Anna and found it to have significantly better audio quality than the regular Mozilla teleconference line. Is it possible to have meetings on Skype instead of the Teleconference?
+
+Library Survey
+James Socol and Atul are putting this together: http://etherpad.mozilla.com:9000/libraries Was thinking we could make a surveymonkey survey and send it to a bunch of folks we know, as well as library folks who signed up on the recruitment form of hackasaurus.org.
+loving this +100000, not just for libraries. 
+Let's add to "tech checklist" +1/ event kit
+
+Atul video on X-Ray Goggles
+http://videos.mozilla.org/serv/webmademovies/atultroll.webm this is so cool! :D (and terrifying)
+
+
+All My Etherpads
+Related but not strictly on-topic, Atul made "All My Etherpads", a simple app for keeping track of etherpads and being able to read them offline (or if the etherpad server goes down): http://etherpal.org/  You can automatically install all the Hackasaurus-related etherpads into it with this link: http://bit.ly/mq5Ruk
+
+Computing at School teacher conference workshop on Friday
+Outline: http://etherpad.mozilla.com:9000/hackasaurus-workshop-hackbook
+X-Ray Goggles going down well with teachers: http://www.tes.co.uk/teaching-resource/Web-X-Ray-Goggles-by-Hackasaurus-6074624/ (get testimonials on site?)
+
+JSbin Updates
+selectable live preview and HTML view http://jsbin.com/
+
+Chicago Hack Update:
+Student feed back 
+Trajectory of their Generation
+New DYN spaces
+ * 
+
+Events
+Make It or Fake It Jam: (superhero themed jam)
+     * Participants:
+       * identified problems with the web (firewalls, not having access to sites at their schools,etc.)
+       * designed superhero characters to fight these problems
+       * wrote bios for these characters using blogs (tumblr)
+       * designed visual representations for their avatar using aviary, legos, pencils
+       * made up news stories about their characters fighting web crimes by hacking into news sites
+       * Remixed all of the ingredients and "pitched" their characters and websites in the "Superhero Lounge" team meeting
+     * Images: http://www.flickr.com/photos/eyebeam/sets/72157626858090645/
+     * Tumblr: http://makeitorfakeit2011.tumblr.com/
+     * Event Plan: http://etherpad.mozilla.com:9000/Hackasaurus-Q2L
+
+
+
+
+
+Agenda June 14
+
+Roll Call:
+ * Matt Thompson
+ * Jess Klein
+ * Malcolm Williams
+ * Chris Lawrence
+ * Rafi Santo
+ * Richard Milewski
+ * Anna Debenham
+ * Atul Varma
+ * Enric Senabre
+
+
+What are we shipping this week?
+ * Easy remix?
+   * Extremely positive response to user testing.
+   * Code still needs refining before shipping. 
+   * Make dragging and dropping functionality more evident to users.
+     * How do we do this?
+       * ? See Gamestar and other UX for inspiration
+ * Hackbook? Latest version here: http://scrunchup.com/hackbook
+   * New page here: http://scrunchup.com/hackbook/colors.php < What do you think?
+   * Need to make sure that the look and feel of all tools are done in concert
+   * Anna needs a bit of help from Atul to push. (Thursday)
+     * Step 1) Add to "Tools" page
+     * Step 2) Look for ways to incorporate into UX for Goggles and WebPad
+       * Can "drag" elements into Goggles interface
+ * Any curriculum / events stuff we haven't published yet?
+   * 1-hour session from TedX kids?
+     * On wiki -- could be added to Events page as well
+     * Wiki as prototype space for shipping to web site
+     * 
+
+10-minute sprint on National Writing Project Hack Jam
+http://ietherpad.com/hupUZkYycA
+
+
+Road map sprint 
+ * Next steps on road map for
+   * 1) Tools: http://etherpad.mozilla.com:9000/Hackasaurus-tools-roadmap
+   * 2) Web site
+   * 3) Events: http://etherpad.mozilla.com:9000/Hackasaurus-eventroadmap
+   * 4) Games / Learning: http://etherpad.mozilla.com:9000/Hackasaurus-glroadmap
+   * 5) Badges
+   * 6) Branding / Identity
+
+Atul made a skeleton "official" road map wiki page here: https://wiki.mozilla.org/Drumbeat/Hackasaurus/Roadmap
+
+
+Getting kids started with X-ray goggles: http://youtu.be/joahQOBwnGM 
+
+Hackasaurus Research Plans (Rafi)
+ * Original research proposal for studying Hackasaurus and how it promotes Hacker Literacy: http://ietherpad.com/wXmjT3Zes1 Was oriented around
+   * seeing how Hackasaurus helps promote understandings that the web is remixable, and potentially looking at how youth change their behavior in relation to other areas of technology/web as a result of that. 
+   * gathering data that would allow iterative design processes to happen on Hackasaurus.
+     * What do we want to know about Hsaurus that we don't know yet?
+     * Who for? Funders? Educators? etc.
+     * What kind of data would we want to collect? How would it be collected? 
+       * 
+
+
+Hack jam in BCN
+ * More videos like http://youtu.be/joahQOBwnGM (like one more general about the Goggles use/possibilities)?
+ * Possibility of translation of http://hackasaurus.org/goggles.php & its messages
+ * Recommended pages to hack (like Google main page or Facebook)
+
+
+Agenda June 7
+
+Discuss call structure
+ * Development / Web site 
+ * Curriculum / Events
+
+Road map sprint 
+http://etherpad.mozilla.com:9000/Hackasaurus-roadmap
+ * Next steps on road map for
+   * 1) Tools
+   * 2) Web site
+   * 3) Events strategy
+   * 4) Games / Curriculum
+   * 5) Badges
+   * 6) Branding / Identity
+
+Mapped against:
+   * a) now 
+   * b) 3 months 
+   * c) 6 months 
+   * d) 12 months 
+   * e) 24 months
+
+ * Question for Atul: does Labs have a product roadmap template we should follow?
+   * Would it make sense for Atul doing a quick blog post outlining:
+     * overall vision
+     * challenges
+     * resource constraints / places where having help would allow us to go faster
+     * choices / trade-offs
+   * Look at roadmaps for existing projects
+     * Look at Firefox roadmap: https://wiki.mozilla.org/Firefox/Roadmap
+     * Sample_MRD (Word Doc): http://dl.dropbox.com/u/21334608/SampleMRD/Sample_MRD.doc
+     * Sample_MRD (for MacOS Pages): http://dl.dropbox.com/u/21334608/SampleMRD/Sample_MRD.pages
+     * Both of the Sample_MRDs are empty templates right now.
+
+
+
+Web site update (10 min)
+"Train system" with new web site releases every two weeks?
+Prioirites for next version of site: 
+ * 1) Testing and improving front page
+   * Is "Get Started" sufficiently clear? Add big green "GO!" button?
+ * 2)Testing & Improving the X-Ray Goggles page for kids http://www.hackasaurus.org/goggles.php
+   * Blog post asking for help with kid-testing?
+   * Any improvements we want to make first?
+     * Jess will do user testing June 16
+     * Anna ask for user testing through Scrunchup - etc.
+       * Anna needs to be added to the Hackasaurus blog
+       * Matt to send Anna & Richard Google account info & sign into Yahoo Pipes.
+ * 3) Adding WebPad page
+ * 4) Implementing HackBook http://scrunchup.com/hackbook
+
+
+Debrief from TEDx Kids (10 min)
+   * Great list of links and media from Jess in Drumbeat call notes: http://etherpad.mozilla.com:9000/Drumbeat-Monday-community-call-June
+   * Matt created this Hackasaurus TEDx Kids gallery:
+     * http://www.flickr.com/photos/hackasaurus/galleries/72157626900355034/
+
+ * To discuss:
+   * What did we learn?
+     * 
+     * 
+   * Where do we need to follow up?
+     * OLPC? Other partners?
+     * 
+   * Blog posts and updates. Make sure we document our success and recent developments.
+     * Matt's post on TEDx Kids success and what it means ("Maker Kids," Mozilla and the future of school) will publish Wed am
+     * Add 1-hour lesson plan to web site "events" page and wiki page
+
+Upcoming events updates (10 min)
+ * Added to Lanyard?
+ * Chicago
+ * UK
+ * NY
+ * BCN (July)
+   * https://wiki.mozilla.org/Drumbeat/StoneSoup/HTML_hacking
+
+
+
+
+Agenda May 31
+
+Roll Call (Please add your name here):
+ * Anna
+ * Dietrich
+ * Malcolm
+ * Matt
+ * Richard
+ * Dan
+
+Complete final web site tweaks
+
+DEPLOYMENT PLAN
+Anna: please get final proof from Matt / Jess / Atul  before pushing to live
+
+Fix footer behavior
+ * Footer disappering. Lots of extra blank space above the footer now on some pages. 
+ * Anna investigating
+   * When firebug turned on, problem dispappears.
+
+X-Ray Goggles Page
+   * Version now on dev:
+     * http://hackasaurus.org/dev/goggles.php
+   * Next version (mock-up):
+     * https://wiki.mozilla.org/images/2/21/X-Ray_Goggles_landing_page.001.jpg
+
+   * Copy for next version:
+     * Step 1) Install X-Ray Goggles
+       * Drag the X-Ray Goggles up to your web browser’s bookmarks toolbar:
+         * Having trouble? Make sure your browser’s bookmarks toolbar is turned on. (How?) [http://support.mozilla.com/en-US/kb/how-do-i-use-bookmarks#w_how-do-i-turn-on-the-bookmarks-toolbar
+       * Step 2) Turn them on
+         * Click on the X-Ray Goggles to activate. (Warning: may alter reality.)
+       * Step 3) Bust your hack
+         * Go to your favorite web page. Mouse over any element.  Hit “R“ to remix it.
+           * Flickr gallery of sample hacks: http://www.flickr.com/photos/hackasaurus/sets/72157626727930269/
+
+         * CONTROLS
+           * REMIX: Remix an element using HTML.
+           * INSPECT: Learn more about the element.
+           * TEAR: Copy and paste the code  to remix on your own page.
+           * OFF: Hit “Esc” to deactivate.
+
+ * ATUL / JESS: Provide approved "browser support" language. What browsers do we support right now?
+ * Matt sent request to them via email.
+
+FRONT PAGE
+http://hackasaurus.org/dev/
+
+Front page gallery
+Use this Flickr set: http://www.flickr.com/photos/hackasaurus/sets/72157626726140401/
+ * Ensure blank white image doesn't appear
+ * Anna has worked out what this is, still sussing out a way to fix it.
+
+Tweak front page copy
+ * Lower case "s" for: "Get started:"
+
+Tools page
+http://hackasaurus.org/dev/tools.php
+Change copy to: 
+
+X-Ray Goggles
+See into the web and change it. Like hacking the Matrix.
+
+WebPad
+Make your own web page in seconds. Create and collaborate in real time.
+
+"Tools" Sidebar
+e.g., http://hackasaurus.org/dev/events.php
+Use the copy above for the tools in the sidebar for all pages as well.
+
+Events Page
+http://hackasaurus.org/dev/events.php
+add a photo across the top (at 50%)
+http://farm6.static.flickr.com/5150/5644418538_87889e72fc.jpg
+
+Replace existing copy with this:
+
+Host your own hack jam
+Hack jams are desiged to make webmaking social, learner-focused and fun. Learners make, create and share together using Hackasaurus tools and un-curriculum.
+
+We're working  on a "Host Your Own Hack Jam" kit to make it easy for anyone to host their own event. In the mean time, check out these resources on hosting your own hack jam:
+ * Hack Jams 101: Building Your Toolkit
+ * http://jessicaklein.blogspot.com/2011/04/youth-design-jams-101-building-your.html
+ * Earth science hack jam at the New York Hall of Science
+ http://jessicaklein.blogspot.com/2011/04/earth-day-my-carbon-footprint-3d-design.html
+ * The best Hackasaurus event ever http://openmatt.wordpress.com/2011/04/26/best-hackasaurus-event-ever/
+ * Hackasaurus at TEDx Kids http://openmatt.wordpress.com/2011/04/20/hackasaurus-attacks-tedx-kids/
+ * Video from Chicago Hack Jam: http://vimeo.com/21185874
+
+ABOUT Page
+http://hackasaurus.org/dev/about.php
+
+Add open version of Vimeo video:
+
+<div class="video-js-box">
+<video class="video-js" width="480" height="270" poster="http://videos.mozilla.org/serv/webmademovies/hackasaurus-still-from-dml.jpg" controls preload><br />
+<source src="http://videos.mozilla.org/serv/webmademovies/hackasaurus_spotlight.mp4" type="video/mp4"><br />
+<source src="http://videos.mozilla.org/serv/webmademovies/hackasaurus_spotlight.ogv" type="video/ogg"><br />
+<img src="http://videos.mozilla.org/serv/webmademovies/hackasaurus-still-from-dml.jpg" width="480" height="270" alt="Poster Image"><br />
+[<em>There's an HTML video here—load this post with your open-video enabled browser</em>.]<br />
+</video>
+</div>
+
+Tweak headline copy on about page
+Change: "Turning the web into a remixable learning environment."
+To: "Remixing and tinkering with your favorite web sites" 
+
+Change: "Gaining hacker habits and life skills."
+To: "Gaining webmaker skills for the digital world"
+
+
+
+
+
+FOR NEXT RELEASE:
+
+Games Page
+http://hackasaurus.org/dev/games.php
+ * Reduce size of photo 50%
+ * https://secure.toolness.com/webxray/missions/one/  
+   * Correct spelling: 
+     * First page of mission. "rendezvous"  is spelled "rendevous" at the botom of the page. 
+   * For "mission complete" page, change text to:
+   * "Typing something that starts with javascript: into your address bar is like injecting something into the Website you’re looking at."
+
+   * SSL warning. Investigate SSL mixed-content warning in Mission 2
+   * Saving JS bookmarklet. In  Mission 2, you might want to have the kids save the JS as a   bookmarklet on the bookmarks toolbar. At Mission 3, you say "do what  you  did in Mission 2 to turn on the goggles!", but that assumes that  the JS  is still in the clipboard. Whole lot of magic there that could  go  wrong. A bookmarklet makes the goggle toggle a single-click affair.   Especially because in Mission 3 involves toggling a couple of times.
+   * Ending after mission 3. Are there missions after 3? It just kind of ends there, with no next mission, and now "where to go from here!" closing text.
+
+   * WedPad Page 
+     * http://hackasaurus.org/dev/webpad.php
+       * Let's hold off on this page for now. Until we can talk about how best to embed the field and javascript right in the landing page.
+
+     * Add HackBook
+     * With snippets of copy / pastable HTML code. Like "lego" you can play with in the Goggles or WebPad:
+     * http://scrunchup.com/hackbook
+       * Useful   to include way to collect / flag group of snippets (i.e. is there a  way  to collect and keep track of a user's desired lego pieces to snap   together) I like this idea :) Also been thinking about a way to 'live   edit' some of the bits of code like change the colours/images
+
+     * TASK: Add Hackasaurus header to WebPad (Jess/ Anna)
+     * TASK: Edit and simplify the explanation text (Jess/ Anna/ Matt)
+
+For next week's call:
+ * Explore Mentorship 
+   * Find say and effective way to pair up web professionals with young webmakers
+
+ * Explore Hackasaurus volunteer help desk
+   * Hackasaurus help desk. Public chat with approved Mozilla contributors / staff in IRC on the back end. Facebook group?
+
+Chicago HackJam:
+Postponed until another Thursday. Date: x?
+ * One  of the other Mentors held a panel/ youth summit on YouMedia Student  Feedback.  Same day and time as the HackJam with the student that wanted  to participate. 
+
+Pro:
+ * More involvement with DYN and Library Team
+ * Students showed to be interested the Jam Session
+ * Lines of communication Open
+ * A Bridge to how MoZilla’s HackJam can Help DYN
+
+Con:
+It didn’t happen!
+
+
+Agenda May 24
+===========================
+
+Roll Call (Please add your name here):
+ * Jess Klein
+ * Open Matt
+ * Anna
+ * Richard Milewski
+ * Malcolm
+ * 
+ * 
+ * 
+ * 
+
+
+Meeting format;
+ * Should we have 1/2 hour dedicated to Tools + Development and the second 1/2 to Events + Curriculum?
+
+Roadmap:
+ * We should talk about a 6-month project roadmap. Putting this at the beginning of the meeting b/c we were supposed to do this at the beginning of the last meeting but somehow it got pushed to  the end, and at that point we didn't have enough time to discuss it. - Atul
+   * We need to simplify this version:
+     * Hackasaurus Roadmap draft --> http://etherpad.mozilla.com:9000/Hackasaurus-roadmap
+       * Break roadmap into 4 pieces. Roadmapping: 
+         * 1) Tools (Atul & others)
+         * 2) Web site (Matt, Anna, Jess & others)
+         * 3) Curriculum / missions (Atul & Jess?)
+         * 4) Events (Jess w. Malcolm & Anna?)
+       * Mapped against 
+         * a) now 
+         * b) 3 months 
+         * c) 6 months 
+         * d) 12 months 
+
+Board Slides:
+ * http://etherpad.mozilla.com:9000/Hackasaurus-board-slides
+ * Do we need to add anything to these? -Atul 
+   * Not yet -- Matt will produced 2nd draft and post as blog post for feedback.
+
+Tool Update (Atul and Dan):
+ * List of new features added to Goggles:
+   * http://mzl.la/lTsHAX 
+     * --> Atul can you create this as a blog post?
+       * You could list the new features you've just added. And then use that as a springboard the questions you just mentioned around the tools roadmap going forward.
+       * The questions you're raising are actually interesting analysis for the project. Would be good to surface that analysis.
+       * Along the lines of: "This is where we're at now. And here are the key questions we're grappling with right now as we refine our roadmap for the next 3 to 12 months." 
+         * Would be good to surface the questions you're raising:
+           * What are the trade-offs we need to consider making?
+           * e.g., Is sharing more important than CSS? 
+           * How do we define sharing, and design and build around it in a scalable way?
+         * And also: specifically highlighting areas where help / more dev resources would help us go faster. 
+         * Good way to get input from key stakeholders that will help shape our roadmap. 
+
+ * tear feature
+ * data viz
+ * Hacktionary
+ * Mentorship scheme (if time at the end)
+   * 
+
+
+Event Update:
+ * Digital Youth Network Jam- Malcolm http://rafikiinteractive.tumblr.com/
+   * How's attendance looking? Between 10 ~ 20? I don't trust kids!
+   * What help do you need? Mind control over kids!
+   * http://www.w3schools.com/html/html_quick.asp
+   * http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro
+     * Anna has been pushing for the exact same idea
+       * Hackbook:
+         * http://dev.maban.co.uk/hacktionary/index.php
+       * When can we start sharing this??? 
+             * http://alliedmedia.org/
+             * 
+ * Adding events to Lanyrd
+ * Computing at school conference http://lanyrd.com/2011/computing-at-school/ session: http://lanyrd.com/2011/computing-at-school/sdzxh/
+ * Brussels: http://etherpad.mozilla.com:9000/1hourlesson
+ * National Writing Project (http://www.nwp.org) Hack-Jam: http://ietherpad.com/hupUZkYycA
+   * We still need to help them out from last week. Pasting links into their etherpad.
+
+Skype Chat about Web Site
+ * Matt
+ * Jess
+ * Anna
+ * Malcolm
+ * Richard
+
+Interesting new tool:
+http://html5demos.com/contenteditable
+http://annevankesteren.nl/test/contenteditable-style.htm
+
+
+Matt, Jess and Anna website mtg:
+===========================
+
+
+Review web site updates:
+
+ * http://dl.dropbox.com/u/5445372/lookandfeelv1.jpg    -VERSION 1
+ * http://dl.dropbox.com/u/5445372/lookandfeelv2.jpg    -VERSION 2
+ * http://dl.dropbox.com/u/5445372/tools_lf_v1.jpg         -TOOLS V.1
+ * http://dev.maban.co.uk/hackasaurus/#
+ * MATT's BRANDING TWEAKS (a couple important ones here)
+   * http://mzl.la/kK1XUH 
+ * Incorporating some immediate feedback (dirty prototype):
+ * http://dl.dropbox.com/u/5445372/Screen%20shot%202011-05-24%20at%204.05.26%20PM.png 
+
+Tweaks and updates:
+ * HOME PAGE
+ * http://dev.maban.co.uk/hackasaurus/index.php
+   * TASK: Update copy (Matt)
+     * Matt to submit copy for all pages
+   * TASK: Replace logo (Jess)
+   * TASK: Update branding and copyright styling. 
+     * Copy footer style from http://hackasaurus.org/
+   * TASK: Update nav items (Matt)
+     * "Leave 'Missions' in Main nav and add "coming soon" link to page. (With link to Curriculum section of wiki page for educators / co-builders.)
+   * Icons- hacktionary, goggles, htmlpad
+   * TASK: replace about text with gallery 
+     * either one image or stream
+     * MOCK-UP: 
+   * 
+   * X-Ray Goggles Page
+   * make buttons - Jess
+   * http://dev.maban.co.uk/hackasaurus/tool.php
+   * TASK: Make it dead simple to install, turn on and try out the Goggles (MATT: copy)
+     * 1: Install your Goggles
+       * a) Drag and drop this to that
+       * b) 
+       * c)
+         * You have to have browser x, y or z. 
+           * "You need to upgrade your browser"
+     * 2: Turn them on
+       * 
+     * 3: Try them out
+       * Hover
+       * Edit
+       * Remix
+
+   * HTMLpad Page
+     * TASK: Make decision about name (MATT: start email thread)
+       * 
+     * 1) Start your page. 
+       * Type in a name. Click on the link.
+     * 2) Add some stuff to it.
+       * Write some code. 
+       * Copy and paste snippets from the hacktionary. 
+       * Or copy from your favorite web page. 
+     * 3) Presto! You just made a web page.
+       * Keep editing and remixing it. 
+       * Share it with friends.
+       * Bookmark it. So you can remember how to come back to it later. (Or just use the awesome bar.)
+       * 
+     * TASK: Add Hackasaurus header to HTMLpad (Jess/ Anna)
+     * TASK: Edit and simplify the explanation text (Jess/ Anna/ Matt)
+       * Add link to Hacktionary
+         * style
+         * text
+         * image
+           * "Add Pokemon picture"
+           * "Add video" 
+           * Make Pokemon look less lame
+           * 
+       * Add a few jucier snippets
+       * Make link to see your preview more obvious
+
+ * GALLERY:
+   * Pull from Hackasaurus (Anna)
+
+ * Events page
+   * TASK: Add short description / "session details"
+   * 
+   * TASK: walkthrough of how to download the Goggles
+   * 
+   * Wireframes for "release" version:
+     * http://www.flickr.com/photos/jessicaklein/5707050348/
+     * http://dl.dropbox.com/u/5445372/hackasaurus_homepageWF.pdf
+     * http://dl.dropbox.com/u/5445372/hackasaurus_backpackWF.pdf
+     * http://dl.dropbox.com/u/5445372/hackasaurus_eventsWF.pdf
+     * 
+
+   * Hacker Heroes: http://flic.kr/p/9J4euy
+
+   * NEXT STEPS:
+     * Agree on & finalize beta wireframe
+     * Graphic design & image sourcing
+     * Action plan for implementation
+       * Produce look and feel version
+       * Refine copy/ language for site
+       * Cut up .PSD
+       * Implement 
+         * (Who's going to implement?)
+
+       * Timelines:
+         * Look and feel version done: DATE
+         * Ready for review on staging: DATE
+         * Pushed to production: DATE
+
+
+
+
+Agenda May 17
+
+Roll Call:
+ * Matt Thompson
+ * Jess Klein
+ * Atul
+ * Dan
+ * Malcolm
+ * Ian
+ * Paul Oh (NWP - what is nwp?)(Hi Dan, NWP=National Writing Project. We are doing a Hack-Jam in Philadelphia in late June = cool! :) )
+ * Christina (NWP)
+ * Rafi Santo
+ * Lukas
+
+ * Preparation for TedX Kids, Brussels: June 1
+   * http://openmatt.wordpress.com/2011/04/20/hackasaurus-attacks-tedx-kids/
+   * This is a HUGE opportunity for the project
+     * Where do we stand?
+     * What new features & assets will we have ready?
+     * What do we still need to get done before June 1?
+       * How do we ensure each kid comes away with a cool shareable artifact in just 60-minutes?
+         * Strategy:
+           * 1) Have an awesome ice-breaker
+           * 2) Kids bust first hack. Help each other with hacks.
+             * "three steps to your first hack"
+               * 1) install goggles
+               * 2) click on object to remix
+               * 3) remix the code.
+               * 4) yay! you just busted your first hack
+               * 5) share your hack.
+           * 3) Move to HTMLpad.
+           * 4) Kids create first page using snippets
+           * 5) Kids come away with a shareable artefact
+
+ACTION ITEM: JESS + ATUL work on making the recipe
+
+       * To do list
+         * 60-minute practise session
+         * work with Mark on talk- jess and atul
+         * stickers / takeways with web site
+
+ACTION ITEM: JESS + ATUL work on making the recipe
+
+
+ * June 1 Web Site Sprint
+   * We need a quick teen-friendly facelift for hackasaurus.org
+   * Need to have it ready for the world by June 1
+   * Proposal: focus on a "quick and dirty" facelift for June 1 ("beta")
+   * Then do have a polished re-design ready for Sep 1 ("release") 
+
+   * What are our goals for the June 1 web site?
+     * 1) Make it extremely simple for users to start playing with the tools. a) activate Goggles and b) dive into HTML pad
+     * 2) Enable co-building. Provide smarter entrance-points into the project. 
+     * 3) Show off cool hacks. These help people "grok" what's cool and exciting about remixing stuff with the goggles.
+
+   * Proposed wireframe for "beta" June 1 version:
+     * http://mzl.la/l0PWWp 
+   * 
+   * Wireframes for "release" version:
+     * http://www.flickr.com/photos/jessicaklein/5707050348/
+     * http://dl.dropbox.com/u/5445372/hackasaurus_homepageWF.pdf
+     * http://dl.dropbox.com/u/5445372/hackasaurus_backpackWF.pdf
+     * http://dl.dropbox.com/u/5445372/hackasaurus_eventsWF.pdf
+     * http://dev.maban.co.uk/hackasaurus/#
+
+   * Hacker Heroes: http://flic.kr/p/9J4euy
+
+   * NEXT STEPS:
+     * Agree on & finalize beta wireframe
+     * Graphic design & image sourcing
+     * Action plan for implementation
+       * Produce look and feel version
+       * Refine copy/ language for site
+       * Cut up .PSD
+       * Implement 
+         * (Who's going to implement?)
+
+       * Timelines:
+         * Look and feel version done: DATE
+         * Ready for review on staging: DATE
+         * Pushed to production: DATE
+
+ * Dan Morris
+   * http://ietherpad.com/Miti0r9UB3
+   * Dan's etherpad fb hack: http://htmlpad.org/dansfirstfbcanvasapp/ 
+     * (currently broken - hehe. too much fiddling)
+     * Seems similar to this: http://iridescentlearning.org/programs/technovation-challenge-4/
+     * 
+       * After August: 
+         * i'll fill this in properly later
+
+ * ChicagoJam: May 26
+ * Hackasaurus at the Allied Media Conference! http://alliedmedia.org/
+ * reBranding img for the kids=> http://s3.amazonaws.com/data.tumblr.com/tumblr_llanuh8ezq1qg6qoto1_1280.png?AWSAccessKeyId=AKIAJ6IHWSU3BX3X7X3Q&Expires=1305745842&Signature=Qa7J7%2BmgXj7BHPIJ3V%2FRxm9pocg%3D (cute graphic, however is this set in stone? I'd love to see logos that are less gendered - i know the intention is good but it's still kind of 'boy')
+ * 
+ * http://s3.amazonaws.com/data.tumblr.com/tumblr_llansvMeTl1qg6qoto1_1280.png?AWSAccessKeyId=AKIAJ6IHWSU3BX3X7X3Q&Expires=1305747102&Signature=OXHD8ItBsM10X62%2B4J4Fq1FaFy0%3D
+ * 
+   * 30 mins (intro)
+       * Playing with QR Codes
+         * Dance Routine
+         * Beat It http://www.youtube.com/watch?v=nvosrJ1bjOI&feature=relmfu
+         * Carlton Dance http://www.youtube.com/watch?v=jKlxjbhB9HE&feature=related
+         * Thriller http://www.youtube.com/watch?v=wWozpTF5HXA&feature=relmfu
+       * Practice 
+       * Performance 
+
+   * 30 mins (Hack Lesson)
+       * Template of your (Sandpot Dan's FB Hack)
+       * Add Pics
+       * Add Links
+       * Add Video
+       * Add Thoughts
+
+   * 30 mins (Personalize Webpage )
+     * Personalization of your (Sandpot)
+     * Add Pics
+     * Add Links
+     * Add Video
+     * Add Thoughts
+        
+        eg. 30 mins
+Create a QR Code leading to your (Sandpot)
+Create a QR Code to answer a riddle of your picking
+
+     * A hero deemed villain
+     * One of first Eco Icons
+     * Side effects of Toxic/ Radioactivity 
+
+
+QR Code for GodZilla
+                Personalize Webpage
+                
+                
+ * Events:
+   * DYN jam: http://s3.amazonaws.com/data.tumblr.com/tumblr_lkxou676Lm1qg6qoto1_1280.jpg?AWSAccessKeyId=AKIAJ6IHWSU3BX3X7X3Q&Expires=1305650591&Signature=cYgvKpU9DozScRhI2dRr1DY2%2FxI%3D
+   * National Writing Project
+     * Confirmed at Science Leadership Academy in Philadelphia on Sunday June 26th 
+     * Christina, Paul and Chad working on agenda draft here: http://ietherpad.com/hupUZkYycA
+   * Brussels
+   * Quest2Learn/ Eyebeam- June 9th and Technovation  Mobile Design Jam- Iridescent, Dreamyard and Cooper Hewitt National Design Museum
+
+
+ * Atul & Ian talk about htmlpad briefly
+   * Ian: CMS-like system that lets kids create and publish their own content
+   * "HTMLpad 2.0": 
+     * further improvements will require hacking Etherpad itself, which is harder
+     * successor tailored to Hackasaurus use case
+       * 
+
+
+ * Hackasaurus Roadmap
+   * Need to refine and simplify our roadmap
+     * http://etherpad.mozilla.com:9000/Hackasaurus-roadmap
+     * We need this level of simplicity & concision:
+     * X-Ray Goggles:
+       * Inspect
+       * Remix
+       * Simple Share
+       * CSS
+       * Advanced Share
+         * Persistence
+       * Social Persistence
+       * Need this for:
+         * HTMLpad
+         * Web site
+         * Curriculum 
+
+
+
+
+
+
+
+
+
+
+
+===========================
+
+Agenda May 10
+
+Roll Call:
+ * Atul Varma
+ * Jess Klein
+ * Christina Cantrill- National Writing Project
+ * Anna Debenham
+ * Ian Bicking
+ * Dan Morris -Apps for Good
+ * Malcolm William
+
+ * Ian Bicking- ideas on tool development
+   *  http://etherpad.mozilla.com:9000/79oduN2A2v
+   * people love cutting out complicated parts to teach web design (ie, server side and back end)
+   * practical application of thoughts - htmlpad
+   * Atul's "twitblob" experiment was intended to be a  generic server-side component that front-end coders could use for lots  of different purposes: http://toolness.github.com/twitblob/
+   * Are we going to continue with htmlpad or recommend something else that serves a similiar function
+   * HTMLpad hack that allows you to preview your site https://github.com/autonome/Htmlpad.org-Real-time-View
+   * What aspects of htmlpad are we interested in?
+     * being able to put a html page up and have it automatically hosted like http://droppages.com/ ?
+     * collaborative editing
+   * http://rs.rapidhackr.org/login - aimed at group research and planning a hackday but its a project using etherpad developed by two young YRS devs.
+     * Sneek peek: http://www.jordanh.net/wp-content/uploads/2011/01/rapidhackr_etherpad.png
+   * Sketchpad - htmlpad.org for processing.js - tweek someone else's sketch!
+     * http://studio.sketchpad.cc/sp/padlist/all-portfolio-sketches 
+   * "Problem" with scratch- sandbox environment...
+     * web-based scratch v2 supposed to be launching this autumn / late 2011
+   * ACTION ITEM: IAN AND ATUL to follow up
+
+ * Maker Faire Toronto - Report back (Jess)
+   * lots of teens
+   * younger than past ages
+   * quick thoughts on preparing for science fairs/ demos
+   * Website not really usable at all for teens
+   * ACTION ITEM: JESS TO BLOG
+
+ * Hackasaurus Site Map (Jess and Anna)
+   * http://www.flickr.com/photos/jessicaklein/5707050348/
+   * Dan suggested thinking about having different sections of the site geered towards the different audiences, as he did here: http://www.flickr.com/photos/_anima_/5708014456/lightbox/
+   * Need to have an audience split on the site +2
+   * Need to re-visit naming of all of the components of the hackasaurus
+   * Homepage wireframe idea http://dl.dropbox.com/u/228132/hackasaurus/wireframe-01.jpg "learners" +1
+   * ACTION ITEM: JESS + ANNA TO WORK ON WIREFRAMES
+
+
+ * Update from Atul
+   * Printable Hacks!
+     * form: http://toolness.github.com/hackasaurus-print/ (worked great!)
+     * example: http://toolness.github.com/hackasaurus-print/?photo_id=5644398032
+   * Hack Replicas!
+     * addon: https://secure.toolness.com/xpi/hackasaurus-sharing-addon.html
+     * Uses Firefox's "Save As... Web Page, complete" functionality under-the-hood, which has lots of bugs: https://bugzilla.mozilla.org/show_bug.cgi?id=115634
+     * Atul hacked-in a few fixes, but we might be able to build on existing sol'ns or even recruit some help here, e.g.: https://bugzilla.mozilla.org/show_bug.cgi?id=115634#c24
+   * Hackasaurus Roadmap for 2011
+     * "This is where we are now; this is where we should be in 6 months; here is how we get there."
+     * Major milestones, in no particular order (are these accurate/complete?):
+       * Robust sharing functionality
+       * Addition of CSS introspection+remix to goggles
+       * Solo missions introducing core functionality (not just for solo learners, but also for anyone who wants to hold a hack jam)
+       * "Hack-jam-in-a-box" +1
+   * ACTION ITEM: ATUL TO SET A GOAL DATE FOR RELEASING THE ADD-ON
+   * ACTION ITEM: TEAM ROAD MAP
+
+ * Update on Events
+   * Anna
+     * 24th June: Computing at School teacher workshop in Birmingham http://lanyrd.com/2011/computing-at-school/
+     * Arranging school trip to Google/Guardian offices. School networks problematic.
+     * Brighton University as a venue through STEM http://www.brighton.ac.uk/community/schools/stem.php?PageId=220
+     * Need a CRB check
+     * Contacted Raspberry Pi about collaborating/attending an event (Drumbeat?) http://www.raspberrypi.org/
+     * ACTION ITEM: ANA TO FOLLOW UP WITH DEES, APPS FOR GOOD, YOUNG REWIRED STATE
+
+   * Malcolm
+   * Still on course for the May 26
+     * Idea: To Educate kids on some of the dynamics the Internet. The Internet can be changed and altered to what you want to see from it. If you love music you use sites like Soundcloud to listen to indie artist, DJ’s, and prerelease Beastie Boys. Out of Class Learning to follow your dream.
+     * Method: QR code to bridge the gap b/w cyber and real space, hackasaurus kids scan the code, upload the link and use xray goggles to help construct their own information for further export of new QR code
+     * Underline Thought: Reproducible Demos Connecting Kids to the Web with fun innovative and creative methods!  
+     * http://etherpad.mozilla.com:9000/hackasaurus-activist
+     * Working to create artifacts for post-jam 
+     * ACTION ITEM: MALCOLM TO BLOG ABOUT THIS
+
+   * National Writing Project- http://www.nwp.org/
+   * We are hoping to do this on June 26
+     * not yet confirmed as we want to find out more about a venue.
+     * Will create a document to share some of our draft thinking about the evnet at this point -- would love feedback. Thank you!
+     * not a turn around training- more for adults to learn about this idea of hacking, and think about the implications as educators, starting a conversation about it
+     * interested in "hacking literacies" 
+     * Jam scheduled around the time of the ISTE conference
+     * Looking for input in terms of event plan
+     * Working with educators 
+     * ACTION ITEM: CHRISTINA TO DRAFT EVENT/ LESSON PLAN AND GET BACK TO THE GROUP
+
+ * Dan's Notes
+   * http://ietherpad.com/Miti0r9UB3
+   * Dan's etherpad created: http://htmlpad.org/dansfirstfbcanvasapp/
+   * ACTION ITEM: DAN TO PRESENT NEXT WEEK
+
+(Older meeting agendas are inin older saved revisions of this etherpad.)
+

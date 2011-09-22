@@ -1,0 +1,46 @@
+How do we integrate an understanding and exploration of the  "open web" into Hackasaurus curriculum/events/workshops/materials?
+
+We often talk about the power or importance of the open web, but what do we really mean when we say that? Please jot down definitions, resources and links on this etherpad. The goal for us, is to use this document as a basis for developing out curricular resources to support the Hackasaurus project. As the audience for the Hackasaurus project are tweens- teenagers, we are trying to find the clearest, to the point definition (not jargon-heavy language).
+
+I think our messaging for tweens and educators should focus on "creating a generation of web-makers." 
+
+- I Don't think this is about messaging as much is it is using a Understanding by Design approach (http://books.google.com/books?id=N2EfKlyUN4QC&printsec=frontcover&dq=inauthor:%22Grant+P.+Wiggins%22&hl=en&ei=_7sEToemEcj00gH7oLzdCw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q&f=false) to building a curriculum model that grounds Hackasaurus as a means to explore and construct knowledge about why it is essential to create a generation of web-makers. There has to be a "why" that they emerge with or else why not just be a passive consumer? +1
+
+If you are saying the word "hack", you need to define it in conjunction with this larger philosophy of building an open web.
+
+And the importance of shifting digital natives from passive *consumers* (the web as TV) to active *producers* and makers (the web as magic ink / lego) 
+* the "open web" stuff flows out of this. and should come at the end of the process or experience. 
+
+I agree that we want youth to construct this primarily through the experience, but that doesn't preclude introductry conversations and activities that build a context inwhich the Hackasaurus tool is used.
+
+Stormy Peters mentioned: "An open web implies that there's a web that's  not open. That there are two webs. I think we should push for making  sure the web is open, not an open web." She credited this notion to Chris Beard.
+
+A metaphor may help too: it's better to teach kids how to tie their shoelaces (an "open" skill needed for making knots, useful for many other purposes) vs just making them use shoes with easy Velcro fasteners (which is also much less challenging for developing fine motor skills). 
+
+DEFINITIONS
+
+ * No one can stop you from moving around the web or stop you from looking at how things work and changing things; in a nutshell the web is (y)ours http://mozilla.status.net/notice/145622  // Paul Booker
+ * One teen defined the "open web" as a space that allows you to navigate the web freely and sited problems such as "firewalls", "schools not allowing you to see websites"
+ * Tantek defined the open web (http://tantek.com/2010/281/b1/what-is-the-open-web) as the ability to:
+   * publish content and applications on the web in open standards
+   * code and implement the web standards that that content/apps depend on
+   * access and use content / code / web-apps / implementations
+(See his blog post for examples and counter-examples)
+ * The open web enables everyone to create and share without restrictions.
+ * The term the "Open Web Platform" is used in a way that means "the interoperable browser-native stuff excluding plug-ins, specifically excluding Flash". I think it follows that a key aspect of the Open Web is that its client side is built on the Open Web Platform. (I think the "interoperable" part can be scored from 0 to 4 by checking if a given feature is supported by Gecko, WebKit, Trident and Presto. 4: Definitely part of the platform. 3: Part of the platform. 2: Maybe becoming part of the platform. 1: Not part of the platform. 0: Definitely not part of the platform.) -- hsivonen
+ * The open web is a place where there's no one person or corporation that has centralized  control, a place where anyone can participate and contribute information (whether it's an opinion or art or just a silly cat on a skateboard!) so long as have access to the web and the skills to participate), a place that is transparent in terms of what it's made up of (code!), and finally, a place where all information is equally accessible, where no one website is favored over another when you put the URL in the address bar (net neutrality). (drawn from  stevegyorgyi's youtube video on the open web, see below). - Rafi
+
+LINKS
+ * The  Mozilla Parks project -- and linking the idea of the web as something  we all share and is worth protecting -- may be a great starting point  for youth? http://www.mozilla.org/parks/?WT.ac=parks_m
+ * See: "Open Web Definition for Drumbeat":  http://commonspace.wordpress.com/2010/06/01/open-web-definition-for-drumbeat-org/
+ * Mozilla Manifesto: http://www.mozilla.org/about/manifesto.en.html
+ * Open Web definition on video http://www.youtube.com/watch?v=Nwv-unA3K9M&feature=player_embedded
+ * Open Web and Why You Should be Paying Attention: http://www.zythepsary.com/rants/open-web-and-why-you-should-be-paying-attention/
+ * Coding in Paradise blog definition http://codinginparadise.org/weblog/2008/07/open-web-definition-version-04.html
+ * Mozilla/Drumbeat Wiki page https://wiki.mozilla.org/Drumbeat/outreach
+ * Better Internet Literacy: http://commonspace.wordpress.com/2011/04/14/internetliteracy/
+ * Open Web book: http://openweb.flossmanuals.net/
+
+RESOURCES
+
+

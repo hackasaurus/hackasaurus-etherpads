@@ -1,0 +1,275 @@
+Hackasaurus: Superheroes of the Open Web Design Jam
+lesson plan- draft (80% baked)
+
+Synopsis: 
+In  this hands-on workshop, middle-schoolers play, deconstruct and modify websites in order to understand how to create content for, and build, webpages. Participants will use the Mozilla Hackasaurus toolkit to guide them through the process of remixing images, text and style while learning basic web design and programming concepts. Participants will experiment with the X-Ray Goggles bookmarklet, a tool that allows users to see and manipulate the HTML and CSS that make up webpages. Using the Goggles, and other open source, web-based tools, participants will respond to design challenges that offer them a chance to use newly acquired skills. 
+
+Duration: These activitites will either take  approximately one full day - broken up into two sessions, or four class periods (40- 60 minutes) 
+
+Assessment: See Hackasaurus "Superheroes of the Open Web Learning Rubric" for assessment documentation (prototype here: https://docs.google.com/document/d/1c2RueRwbCfDj91BWLd4hJJ4FhH2gHuxhDLLLqeWTXCM/edit?hl=en_US# )
+
+1. Big Ideas of the Day:
+ * Hacking means changing a piece of something to create something new
+ * Web designers get inspired by existing websites to come up with new ones
+ * Webpages are written with HTML and styled with CSS
+ * Websites are dynamic systems, not unchangeable things
+ * A website designer works with inter-related parts
+ * Parts of a webpage include HTML, CSS, graphic assets and text content
+ * The open web is a place where anyone can participate and contribute information
+
+
+2. Deliverables:
+Participants will hack games, both physical and digital,  as well as websites. Participants will write HTML and constructively think about their roles as webmakers.
+
+3. Learning Goals:
+ * Develop a basic understanding of the different parts that make up a webpage
+ * Develop key web programming vocabularly
+ * Develop key critical thinking about the web terminology
+ * Develop an understanding of how a participatory medium like the open web differs from consumption-only media such as television.
+ * Draw connections between webmaking, content creation, and the participatory culture of the open web
+
+4. Skills Targeted and Learned:
+
+   * Identify and alter element tags, which surround content and apply meaning to it 
+   * Remix content of element attributes, which appear inside tags and have their values enclosed in quotation marks.
+   * Remix and create elements, which are the basic building blocks of web pages.
+   * Demonstrate the ability to write a paragraph using HTML and the <p> </p> tags
+   * Change one part of a webpage to make a new webpage
+   * Get inspired by websites and come up with ideas for new projects
+   * Use the Hackasaurus X-Ray goggles bookmarklet and demonstrate ability to use its different features 
+   * Understand URLs and specially URLs of images
+
+5. Key Questions:
+ * What is hacking? Where can we find examples of hacks?
+ * How are webpages and websites dynamic systems?
+ * Which are the fundamental parts of a webpage?
+ * How does a webpage change when you change one of its parts?
+ * Why is it important to have open access to the internet?
+ * Why is it important that the web is designed by many individuals?
+ * Why is it important for websites to invite participation?
+
+6. Activities:
+ * Hack the Robot Dance: icebreaker game
+ * Try on your X-Ray Goggles: web design tool overview
+ * Superheroes of the Open Web Design Challenge
+
+ACTIVITY 1: "Hack the Robot Dance" Icebreaker game
+
+1. Activity Overview
+
+The goal of this activity is for teens to understand that hacking has always been a key element in the creative process, and that it is a constructive collaborative activity, not a destructive one. Participants will learn how to hack a popular dance from the 80s to design a brand new dance. 
+
+2. Materials You'll Need
+ * Speakers
+ * Computer with reliable internet connection and unblocked access to YouTube.
+(wonder if something like safeshare.tv or other school safe Youtube alternatives might be mentioned? Just a thought)
+ * Projector
+ * Video: How To Do The Robot (Totally Rad 80's Dances)  http://youtu.be/E-_iUHY8RBs
+
+3. How to Play
+ * Participants form a circle 
+ * The facilitator plays the "How To Do The Robot (Totally Rad 80's Dances)" video 
+ * The facilitator tells the group that they are now going to hack the dance, but here are the rules:
+   * 1. LOOK at all of the steps in the dance
+   * 2. PRACTICE the dance in its entirety 
+   * 3. FIND one step to change
+   * 4. CHANGE one step of the dance
+   * 5. PLAY: 
+     * Have a participant demonstrate a hacked dance move to the circle.
+     * The person to the left of the initial hacker must hack that move or repeat it 
+     * If hacking the move, the person has to demonstrate the new dance move they are adding or replacing
+   * Repeat until everyone in the circle has danced.
+   * When the last person in the circle has made their hack, everyone in the whole circle needs to try out the new dance.
+ * If you have time, repeat this activity a few times.
+
+Alternative  icebreaker activity: paper collage. Bring lots of newspapers,  magazines, flyers, catalogues, etc to the classroom, provide scissors,  glue and big white paper.  Also an example of a hacked advertisement or news with pieces from  different sources. Ask participants to create something similar. Then follow step 4 (changing the word 'dance' for 'collage' )
+
+4. Discussion
+After the dance party is over ask the participants guiding questions to help identify the steps for hacking. Write the definitions they come up with on the whiteboard or on poster paper. 
+
+   * How did you hack the dance? Discuss the Rules- what were they?
+   * What actions were you doing while hacking? Discuss the mechanics and dynamic systems- Break down the activity, first they looked at the dance... then they changed bits and pieces of it until it became a new dance. One person made a change- which then effected the entire dance.
+   * What was the goal of the activity? Discuss Goal (creating a new dance)
+   * What made the dance fun? Discuss Creativity and co-developing the project
+   * How do you think hacking a dance will be similar to hacking a website?
+
+5. Introduction to Badges
+Explain to participants that they are about to embark on a superhero journey and they will have to collect superpowers to help them complete their missions throughout the day.
+ * Hand out the "superhero power pack" worksheet and explain that this is where they will collect all of their badges during the day. At the end of an activity, each participant will "pledge" or apply for a badge to gain their super powers. If they complete the pledge task successfully, they will receive a badge (or sticker) to add to the worksheet to show they completed the task. 
+
+
+ACTIVITY 2: "Try on Your X-Ray Goggles" Webmaking tool overview
+
+1. Activity Overview
+The goal of this activity is for participants to create their first webpage by hacking and tinkering with an existing webpage and making a new website from it, the Navigator and Remixer badges will help you to do this.
+
+2. Materials You'll Need
+ * Computers with a high speed internet connection
+ * Hackasaurus X- Ray Goggles installed on a modern web browser
+   * See the technical checklist here: http://etherpad.mozilla.com:9000/hackasaurus-technical-checklist
+ * projector
+ * Hackasaurus Quick Reference/ cheat sheets (Is there a link for this?= coming soon)
+
+3. Facilitator Procedure
+Demonstrate how to hack the webpage, and then go over the steps in a slow, clear manner
+ * Tell participants that they will be hacking a website 
+ * Ask participants to call out the name of a website that they regularly visit
+ * If no one responds or if you have slow internet- go to google.com because it loads fairly quickly
+ * Turn on the goggles. You can do this by clicking on the bookmarklet in your Bookmark Toolbar
+ * Using the goggles, slowly hover over objects so that participants can see that the tool is inspecting the code and showing the object tags for each object
+ * Hover over an image- or some text on the page and hit "R" on your keyboard
+ * Keep this screen up for a minute so that participants can see that the code is revealed at this stage.
+ * Ask participants for help hacking the code. If you are editing text- ask participants what text they would like to replace the text with, if you are changing an image- ask participants to name their favorite musician and do a search for that muscian online
+ * After you have acquired the assets and made the changes, hit the "OK" button and show everyone the hack.
+ * Now, show everyone how to do this step by step, and whenever possible, refer back to the steps that you defined for hacking with the "Hack this Dance" activity
+ * Steps:
+   * 1. Turn on the X-Ray Goggles bookmarklet
+   * 2. LOOK at the code, point out the tags, attributes and elements
+   * 3. FIND the object tags that you want to change or replace (ie, <p> or <img>)
+   * 4. CHANGE one part of the webpage
+   * 5. BUST THE HACK- hit "ok" to save the changes locally on your computer
+ * Break into teams and use the X-Ray goggles to create a new webpage with these parameters:
+   * Your webpage should have a new title and logo
+   * Your webpage should have a minimium of 3 hacks on it
+   * You must hack at least 1 image tag <img>
+   * You must hack at least 1 paragraph <p>
+ * Make sure they know how to save the final result (image or code) in order not to lose it
+
+4. Pledging for your Badge
+At this point participants can "pledge" or apply for either the Navigator or Remixer badge. 
+
+To qualify for the Navigator badge, participants will need to complete the following tasks in front of a peer mentor or facilitator, who will then distribute the badge:
+    1. Open up your browser
+    2. In your address bar, type: "......"
+    3. Complete the mission to receive your badge 
+
+This pledge will earn you:
+ * Badge: the Navigator badge
+ * Superpower: Enhanced Web agility
+ * Smartool: Hackasaurus X-Ray Goggles cheat sheet
+
+To qualify for the Remixer badge, participants will need to complete the following tasks:
+    1. Go to www.google.com
+    2. Using the goggles, replace the google logo with an image
+    3. Using the goggles, change or add text to the webpage
+
+This pledge will earn you:
+ * Badge: the Remixer badge
+ * Superpower: X-Ray Vision 
+ * Smartool: Access to the Hackbook
+
+5. Discussion
+At the end of the session, have participants present their new webpages and explain their process, and what they have learned. 
+
+
+ACTIVITY 3: "Superheroes of the Open Web" design challenge
+
+1. Activity Overview:
+The goal of this activity is to introduce participants to an organic, interactive design process for webmaking. Participants will discuss what it means to have an "open web" and create fictional superhero identities and web assets (websites, content, imagery etc.) to create a media campaign to defend the open web. Through the course of the activity, participants will pledge for several badges.
+
+2. Materials You'll Need
+ * computers with reliable internet connection 
+ * X-Ray Goggles bookmarklet installed
+ * a room with several "stations" for participants to float about organically. including:
+   * Hacking station- computers set up with Hackasaurus tools
+   * Prototyping party- paper supplies
+   * Digital imaging- cameras, image editing software etc
+ * digital imaging supplies (ie: cameras, computers with Aviary (http://www.aviaryeducation.com/) or other open source image editing software installed)
+ * lo-fi prototyping supplies (ie: construction paper, markers, legos, play doh etc)
+ * A blog or some web-based repository for everyone to post their work, for example:
+   * www.blogger.com
+   * www.wordpress.com
+   * www.tumblr.com
+
+3. Facilitator Procedure
+Frame the design challenge by having participants collectively explore problems and strengths of the open web
+ * Engage particpants in a discussion about  the open web
+   * what would your life be like without the web?
+   * who made the web?
+   * how can you tell the web was made by people?
+ * Introduce the concept of the open web
+   * no barrier to entry- anyone can use it to make or play
+   * transparent- you can see how it is made
+   * it doesn't break- because it is not "owned" by any person or organization
+
+ * Introduce the design challenge:
+   * We benefit from an open web where anyone can use, see and manipulate content on the internet. This is a privilege that we don't want to lose. Every so often there are things that compromise the open web, such as firewalls in your school, or blocking functionality of web browsers. This is something that you can protect-  like a team of superheroes who defend and protect the open web.
+   * CHALLENGE: Design a superhero identity to protect the open web
+     * Parameters:
+       * Your superhero must have a name and visual representation 
+       * Your superhero must have a biography
+         * what are his/her superpowers?
+         * how did he/she get them?
+         * how do his/her superpowers help to protect the web?
+         * does your superhero have a nemesis or challenge that they face? 
+       * Hack into a news site using the goggles to write a story about how your character saved or protected the open web
+       * You must put all of your content on a webpage that you created or hacked and present that to the group at the end of the day
+
+ * Have participants go to various stations and allow them to either work in groups or individually. If possible, it is a good idea to have facilitators at each station to support participants. 
+   * Hacking station
+   * Prototyping party
+   * Digital imaging
+
+4. Presentation
+Have design challenge participants pitch their superheroes and display the work that they have done.
+ * Following the presentations, facilitators should use this time to direct participants to other resources in their community or online for them to learn more about hacking and web design/ development
+ * Give constructive feedback
+
+5. Pledge for a Badge
+At each station, participants should be able to pledge for a Producer, Wordsmith or Webmaker badge (for advanced learners) and nominate someone for a Peer Coder badge
+
+To qualify for the Producer badge, participants will need to complete the following tasks in front of a peer mentor or facilitator, who will then distribute the badge:
+    1. Design the visual representation of your superhero 
+    2. Prepare your content for the web
+    3. Place your content on a website
+
+This pledge will earn you:
+ * Badge: the Producer badge
+ * Superpower: Design Dexterity
+ * Smartool: CSS cheat sheet?
+
+
+To qualify for the Wordsmith  badge, participants will need to complete the following tasks in front of a peer mentor or facilitator, who will then distribute the badge:
+    1. Visit a news website
+    2. Using your X-Ray Goggles, hack into a paragraph on the site
+    3. Write a story about how your character saved or protected the open web.
+
+This pledge will earn you:
+ * Badge: the Wordsmith Badge
+ * Superpower: Ciphering
+
+To qualify for the Webmaker badge, participants will need to complete the following tasks and show a peer mentor or facilitator the website, who will then distribute the badge:
+  1. Open up Webpad
+  2. Using the content that you created (the bio, news article and visual art), create a website
+  3. Visit Hackbook for some helpful snippets of code that could be included in your site
+  
+  This pledge will earn you:
+  Badge: the Webmaker badge
+  Superpower: Enhanced marksmanship
+  
+To qualifty for the Peer Coder badge, participants need to be nominated by a peer at the jam.  A peer coder is someone who:
+  1. demonstrates ability to work collaboratively and/or
+  2. demonstrates ability to code html and/or css with a collaborator and/or
+  3. assists another participant with their code and/or
+
+If you are nominated, you will earn:
+Badge: the Peer Coder badge
+Superpower: Invincibility
+
+
+References:
+Slideshare presentation on the open web from Mark Surman, Executive Director of Mozilla Foundation: http://www.slideshare.net/guest6177758/i-heart-the-open-web-1768019
+
+Blogpost on Open Web definition: http://commonspace.wordpress.com/2010/06/01/open-web-definition-for-drumbeat-org/
+
+Teaching the open web to teens:
+http://etherpad.mozilla.com:9000/openweb
+
+Hackasaurus website: www.hackasaurus.org
+Aviary On-line Photo Editor: http://www.aviaryeducation.com/
+
+
+
+
+
+

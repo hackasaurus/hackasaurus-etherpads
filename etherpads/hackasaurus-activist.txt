@@ -1,0 +1,56 @@
+Title: Hacktivism 101
+ 
+Duration:  ~90 minutes 
+ 
+Overview: In this activity, participants learn about the potential of the open web for social change. Through guided exploration, discussion, and remixing html, participants will begin to understand how the open web is a tool for social activism.
+ 
+Standards:
+ * NY State ELA Standard 1: Language for Information and Understanding
+ * NY State ELA Standard 4: Language for Social Interaction
+ * NY State Mathematics, Science and Technology Standard 1: Analysis, Inquiry and Design; Standard 4: Science; Standard 6: Interconnectedness/Common Themes
+
+Objectives:
+Participants will learn about digital citizenship, internet safety, and new media activism through brainstorming, prototyping and iterative design;
+ * Participants will discover through exploration of familiar websites, that the web is a plaform for a variety of viewpoints
+ * Participants will learn the basics of HTML through use of the hacker goggles
+ * Participants will identify current social trends that they are passionate about
+ * Participants will learn how to use the browser through the html bootcamp
+ * Participants will learn how to leverage the open web for social change
+ * Participants will discover that because the web is truly open, there are internet safety concerns.
+
+ 
+Materials:
+ * Laptops or PCs for students or teams of students
+ * Projector
+ * Firefox, Safari, Chrome or IE9 browser
+ * Hacker Goggles: https://secure.toolness.com/webxray/
+ * Html Pad: http://htmlpad.org/
+ * Html bootcamp:https://secure.toolness.com/webxray/missions/one/
+
+Deliverables:
+
+By the end of this module, participants should produce and present to their peers a hacked website that communicates a re-mixed message, subverting the original content and context of the theme, concept or organization.
+
+Facilitator Procedure:
+
+1. Show the group a website that you find particularly offensive. Explain why it is offensive.
+2. Ask participants to name websites that they find troublesome. 
+3.In groups, have participants work together to develop mind maps of words, images and other webpage assets that they find distasteful. [INSERT SAMPLE MINDMAP]
+4. Have participants share out their mindmaps and explain why they chose the particular website to focus on and describe in detail what the group found to be problematic on those sites.
+5. Ask participants if they think that the web promotes this kind of behavior. Follow up with a discussion about what it means when we describe the web as "open". An open web- means that anyone can write anything, that it is transparent ... but also has the ability to be constantly changed.
+6. Go back to the website that you found offensive. Turn on the Hacker Goggles and scroll over the content of the page. Tell participants that this is an example of how the web is open. Because the web is handmade, we can use these goggles to look under the hood of websites and see how it was made. [INSERT SCREENSHOT]
+7. With the Hacker Goggles still activitated, hover over an object (i.e. a sentence, image, a video) on the webpage that you would like to change and click the letter R on the keyboard. This will bring up the mixmaster screen. On the screen, you will see three columns, one with the source code- the hyper text markup language that is written to put content up on the web, one with a visualization of how the browser interprets that text by organizing the content into levels of data, and finally one with how the web displays the content. [INSERT SCREENSHOT]
+8.Now keeping that tab open, go back to your browser and find a web page that you really like- or find funny. [INSERT SCREENSHOT] On that webpage, using your Hacker Goggles and Click R, find an object that you would like to put on to the offensive webpage. Cut the source code. A keyboard shortcut for cutting is control and C, and for paste it is control and V.
+9. Scroll back to your offensive website and paste that code in the first column on the mixmaster screen. You should see that the asset in the third column was replaced.[INSERT SCREENSHOT]
+10.On the upper right corner of the mixmaster screen- click "ok". Your browser will now display a hacked website. [INSERT SCREENSHOT]
+11. Instruct participants to now go back to their own webpages and hack them to be less offensive, and/ or to just be silly. Encourage them to look at the assets that they identified on their mindmaps to inform their designs.
+12. Invite participants to share out their websites with each other. 
+13. Ask participants to think about how they could effect change by publicizing their hacks. Participants  work together to explore how these hacks could be further developed  into a social media campaign to promote change, exploring potential  websites for deployment of their hacked work (ie: flickr, deviantart,  vimeo, youtube, facebook, twitter etc.)
+14. Demonstrate how to do a screen capture of the hacked webpage. (This is a functionality that will eventually be built into Hackasaurus) If you are on a Mac, click commond, shift and 4 and scroll over the parts of your webpage that you want to capture. If you are on a PC????
+
+Further Reading/ Reference:
+
+www.hackasaurus.org
+HTML cheatsheet: http://www.webmonkey.com/2010/02/html_cheatsheet/
+
+

@@ -1,0 +1,49 @@
+Hackasaurus Learning Objectives
+
+After substantial engagement with the Hackasaurus toolkit a learner will/should be able to:
+
+ * Browser Basics: skills required for "retrieving, presenting and traversing information resources on the world wide web"(wikipedia definition of browser)
+
+   * identify where the "address bar" is within the browser
+   * identify URLs of webpages and images
+   * demonstrate use of the awesome bar 
+   * open multiple browser tabs and switch between them
+   * master "copy" and "paste"  function 
+   * define the term "HTML"
+   * use the mouse to point, click and scroll over objects on the webpage
+   * understand what the term"encryption" means?
+
+
+ * Web- Authoring: skills required for making content and publishing to the world wide web
+
+   * identify and alter element tags, which surround content and apply meaning to it
+   * remix content of element attributes, which appear inside the opening tag and their value is always inside quotation marks
+   * remix and create elements, which are the blocks of code that make up webpages.
+   * demonstrate the ability to write a paragraph using HTML and the <p> </p> tags
+   * define the term "CSS" (cascading style sheets)
+   * define the term "url" (uniform resource locator) and demonstrate ability to locate the webpage url within the browser
+   * demonstrate an understanding of the "DOM" (document object model) by building a webpage using html hierarchy
+   * understand what the "open web" means
+         * understand that website accessibility helps different kinds of users experience web content
+         * understand that the web "doesn't break" --> i.e., is standards-based, not owned by a company
+         * understand  that the web can always be made less open/less free -- e.g. through   firewalls, other things schools and some gov'ts deploy
+   * understands what ethical web making means
+
+ * Tool Competencies: skills that demonstrate comfort and competency of the Hackasaurus toolkit
+
+   * install and use a "bookmarklet" 
+   * install and use an "add-on"
+   * inspect the html and/or css of an element  on a webpage by using the goggles to hover over an object and view the code
+   * understands what a "heads up display" (HUD) is and demonstrates ability to read information in this part of the browser
+   * change webpage content "locally" by busting a hack
+   * share webpage content using the "cloud" by sharing a hack using webpad
+   * incorporate style hacks into designs by changing the computed style of elements on a page
+   * demonstrate ability to impact the design of a webpage by changing compositional elements (i.e: header, footer, background, navigation)
+   * build web pages using html in webpad
+   * understand the box model and selectors
+   * demonstrate an understanding  that there are resources available on the web for developers by using  html or css snippets from the hackbook
+   * demonstrates ability to work collaboratively by coding html and/or css with a peer
+   * demonstrates ability to create web content that is accessible for other users
+   * demonstrates ability to teach a hackshop or p2pu class on webdesign with Hackasaurus?
+
+

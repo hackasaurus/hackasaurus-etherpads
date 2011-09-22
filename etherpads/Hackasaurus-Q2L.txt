@@ -1,0 +1,254 @@
+Institute of Play /Short Circuit/ Eyebeam/ Mouse Jam Planning 
+==========================
+
+POST JAM DEBRIEF:
+
+positives
+Superhero theme worked really well +3
+Thinking about ways that we appeal to youth pop culture interests, superheroes worked well
+event tumblr worked really well
+good mix of age groups
+adult faciliators really trouble shooting on fly
+high ratio of facilliators
+"special needs" kids 
+3 emphasis:
+-narrative
+-tech
+-open web
+for this age group the "playing" approach works really well
+high level of computer literacy
+kids learning that this is more than " dragging and dropping"
+pulling kids from existing programs
+incentive tasks are a nice way to drive creativity and movement
+tumblr worked awesome
+aviary worked well
+pitch worked super well
+
+Wishlist:
+wifi
+analog cheat sheets to pass our for hackasaurus
+need to integrate different age groups 
+sign in form on google doc/ text the mob
+more planning time
+how do we have a meaningful discussion about the "open web"
+    ideas: explore the web collectively and come to conclusions about why the open web is    important, 3 solutions per person.
+More time - we ended up with a little over an hour - could be day long or 2 day session
+Real time needs to be committed to the definition of hacking
+Need to have define what hacker means
+What do WE think is empowering about the open web?
+We need a concept as well as process pitch?
+Tool wish: kid wishes that the save feature was easier.
+prep checklist
+pitch: kids being more engaged with the pitches. best pitch  goes onto the hackasaurus page, featuring winning hack/ gallery. 
+mid jam- pair share and feedback
+perhaps pitching in the middle of the jam
+yak it- web service in 11.5 seconds 
+
+Next steps: Jess pass this around
+                  Jess ping group to find out what open web  means
+                  Meet again in a few weeks 
+
+
+
+ * Upcoming Jam Logistics
+   * When: June 16, 2011
+   * Interaction Design Jam in conjunction with Biorhythm exhibition at Eyebeam
+   * Where: Eyebeam
+   * # of Students (approx):15- 20
+   * Facillitator: Leah
+   * Mouse will be donating laptops
+
+> IOP needs DOE chaperons to bring kids from Q2L to Eyebeam
+> invite Mouse, YMCA
+> Need to confirm with Mouse laptop pickup for tomorrow - LEAH
+
+ * Jam Team  (please add names to list)
+   * Leah Gilliam (IOP)
+   * Jess Klein (NYCLN)
+   * Paola Guimerans (IOP)
+   * Stephanie (Eyebeam)
+   * Chris Lawrence (NYCLN)
+   * The Workshop will be part of the Short Circuit afterschool program. Short Circuit has a art, design and technology focus and has a green-theme this trimester—balance, feedback loops, sustainability. If there's some eay to hack into that, that would be awesome. They've got super active imaginations and like to make stuff especially websites using webs.com or wix.com
+   * Marc Lesser & Alex Flemming from MOUSE will be here as extra facilitators 
+ * Curriculum
+   * Hacktivist (to be refined) : http://etherpad.mozilla.com:9000/hackasaurus-activist
+   * Jam (to be refined): http://etherpad.mozilla.com:9000/jammin
+
+Participartory/ Interaction = make up different identities on the web
+Q2L just had digital citizen awareness week 
+
+DESCRIPTION:
+In  this fun, hands-on  workshop, middle-schoolers use virtual x-ray  goggles to explore the  hidden programming languages fueling the  Internet. Using the Mozilla Hackasaurus toolkit,  participants work on  design challenges that empower them to "hack,"  remix and create  webpages and web identities of their own. Youth will  use a mix of  design tools, media formats and discussions about how the  web  represents and defines us as individuals to "hack" web pages of  their  own choosing. Youth will explore everything from remixing  information  sites like Wikipedia and modifying the latest news to  re-inventing  their future selves on the Internet.  
+
+Students  will receive an introduction to the HTML  programming language, develop  an understanding of how web pages are  designed and transmitted,  discuss identity and representation on the  Internet, discover new  digital design tools, improve problem-solving and collaboration skills  and most importantly become web producers not just web consumers!
+
+Make It or Fake It is open to learners between the ages of 12- 14 years old.
+This  event is part of the New Youth City Learning Network design jam series and is collaboration between Institute of Play, Eyebeam and  Mouse.
+
+
+
+Stations: At each station they have a mission
+
+Facilitator/ Master of Ceremonies >>Chris/ Leah
+- Prototyping Party/ Freeplay>>kids can storyboard, plan it out >> IOP 
+- Hacking>>pair-coding come up with a story >>Jess
+markers, papers, legos, flipcams, digital still
+- Digital Imaging - Aviary >>avatar creation>> IOP
+- Tumblr >>public profile creation>>>> Stephanie
+
+
+
+Event Flow
+
+1.  Kids come into room at 4:00pm - 6:00pm
+2.  Facilitator frame the event - Chris/Leah
+3.  Group form a circle
+4.  Start with a brainstorm about issues/dangers/complications on the web
+5.  What powers would help solve these problems
+6.  Design  mission:  Design your web superhero/ team online identity.
+7.  Stations (and  quests):
+ * Digital Imaging: What would your character and tools look like and what would the tools look like
+ * Tumblr: Where you create your public profile
+ * HACKING: Your character in the headlines: updates, success stories, hack news websites
+ * Superhero Lounge: Planning and the pitch
+
+8.  Disaster Card (Wild Card): something nefarious happens and net neutrality is at stake! How do you come together to use these problems to combat the problem?
+ * virus
+ * hacked
+ * school firewall
+
+9. Superhero Power Pitches- teams/ students present their work (5:30pm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACTION ITEMS: 
+ * Fill out event plan
+ * Leah come up with more concrete theme
+ * Appeal to YMCA,  Mouse, GWN,
+
+===============================================
+
+
+
+Title: Interaction Design Jam (in conjunction w/ Biorhythm exhibit at eyebeam)
+ 
+Duration:  ~3 hours
+ 
+Overview:   In this activity, participants learn how to personalize and remix  websites by hacking. Through guided exploration, discussion, and  remixing html, participants will begin to understand how the open web is  a tool for personalization, creativity and fun.
+
+Objectives:
+Participants will learn how to edit HTML through brainstorming, prototyping and iterative design;
+ * Participants will discover through exploration of familiar websites, that the web is a plaform for a variety of viewpoints
+ * Participants will learn the basics of HTML through use of the hacker goggles
+ * Participants will learn how to change content on webpages through the use of the remix functionality of the hacker goggles
+ * Participants will create a shareable artifact by using the flickr share feature of the hacker goggles.
+ * Participants will create a physical artifact by using the printable hack website.
+
+ 
+Materials:
+ * Laptops or PCs for students or teams of students
+ * Projector
+ * Firefox, Safari, Chrome or IE9 browser
+ * Hacker Goggles: https://secure.toolness.com/webxray/
+ * Html Pad: http://htmlpad.org/
+
+
+Deliverables:
+
+By   the end of this module, participants should produce and present to  their peers a hacked website. Additionally, participants will have  shareable artifacts of digital (through flickr) and physical (through  the printable hack website) hacks.
+
+Facilitator Procedure:
+
+--ICE BREAKER ACTIVITY: HACK THIS DANCE--
+1. Tell the participants that they are going to hack a dance.
+2.  Play a familiar dance song (like the macarena, the qua qua "chicken  dance", or the superman) and demonstrate, or have participants  demonstrate the dance:
+
+Macarena:http://www.youtube.com/watch?v=vlzwuFkn88U
+Qua Qua:http://www.youtube.com/watch?v=6UV3kRV46Zs
+Superman:http://www.youtube.com/watch?v=sLGLum5SyKQ
+
+3.Tell participants that they need to hack the dance, but here are the instructions to hack it:
+
+Simple Rules for everyone:
+ * Participants form a circle and a song starts playing
+ * The facilitator makes a dance move 
+ * Next person, clockwise,  in the circle has to hack that move or repeat it
+ * If hacking the move, the person has to demonstrate the new dance move they are adding or replacing
+ * Repeat mechanic till everyone at the circle has danced.
+
+Level up: Rules, for advanced players:
+ * Participants form a circle and a song starts playing
+ * The facilitator makes a dance move and zaps someone across her in the circle
+ * The zapped person has to hack that move or repeat it and zap someone new
+ * If hacking the move, the person has to demonstrate the new dance move they are adding or replacing
+ * Repeat mechanic till everyone at the circle has danced.
+
+Uber level up: Dancers only
+ * Participants form a circle and a song starts playing
+ * The facilitator makes a dance move and either zaps someone across her in the circle or zooms someone next to them
+ * The zapped person has to hack that move and zap someone new
+ * If hacking the move, the person has to demonstrate the new dance move they are adding or replacing
+ * The zoomed person has to repeat that move till they are either zapped or zoomed by someone new
+ * Repeat mechanic till everyone at the circle is going crazy
+
+4. If you have time, repeat this activity a few times.
+5. Tell participants that "believe it or not, they now have all the skills needed to hack a website"
+6. Ask participants if they can break down the steps that they just did to make the hacked dance.
+7.Guide them to idenitfy tagging, and changing something that already existed. 
+8.  After a brief discussion, explain to students that when we talk about  hacking, we mean remixing, or slightly changing something that already  exists. 
+9. Using a projector and a laptop, pull up a website that you know participants will recognize- for example google or facebook
+10. Demo the goggles.
+11. Break down the steps after a quick review:
+ * PUT ON YOUR GOGGLES
+ * LOOK at the code
+ * FIND THE TAGS that you want to change or replace
+ * EDIT THE CONTENT
+ * BUST THE HACK
+
+-- WORKSHOP --
+12. Now tell participants to try out the goggles. 
+13. Let participants play around with the tools and walk around and help them.
+14. After about 5 to 10 minutes, show participants how to share their hacks using the Flickr add-on using the projector
+15.  Let participants continue messing around with the tools. If you notice  someone who made a particularly great hack, call it out. 
+
+-- PRINTABLE HACK--
+
+16.  As the workshop is coming to a close, tell participants that if they  would like to print their hacks, they can easily do so, by going to http://toolness.github.com/hackasaurus-print/ and adding the link of their flickr image. * This step may vary depending on how the printer is set up. 
+17.  At the end of the class, show participants the hackasaurus website  where they can download the tools and start hacking at home.
+
+
+
+Further Reading/ Reference:
+
+www.hackasaurus.org
+HTML cheatsheet: http://www.webmonkey.com/2010/02/html_cheatsheet/
+Hacktionary: http://dev.maban.co.uk/hacktionary/ (might be integrated into website by time of June 1)
+
+
+Stephanie being a nerd:
+http://en.wikipedia.org/wiki/Marvel_Universe_Cards
+
+Chris being a nerd:
+
+Extraordinary powers, skills and/or equipment. Superhero powers vary widely; superhuman strength, the ability to fly, enhanced senses, and the projection of energy bolts are all common. Others have special weapons or technology, such as Iron Man's powered armor suits and Green Lantern’s power ring. Many characters supplement their natural powers with a special weapon or device (e.g., Wonder Woman's lasso and bracelets, Spider-Man's webbing, Wolverine's adamantiumclaws, Daredevil's billy club, or Thor's hammer).
+
+
+
+
+
+
+
+
+
