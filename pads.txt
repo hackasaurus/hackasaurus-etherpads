@@ -2,5 +2,6 @@ Hackasaurus-community-call
 Hackasaurus-superhero-lessonplan
 hackasaurus-activist
 Hackasaurus-learning-objectives
+Hackasaurus-badges
 openweb
 Hackasaurus-Q2L
