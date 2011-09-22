@@ -1,0 +1,173 @@
+Hackasaurus Badges: Draft 1.1
+ * Draft only. 25% baked
+=========================
+
+What are Hackasaurus badges? What's the goal?
+ * Recognize and reward youth web-making skills. Like scout merit badges for the web. For 11 to 15-year olds.
+ * Provide a sense of belonging & identity. In Hackasaurus and Mozilla.  
+ * Map out a learning pathway. From remixing other people's stuff, to making your own stuff, to seriously geeking out. In a linear way. Or organic, choose-your-own adventure way. 
+ * Provide incentive. To learn new skills and level up. 
+ * Leverage the Mozilla brand. Mozilla is a trusted non-profit that answers only to you. A curriculum and pathway for webmaking and digital literacy done right. 
+ * Show off the power of Mozilla's Open Badge infrastrucutre. A cool end-to-end pilot implementation. Like School of Webcraft.
+
+ * Strategy & Context:
+   * The FIRST Hackasaurus badge needs to set the hook. Should be achievable after your FIRST Hackasaurus experience.  
+       * Set the bar fairly low for the first one. The goal is to instill some early belonging in Hackasaurus, and set learners on the path. Start them on the larger journey / quest.
+       * For some learners, the first badge will be the NAVIGATOR. Others will want to skip straight to the REMIXER, depending on their existing web literacy.
+     * Your first badge can be earned at the end of attending a single hack jam.  So that learners come away with i) a cool shareable artefact they made on the web, plus ii) a cool badge / sticker they can show off afterward.
+     * OR can be earned after completing the first level of training missions at Hackasaurus.org. (e.g., the "Parable of the Hackasaur")
+   * the badges are both physical and digital.  A cool sticker you can put on your notebook / computer / book bag. Plus  easily add to your Facebook page / Tumblr blog / email signature /  class wiki, etc. (early protoype: http://flic.kr/p/a9Wwze)
+   * Equal parts social marketing & skills recognition. Create social incentives / word of mouth for your friends to check out Hackasaurus.org or attend a hack jam themselves. 
+   * Must be genuinely cool. And in a perfect world: useful. Not baby-ish or toy-like. 
+
+ * The Hackasaurus badges pathway at 50,000 feet:
+   * Core Badges
+     * Navigator
+     * Remixer
+     * Maker
+     * Coder (HTML, CSS, Javascript)
+   * Secondary Badges
+     * Mentor
+     * Teacher
+     * Master
+
+Questions for peer assist:
+ * Are the *strategy* and *goals* sound? clear? what's missing?
+   * Yes - this is great for internal discussion. Would love to see the customer facing version ("genuinely cool"). Become a webmaker? Hack the web?
+ * Does the badge pathway make sense? Does it sound like something youth aged 11 - 15 would want?  
+   * Is there some way to incorporate collection of cards.  Like Yu-ghi-oh
+ * What's the next milestone in the Hackasaurus badges roadmap? 
+   * What badge(s) should we prototype FIRST? 
+   * First two core badges (navigator and remixer?)
+   * Should we do something at the Mozilla Festival around Hackasaurus badges?
+     * It will be a different audience, right? Like test these out on adults?
+     * Could you run "hackasaurus facilitator training" at the festival?
+       * I think that grownups might find the hack this dance thing fun :-)
+
+ * We think there's market demand for a "cyber-safety"-type badge. a) Should we offer it? b) How do we make it more Mozilla-ish?
+   * frame it like "first aid" - i have doubts kids would be stoked about a "safety" badge. seems nerdy. <-- could just bake it into the "Navigator" badge
+   * Cory talks about "best way to protect kids is to make them care about privacy", so rather than freak them out about perverts, bake in idea that they need to be in control of identity, privacy, etc. Here is video: http://craphound.com/?p=3399
+   * Yes, and we should use this to reframe what cybersaftey is.
+   * Much more about controlling your own data and privacy, understanding how social networks work.
+   * And, understanding internet mechnics, like HTTPS, as a self defence tool.
+     * "self defence" is attractive. learn how to wield the HTTPS sword. get the green belt and chase the baddies across the web (*gets carried away ...*) 
+   * So this is the basics that come before 'making' that make you street smart, but also lead to being able to make stuff.
+   * Could integrate w/ navigator, or be an extension (needs  a better name)
+   * Combine with protecting your data, privacy, etc. --> to more of a Mozilla empowerment message. Problematize cyber-safety discourse and "fear of the Internet" stuff. (e.g, in Toronto: the police teach cyber-safety.) 
+   * present a certificate from mozilla to your parents and get extra parent-trust
+     * something about being a detective - eg. you can ID the certificate owner
+     * and the certificate could explain something about Mozilla and its goals to the parent
+ * Does the goal of having kids leave their first hack jam with their first badge seem right? Realistic? 
+   * It depends -- is attendance the bar? Or do they need to succeed at a task?
+     * First few badges in games are usually really cheap. Like 'installed X-ray Goggles' kinda cheap. Sets the idea in motion.
+   * Could a hackjam be designed to specifically work around a badge?- maybe a "social badge" - you answer another participant's question about what you're doing - can describe what webmaking / hacking is. 
+   * Yes - Either leave with a badge, or be really really close to getting the badge (might be a good hook to transition them into online space - if that's the plan).
+
+Peer assist feedback, notes and questions
+ * One of the usual highlights of badges are their ability to attract new users to the program. That's missing from the above.
+ * Digging into assessment. 
+ * I would encourage task-related badges as well as the level badges. One-off accomplishments within Hackasaurus separate from your level progression.  +1+1
+ * What changes for you when you earn a badge? What's the motivation? 
+   * Connect badges to new abilities in the X-Ray Goggles? Unlocking new powers in the Goggles. 
+   * Leader boards? Peer esteem?
+   * Embeddable badges widget to display on your own site/facebook
+   * Motivation may be that at the younger age group, you have to grab the parents.  Like many learning experiences, many parents drive kids interest so if you let the parents know the benefits and how to do this cycle  then they can help the kids move forward
+ * We have an 'Original' badge in our game that simply reflects the fact you were there from the beginning. It is one of the most coveted badges. Although this really strays from the assessment model.
+
+ * What's missing?
+   * More random skills. Two streams:
+     * Core pathway levelling-up badges. 
+     * More skill-specific. Tertiary. Stand-alone. Cool factor. 
+     * Can this reuse the Webcraft Challenges that Jamie's been working on?  
+
+ * What are the comparable reward systems for this age group?
+   * e.g., games, social networking, etc. 
+     * World of Warcraft Achievements: http://www.wowwiki.com/Achievement
+       * Blizzard are masters of design around these things.
+   * lego building club! http://club.lego.com/en-us/insidescoop/InsideScoopDetails.aspx?id=248219
+
+ * 
+
+ * Build badge prototype into Hack jam-in-a-box tool kit
+   * 
+
+===STOP HERE MOFOs -- unless you want more detail === 
+
+
+Hackasaurus Badges in detail:
+
+== NAVIGATOR == 
+ * Many learners won't need this. They're already web-savvy enough to skip straight to the "Remixer" badge -- and should.
+ * These are the kinds of remedial skills we often assume all learners have -- but many don't have.
+ * Before you can remix and make stuff, you have to know the basics of browsing, using a keyboard, etc. 
+ * May include some basic web-safety / ethics / responsible Internet use stuff. (Important to consider this point further -- there's large potential market demand for a "cyber-safety" badge backed by Mozilla's brand.)
+
+ * Skills:
+     * Skills required to earn this bade:
+       * Can inspect HTML with the X-Ray Goggles
+       * Can navigate the web
+             * using the awesome bar
+             * using multiple tabs and switching between them
+             * viewing two separate pages side-by-side
+             * pointing, clicking and scrolling
+             * using copy/paste
+             * (basically all the stuff that, before holding any hack jams, we expected our learners to know, but that they frequently didn't know)
+
+       * Understand what a url is 
+       * Understand element attributes
+           * understands that the basic structure of an HTML document includes tags, which surround content and apply meaning to it.
+           * Tags can also have attributes, which are extra bits of information. Attributes appear inside the opening tag and their value is  always inside quotation marks.
+           * Tags indicate the beginning and ending of an element. Elements are the blocks of code that make up web pages
+             * QUESTION: Is this skill too advanced for this badge?
+       * understands what 'open web' means
+         * understands what 'accessibility' means
+         * understands that the web "doesn't break" --> i.e., is standards-based, not owned by a company
+         * understands  that the web can always be made less open/less free -- e.g. through  firewalls, other things schools and oppressive gov'ts deploy
+
+
+== REMIXER == 
+   * (or: Hacker / Hackasaur / Mozillian / Mozilla Maker / ???)
+   * remixes html
+   * understands what Mozilla means when we say "hack" "web making"
+     * we arent talking about hacking so much as remixing, crafting and webmaking
+   * demonstrate ability to bust a hack
+   * understands the difference of local vs cloud hacking
+   * understands that there are resources available on the web for developers
+
+== SUPER-STYLER == 
+   * or: Designer? 
+     * incorporates style hacks into their designs by changing the computed style of elements on a page
+     * understands what CSS is (doesn't necessarily create style sheets)??
+     * demonstrates ability to impact the design of a webpage
+
+== WEBMAKER ==
+   * builds web pages using html in webpad
+   * understands the box model and selectors
+   * starts to incorporate style into their hacks
+   * demonstrates an understanding of DOM
+   * demonstrates an understanding of what a domain is
+
+== PEER CODER == 
+   * demonstrates ability to work collaboratively
+   * demonstrates ability to code html and/or css with a collaborator
+   * demonstrates ability to create web content that is accessible for other users
+
+-------------------
+== MENTOR ==
+   * demonstrates ability to help other coders develop their html
+   * creates tutorial and/or content to assist other developers and/or designers
+   * contributes regularly to hackbook
+
+== TEACHER == 
+   * demonstrates ability to teach a hackshop or p2pu class on webdesign with hackasaurus
+
+== MASTER ==
+ * Or Secret Agent [level up badge]
+   * understands the borders of the browser
+   * understands what encryption means
+   * understanding privacy, tracking and e-commerce
+   * ethical web-making
+   * digital footprint
+   * understanding where your data lives/ portability
+   * understanding what a server is
+
