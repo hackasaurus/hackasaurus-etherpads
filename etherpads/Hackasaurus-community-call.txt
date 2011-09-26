@@ -28,7 +28,6 @@ Festival Planning:
 http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
  * Professional Development
    * Swag- USB sticks with portable FF, jam in a box PDF?
-   * Create a 1 -pager to be sent out to educators- Jess
    * Create a 101 guide to HTML/CSS 
  * Youth Space
    * Swag- stickers?
