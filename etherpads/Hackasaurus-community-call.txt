@@ -50,6 +50,10 @@ Jam in a Box:
      * Resources for community webmaking.
      * Tools for communal webmaking.
 
+Other Events:
+ * Mobility Shifts
+ * Hackjam in Egypt
+ * Hackjam in New Zealand
 
 
 
