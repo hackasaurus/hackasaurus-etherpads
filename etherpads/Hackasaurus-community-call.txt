@@ -35,7 +35,7 @@ http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
  * Design Challenge
 
 Jam in a Box:
- * Mood Board: 
+ * Mood Board: https://www.dropbox.com/home/Jam-in-a-Box#:::68461627
  * Renaming:  Item / Tag
    * ITEM:   
      * The Hack Pack/ Hack Pack
