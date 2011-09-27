@@ -11,9 +11,11 @@ Roll Call (who is here?);
  * Jess
  * Ahmed
  * Richard
- * 
- * 
- * 
+ * Cristina
+ * Anna
+ * Atul
+ * Helen
+ * Enric
 
 Status Update:
  * New Beta release date: November 4, 2011- Moz Fest
@@ -21,22 +23,22 @@ Status Update:
  * Events:
    * Discussion Questions:
      * copyright
+       * Jess asked Ryan... will follow up and will probably apply to the project at large (not just the printables)
      * portable firefox
+       * talking to Kev Needham- assign Atul via lighthouse
      * BYOB
  * Website
+   * Information Architecture needs to be redesigned
+   * Next Tuesday call: Devoted to the website
+   * Events page has a map: http://hackasaurus.org/events/
+   * FAQs ready to go up?
+ * Stickers 0.5 alpha
+   * http://netfools.com/stickers/
+   * Swag-O-Matic 0.5 alpha 
+   * http://netfools.com/swag-o-matic/
+   * Comments from Reps-General - Too Complicated 
+   * Thumbs up to Anna for finding the CSS bug!
 
-Festival Planning:
-http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
- * Who is on the Hackasaurus street team?
- * Professional Development
-   * Swag- USB sticks with portable FF, jam in a box PDF?
-   * Create a 101 guide to HTML/CSS 
- * Youth Space
-   * Swag- stickers?
-   * Create a template invitation for presenters- Anna
- * Design Challenge
- * Ticket pricing
-   * Do youth need to pay? Normal price $100, Students $50 https://donate.mozilla.org/page/contribute/festival-register/
 
 Jam in a Box:
  * Mood Board: https://www.dropbox.com/home/Jam-in-a-Box#:::68461627
@@ -53,6 +55,21 @@ Jam in a Box:
      * Resources for community webmaking.
      * Tools for communal webmaking.
 
+Egypt Hack Jam
+
+Festival Planning:
+http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
+ * Who is on the Hackasaurus street team?
+ * Professional Development
+   * Swag- USB sticks with portable FF, jam in a box PDF?
+   * Create a 101 guide to HTML/CSS 
+ * Youth Space
+   * Swag- stickers?
+   * Create a template invitation for presenters- Anna
+ * Design Challenge
+ * Ticket pricing
+   * Do youth need to pay? Normal price $100, Students $50 https://donate.mozilla.org/page/contribute/festival-register/
+ * Web Quilt:  http://labs.toolness.com/temp/quilt/
 Other Events:
  * Mobility Shifts- Oct. 12
  * Hive Professional Development workshop- Oct. 14
