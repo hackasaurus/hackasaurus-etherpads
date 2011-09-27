@@ -9,14 +9,15 @@ Sept 27
 
 Roll Call (who is here?);
  * Jess
- * 
+ * Ahmed
+ * Richard
  * 
  * 
  * 
 
 Status Update:
  * New Beta release date: November 4, 2011- Moz Fest
- * Tools:
+ * Tools: http://hackasaurus.github.com/hackasaurus-project-updates/
  * Events:
    * Discussion Questions:
      * copyright
