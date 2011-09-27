@@ -16,6 +16,7 @@ After substantial engagement with the Hackasaurus toolkit a learner will/should 
 
  * Web- Authoring: skills required for making content and publishing to the world wide web
 
+   * understanding   the distinction between resource types--e.g. image URLs vs. web page   URLs. (this will be especially important when kids get to authoring   their own HTML)
    * identify and alter element tags, which surround content and apply meaning to it
    * remix content of element attributes, which appear inside the opening tag and their value is always inside quotation marks
    * remix and create elements, which are the blocks of code that make up webpages.
