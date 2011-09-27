@@ -45,7 +45,7 @@ Jam in a Box:
  * Renaming:  Item / Tag
    * ITEM:   
      * The Hack Pack/ Hack Pack
-     * HACKtivity Kit
+     * HACKtivity Kit 
      * hacKIT / Hack-Kit
     
    * TAGLINE:
@@ -53,9 +53,19 @@ Jam in a Box:
      * Host a Jam.  Hack the Web.  Share a Site.
      * 10-Steps to webmaking  and hosting your own jam.
      * Resources for community webmaking.
-     * Tools for communal webmaking.
+     * Tools for cooperative webmaking.
+     * Build
+     * Teach (learn)
+     * Explore
+     * Webmaking
+     * Create
+     * collaborative
+     * Team webmaking
+     * Webcrafting
 
 Egypt Hack Jam
+https://wiki.mozilla.org/Drumbeat/Hackasaurus/jams
+ * January 
 
 Festival Planning:
 http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
