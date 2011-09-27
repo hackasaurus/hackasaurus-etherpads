@@ -34,6 +34,8 @@ http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
    * Swag- stickers?
    * Create a template invitation for presenters- Anna
  * Design Challenge
+ * Ticket pricing
+   * Do youth need to pay? Normal price $100, Students $50 https://donate.mozilla.org/page/contribute/festival-register/
 
 Jam in a Box:
  * Mood Board: https://www.dropbox.com/home/Jam-in-a-Box#:::68461627
