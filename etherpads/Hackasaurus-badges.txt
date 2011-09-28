@@ -134,6 +134,18 @@ Hackasaurus Badges in detail:
    * understands the difference of local vs cloud hacking
    * understands that there are resources available on the web for developers
 
+== PRODUCER ==
+   * advanced remixes of html & web browsing/research
+     * designing visual representation of superhero
+     * preparing cotent for webpage
+     * place content on webpage
+
+== WORDSMITH ==
+   * develop skill of writing for the web
+     * visit a website
+     * use X-ray goggles to hack into a paragraph on the site
+     * write a story based on superhero created in Producer badge
+
 == SUPER-STYLER == 
    * or: Designer? 
      * incorporates style hacks into their designs by changing the computed style of elements on a page
