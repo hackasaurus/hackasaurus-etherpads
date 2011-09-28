@@ -6,7 +6,7 @@ Week of September 26
  * Revise IT checklist
  * Get some clarity on CC copyright
  * Design a few sample badges
- * Create a list serve for educators
+ * Create a list serve for educators: https://bugzilla.mozilla.org/show_bug.cgi?id=542552
  * Get clarity on if Atul and Jess should work on Navigator Badge
  * Visual audit of like-sites and online kits
  * Taglines
