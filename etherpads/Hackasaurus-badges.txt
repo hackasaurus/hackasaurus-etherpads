@@ -117,8 +117,6 @@ Hackasaurus Badges in detail:
        * Understand element attributes
            * understands that the basic structure of an HTML document includes tags, which surround content and apply meaning to it.
            * Tags can also have attributes, which are extra bits of information. Attributes appear inside the opening tag and their value is  always inside quotation marks.
-           * Tags indicate the beginning and ending of an element. Elements are the blocks of code that make up web pages
-             * QUESTION: Is this skill too advanced for this badge?
        * understands what 'open web' means
          * understands what 'accessibility' means
          * understands that the web "doesn't break" --> i.e., is standards-based, not owned by a company
@@ -133,6 +131,7 @@ Hackasaurus Badges in detail:
    * demonstrate ability to bust a hack
    * understands the difference of local vs cloud hacking
    * understands that there are resources available on the web for developers
+   * Tags indicate the beginning and ending of an element. Elements are the blocks of code that make up web pages
 
 == PRODUCER ==
    * advanced remixes of html & web browsing/research
