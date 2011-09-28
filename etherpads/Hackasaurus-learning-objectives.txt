@@ -5,17 +5,17 @@ After substantial engagement with the Hackasaurus toolkit a learner will/should 
  * Browser Basics: skills required for "retrieving, presenting and traversing information resources on the world wide web"(wikipedia definition of browser)
 
    * identify where the "address bar" is within the browser
-   * identify URLs of webpages and images
-   * demonstrate use of the awesome bar 
+   * demonstrate basic ability to "tweak" the address bar URL
    * open multiple browser tabs and switch between them
-   * master "copy" and "paste"  function 
-   * define the term "HTML"
-   * use the mouse to point, click and scroll over objects on the webpage
-   * understand what the term"encryption" means?
-
+   * master basic selection of content on a web page/address bar
+   * master "copy" and "paste"  function via keyboard shortcuts
+     * within the same web page and between two different ones
+   * use the mouse to point, click, secondary-click (aka "right click") and scroll over objects on the webpage
+   * be able to type non-alphanumeric characters like @, ", < etc.
 
  * Web- Authoring: skills required for making content and publishing to the world wide web
 
+   * understanding   the distinction between resource types--e.g. image URLs vs. web page   URLs. (this will be especially important when kids get to authoring   their own HTML)
    * identify and alter element tags, which surround content and apply meaning to it
    * remix content of element attributes, which appear inside the opening tag and their value is always inside quotation marks
    * remix and create elements, which are the blocks of code that make up webpages.
