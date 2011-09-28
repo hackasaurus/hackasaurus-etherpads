@@ -162,6 +162,8 @@ Hackasaurus Badges in detail:
    * demonstrates ability to work collaboratively
    * demonstrates ability to code html and/or css with a collaborator
    * demonstrates ability to create web content that is accessible for other users
+     * nomination from a peer during a jam session
+     * assisted another participant/peer with coding
 
 -------------------
 == MENTOR ==
