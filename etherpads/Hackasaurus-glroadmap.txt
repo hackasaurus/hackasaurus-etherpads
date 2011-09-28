@@ -1,0 +1,118 @@
+HACKASAURUS LEARNING ROADMAP
+ 
+ Top-level goals:
+ * Prototyping and codifying actual webmaking experiences with youth (curriculum)
+ * Designing and developing an OER for educators to share resources for webmaking (OER)
+ * Cultivating a community of teens & educators with sustained involvement (community)
+
+Beta (November)
+
+Curriculum
+ * User tested with youth and co-developed lesson plan 
+ * Run Hackasaurus jams with youth
+   * Maker Faire
+   * Institute of Play
+   * Brighton
+   * MozFest
+ * Explore opportunities for curriculum co-development:
+   * Hackerspaces
+   * Hackshops/jams
+   * Webmaking certifications/ badges
+   * Self guided web based curriculum
+
+OER
+ * designed and implemented jam-in-a-box
+   * sample lesson plan
+   * sample assessment structure
+   * 10 steps to running a youth focused hacking class
+   * FAQ
+   * permission slip
+   * Talking points
+   * learning objectives
+   * worksheets
+   * Design and implement organizational feedback form
+ * Release blog posts about the jam in a box and have links to wiki
+ * Run xx Hackasaurus Professional Development sessions to user test j.i.a.b
+   * New Visions
+   * Hive NYC
+   * Seaton Hall
+   * Pratt
+   * Mobility Shifts
+   * Mozilla Festival
+ * R + D for OER
+   * research precedents
+   * create a design doc
+     * explore ideal platform (i.e. creating a "github" like system for "forking" education content)
+       * P2PU integration?
+     * explore potential partnerships for co-development
+       * New Visions
+       * Parsons
+
+Community 
+ * Draft an engagement strategy
+Educators
+ * Create a list-serve via Google group/Form
+ * Add a form for educators to sign up on website
+ * Prototype recruiting and training model in Hive
+       * Educators need to complete design challenge (following training) to demonstrate a certain level of mastery of basic HTML, CSS and design w/ Hksrs tools
+       * Get badge to be a Hackasaurus facilitator 
+ * Recruit local youth champions to represent Hackasaurus at Drumbeat London
+ * Develop a Hackasaurus Educator leadership circle
+   * NYPL
+   * Institute of Play
+   * Mouse
+   * AMNH
+   * Hive at Large
+
+Teens
+ * Recruit local youth champions to represent Hackasaurus at Moz Fest London
+
+
+(December)
+Curriculum
+ * Prototype self guided web based curriculum 
+
+OER
+
+Community
+
+Educators
+ * Distribution of Hackasaurus media content developed for Hacktivity Kit
+ * Collect and distribute feedback from community
+ * Send an email to mailing list-
+   * send them current website launch, social media links
+   * have 3 calls to action for response
+
+Teens
+ * Design a model for recruiting and training youth Hackasaurus facilitators
+ * Create a list-serve via Google Form
+ * Add a form for youth to sign up on website?
+ * Prototype recruiting and training model in Hive
+       * Teens need to complete design challenge (following training) to demonstrate  a  certain level of mastery of basic HTML, CSS and design w/ Hksrs tools
+       * Get badge to be a paid Hackasaurus facilitator 
+ * Teens run jams 
+ * Teens run P2PU course on busting a hack
+ * Craft specific design missions (with teens) for youth to respond to in jams
+ 
+ Q1 2012
+
+Curriculum
+ *  Design and implement self guided web based curriculum
+ 
+ 
+ 
+ 
+ 
+12 months (June 2012)
+Curriculum
+   * A trajectory for learners interested in web design/ development defined
+OER
+   * Incorporate lesson plans and related media into the Cookbook/Toolkit (see events roadmap)
+Community
+   * Cultivation and support of Hackasaurus educators 
+
+ 
+ 
+
+ 
+

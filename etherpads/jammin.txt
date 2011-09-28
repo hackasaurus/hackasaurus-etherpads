@@ -1,0 +1,255 @@
+Printable Hack Jam in a Box
+Updated: September 22, 2011
+
+Roadmap:
+
+Week of Sept 26: Conceptualizing, Strategizing, Thinking
+ * Visual audit of like-sites and online kits
+ * Taglines
+ * Name of "Jam in a Box"
+ * Treatment for Item/Tag 
+ * Palette exploration
+ * graphic clean up of the Hackasaurus logo
+ * Gather supplied art/ logos/ superheroes
+   * Files to send Cristina:
+     * Hackasaurus logo
+     * Mozilla logos [In block format and text only]
+       * http://www.mozilla.org/en-US/press/media/logos/
+     * fonts: http://www.dafont.com/8bit-wonder.font 
+     * Superhero illustrations
+     * All current versions of existing printables:
+       * 10 steps to a design jam
+       * certificate
+       * cheat sheet
+       * superhero power pack
+       * badges
+     * Photography from events 
+     * textures
+ * clarification on creative commons licence language- Jess
+
+Week of October 3: Building out Templates
+ * Table of Contents
+ * Figure out what are the templates that need to be designed
+ * Start drafting a few master templates
+   * Cheatsheets
+   * Lesson Plans
+   * TOC/FAQ
+   * etc..
+ * Submit design explorations for templates
+
+Week of October 10:Refinement of Templates and Style Check- in for Website
+ * Refine chosen directions
+ * Create the master templates for each "category"
+
+Week of October 17:
+ * Add content to master templates
+ * 
+Week of October 24:
+ * Revise text/art/ content
+ * Start user testing with educators
+
+Week of October 31:
+ * Production leading up to the Mozilla Festival
+ * Nov 4-6: Moz Fest: https://mozillafestival.org/
+
+Week of November 7:
+
+
+
+
+Brainstorming on Name and Tagline for the "jam in a box":
+
+ITEM:   
+The Hack Pack/ Hack Pack
+HACKtivity Kit: An Educators' Guide for Webmaking
+HACKtivity Kit: Teach Webmaking. Host a Jam. Collaborate With Others.
+hacKIT / Hack-Kit
+    
+TAGLINE:
+Deconstruction Instruction for the web.
+Host a Jam.  Hack the Web.  Share a Site.
+10-Steps to webmaking  and hosting your own jam.
+Resources for community webmaking.
+Tools for communal webmaking.
+
+Action: present at call: http://etherpad.mozilla.com:9000/Hackasaurus-community-call
+
+
+Hack Jam Event Toolkit
+Updated:August 1, 2011
+****THIS IS A DRAFT DOCUMENT/ NOT READY FOR PUBLIC RELEASE****
+
+Toolkit components:
+
+ * 10 Step Plan for hosting a Youth Jam
+ * I.T. checklist
+   * Build Your Own Browser: hackasaurus style
+ * FAQs
+ * How to Publicize your jam
+ * Sample Lesson plans and activities
+ * Media:
+   * Videos: Promo Trailer
+   * Tools: Instructables
+   * Logos and Printables
+   * Permission Slip Builder
+   * Hackasaurus Badge
+   * Embeddable banner.
+ * Printable materials:
+   * Factsheets
+   * Sign-Up Sheets
+   * Stencils
+   * Stickers
+   * Fliers
+   * Cheat sheets
+ * Badges
+   * "diploma"- like certificates for teachers etc, to bestow
+
+10 STEP PLAN FOR HOSTING A YOUTH JAM
+================================================
+<GRAPHIC>
+
+1. START EARLY
+A successful jam takes some time to plan, but with a little elbow grease, your event could rock. At least a month prior to the jam you should have the venue identified, the date confirmed and the core planning team more or less in the works.  At  least two weeks prior to the jam you should have permission slips disseminated. This is particularly important if you plan on having  teens  engage in open design, where they are sharing their work on the  web and  documenting.
+
+2. CALL  SUPERHEROES AND HACKERS-IN-TRAINING (H.I.T's)
+Invite youth and  facilitators who have experience in the field  and/or with kids and work with them in advance to develop a game plan or curriculum for the day  of the jam. It's good to have some people with technical skills on hand to troubleshoot as well as act as a creative support system. Consider approaching local universities or tech organizations to act as on-site mentors. After the team is formed, assign tasks to all of the  facilitators in the room. Documentor, Tech  support,  etc. Don't have  anyone lingering- this needs to be established  as an  interactive/  collaborative  YOUTH space.
+
+3. DECIDE ON THE TOPIC OR THEME OF THE JAM
+ Hacking for the sake of hacking, can be fun for some- but not everyone. This is an opportunity to think creatively about incorporating technology into the work that you already do. Is there a project already underway in your organization or neighborhood that you want to build enthusiasm or crowd-source data or content for? Remember, the technology or media should not be the theme of the jam, just a strategy for implementation. Some past jams have included: Hacking Citizen Science, Social Hacktivism and Entrepreneurship 101
+ 
+4. SET EXPECTATIONS FOR OUTCOMES
+The  goal of every jam is to make something. Set expectations for outcomes so that both the youth and facilitators know the expectations coming into the jam. Reinforce this with publicity efforts and messaging happening around the event.
+ 
+5. DEVELOP THE LESSON  OR EVENT PLAN 
+Working with your team of Superheroes and H.I.T's - plan out the lesson or event plan. A jam is not a class, it is SUPPOSED to informal and playful. However, this kind of environment still needs to be structured- particularly when you are a) working with new technologies and b) planning for youth under the age of 18. Many of the event plans allow for some dedicated instruction combined with experimentation time. Check out hackasaurus.org and build off some existing curriculum or upload your own and get feedback from the Hackasaurus community of educators, techies and geeks. 
+
+6. SET-UP FOR SUCCESS
+Define space in the venue that you will be hosting the jam. Break up the space as much as possible. We don't want this to look like a classroom. Move chairs into a circle. Set up a projector connected to a laptop that everyone can have easy access to share their work. Make sure that the space satisfies everything listed in the I.T. Checklist.
+
+7. MAKE A PLAY/ MAKER SPACE
+Make every attempt humanly possible to define the jam space as interactive. Start out with some thematic ice-breakers to get people talking and defining their identities within the crowd. 
+
+Hey Jess - somewhere in here i think folks are going to have to introduce vocabulary, e.g., "hack" as a term should be explored early on. The icebreaker is a great way to do that but is work setting things up so that youth have a conversation about what all of the different vocabulary is about. Might be useful to add that to the cheat sheets as well - just a thought.
+
+--ICE BREAKER ACTIVITY: HACK THIS DANCE--
+a. Tell the participants that they are going to hack a dance.
+b.  Play a familiar dance song (like the macarena, the qua qua "chicken  dance", or the superman) and demonstrate, or have participants  demonstrate the dance:
+
+Macarena:http://www.youtube.com/watch?v=vlzwuFkn88U
+Qua Qua:http://www.youtube.com/watch?v=6UV3kRV46Zs
+Superman:http://www.youtube.com/watch?v=sLGLum5SyKQ
+
+c.Tell participants that they need to hack the dance, but here are the instructions to hack it:
+
+Simple Rules for everyone:
+ * Participants form a circle and a song starts playing
+ * The facilitator makes a dance move and either  tags the person next to her or anywhere else in the cirlce
+ * If the person standing next to the facilitator is tagged,  that person has to repeat the dance move performed by the facilitator
+ * If  the facilitator tags someone not next to her, that person has to hack the move
+ * Repeat mechanic till everyone at the circle has danced.
+
+Explain ground rules for the space: 1. Respect-   we define respect in this space- don't talk when other people  are talking and honor the fact that people have different opinions 2.Inclusion- collaborating can be fun and creative, let's figure out how. Finally, throw in a curveball-if they have a question or there is a word that they don't know they should interrupt that person
+
+somewhere before 8, facilitators should have a clear sense of what the ultimate goals of hosting this jam are: what should youth leave knowing and being able to do? that might also be a "material" above. I think it's okay to let the goals be flexible, but educators are going to want somewhere to start so that they can guide learning, even if in a constructivist way.
+
+8. BUST A HACK IN A MAJOR WAY
+Don't hold back! As soon as possible, start hacking away. Bust a hack- on the big projector with participants. Let participants start hacking away. Participants don't want to hear what cool things they can do, they want to get dirty and figure it out themselves- let them.
+
+9. WORK IN TEAMS AND SHARE
+Let  teens work together in teams, and throughout the jam encourage  them to  take on specific roles on their project (i.e., visual designer,  coder,  project manager, documentarian).Have the youth present what  they did, encouraging conversation about process and techniques!  Everyone shares something useful that they learned- only one sentence to  answer and if there is someone who said something interesting, shout it  out and let them know that you agree. Embed a light weight de-brief  into the sharing out of useful things.
+ 
+
+10. FOLLOW UP
+As soon as your jam is over, upload your pictures to a public repository like Flickr. Direct participants to resources so that they can continue making, hacking, building and connecting to peers who they met at the jam.
+
+
+I.T. CHECKLIST
+================================================
+Moved to here:
+http://etherpad.mozilla.com:9000/hackasaurus-technical-checklist
+
+
+FREQUENTLY ASKED QUESTIONS
+================================================
+ * What is a "jam"?
+   * one- day design, hacking or game sessions
+   * just like a music jam, a design jam gives designers the chance to make something and have other makers riff off of their work.
+   * youth team up to solve design challenges
+   * youth learn from eachother while working on actual problems
+   * sessions run by local organizations and volunteers
+   * youth have opportunity to see and work with each other 
+
+ * How does it work? 
+   * attendees sign up via evite or through individual institutions channels
+   * Teams are shown User Experience Techniques and tools from the Hackasaurus website required for completing the design challenges
+   * Teams are giving a design challenge that they tackle by doing research,
+            sketching, testing and other UX techniques.
+   * Teams share their process and ideas halfway through. 
+   * The day finishes with final presentations.
+
+ * What are the potential outcomes?
+   * coming away with knowledge of a new skill
+   * learning about a new process
+   * meeting peers/ colleagues from across the city and in their local communities
+   * identifying as a designer, storyteller, gamer etc.
+   * developing new ways for people to connect and learn new skills briefly
+   * professional development/ learning by doing
+   * develop shared set of open source resources for our community
+   * educating youth about the open web
+   * opportunity for institutions, orgs and youth to test out and develop prototypes and half- baked ideas
+
+
+3. HOW CAN YOU GET INVOLVED?
+
+Jams Calendar
+Have an event date in mind? Please add here. Add your jam to our wiki? to our map?
+
+HOW TO PUBLICIZE YOUR JAM
+===============================================
+Creating a buzz around your jam can add to the excitement of the day and make your event  a huge success. Here are some tips to help you publicize and get media coverage for your jam:
+
+ * Write 5- 10 Talking Points- You and your core planning team will want to speak about the work that you are doing publicly. It is important to have consistent language to explain what you are trying to do. One way to this is to craft 5- 10 sentences or ideas that help you to communicate your message. [link to a sample set of talking points]
+
+ * Craft a press release- A press release is usually a one page document describing your event, your organization and anything noteworthy that you might want to communicate to press. This document should be carefully written as it a document that reporters will quote directly from when writing their stories. Be sure to include links to websites and other resources connected to your event. Finally, remember to include clear contact information so that the press knows who to follow up with.  [link to sample press release] 
+
+ * Buddy up with the Press- Create a press list and send out the press release at least a week before the event. Think about all of the potential media outlets in your community: parent groups, techie meetups, bloggers, newspapers, podcasters, tweeters etc. Do some research to help you beef up your list. If your jam is thematic- look into related media representatives. If the press follow up with you, remember to be honest and creative. When in doubt, you can rely on your talking points to guide you through the conversation or email. 
+
+ * Leverage Social Media- Show the world what you are up to with consistent posts to social media sites including:Facebook, Twitter, Flickr, YouTube/ Vimeo and Blogs. Get creative and make your own buzz in these spaces.You can make your own promotional videos or how-to tutorials and publicize these on the Hackasaurus site and/ or through your own distribution channels.
+
+CURRICULUM/ EVENT PLAN BUILDER
+===============================================
+Categories:
+ * Title
+ * Duration
+ * Standards
+ * Objectives
+ * Materials
+ * Facilitator Procedure
+ * Further Reading/ Reference Materials
+
+DOWNLOADS AND LINKS
+===============================================
+Need to fill this section out
+
+   * Videos: Promo Trailer
+   * Tools
+   * Logos and Printables
+   * Permission Slip Builder
+   * Hackasaurus Badge
+
+PRINTABLE MATERIALS
+===============================================
+Need to fill this section out
+
+   * Banners
+   * Factsheets
+   * Sign-Up Sheets
+   * Stencils
+   * Stickers
+   * Fliers
+
+
+
+
+
+
