@@ -5,6 +5,37 @@ US or Intl. +1 650 903 0800 Ext. 92 Conference number 7600#
 US Toll-Free +1 800 707 2533 PW 369 Conference number 7600#
 irc.mozilla.org #hackasaurus: http://j.mp/chatzilla 
 
+October 4
+
+Roll Call (who is here?):
+ * 
+ * 
+ * 
+ * 
+
+MozFest Planning:
+http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
+ * Who is on the Hackasaurus street team?
+ * Professional Development
+   * Swag- USB sticks with portable FF, jam in a box PDF?
+   * Create a 101 guide to HTML/CSS 
+ * Youth Space
+   * Swag- stickers?
+   * Create a template invitation for presenters- Anna
+ * Design Challenge
+ * Ticket pricing: youth free
+ * Web Quilt:  http://labs.toolness.com/temp/quilt/
+
+Other Events:
+ * Mobility Shifts- Oct. 12
+ * Hive Professional Development workshop- Oct. 14
+ * Hackshops at the Institute of Play- Oct 5, 12, 19
+ * Hackjam in Egypt
+ * Hackjam in New Zealand
+   * Hackjam in Nairobi
+
+*Conversation about website shifted to next week
+
 Sept 27
 
 Roll Call (who is here?);
