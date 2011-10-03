@@ -89,9 +89,9 @@ Teens
  * Add a form for youth to sign up on website?
  * Prototype recruiting and training model in Hive
        * Teens need to complete design challenge (following training) to demonstrate  a  certain level of mastery of basic HTML, CSS and design w/ Hksrs tools
-       * Get badge to be a paid Hackasaurus facilitator 
- * Teens run jams 
- * Teens run P2PU course on busting a hack
+       * Get badge to be a Hackasaurus facilitator 
+       * Teens run jams 
+       * Teens run P2PU course on busting a hack
  * Craft specific design missions (with teens) for youth to respond to in jams
  
  Q1 2012
