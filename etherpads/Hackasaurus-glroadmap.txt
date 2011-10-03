@@ -99,10 +99,6 @@ Teens
 Curriculum
  *  Design and implement self guided web based curriculum
  
- 
- 
- 
- 
 12 months (June 2012)
 Curriculum
    * A trajectory for learners interested in web design/ development defined

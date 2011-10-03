@@ -32,7 +32,7 @@ Other Events:
  * Hackshops at the Institute of Play- Oct 5, 12, 19
  * Hackjam in Egypt
  * Hackjam in New Zealand
-   * Hackjam in Nairobi
+ * Hackjam in Nairobi
 
 *Conversation about website shifted to next week
  * Proposed IA (anna) http://dl.dropbox.com/u/228132/hackasaurus/ia-1.gif
