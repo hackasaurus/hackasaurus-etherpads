@@ -1,0 +1,96 @@
+Hackasaurus Glossary
+
+( some of these definitions can be found throughout http://www.20thingsilearned.com/ )
+
+Address Bar
+
+Attributes
+
+Badges - Navigator, Remixer, Producer, Wordsmith, Super-Styler, Webmaker, Peer Coder, Mentor, Teacher, Secret Agent??
+
+Bookmark
+
+Bookmarks Bar
+
+Bookmarklet
+
+Browser
+
+Cloud
+
+CSS
+CSS stands for Cascading Style Sheet. The browser gives content default styles depending on what tags we give it, but if we want to add our own styles, we use CSS. If a web page is like a living organism, CSS is its skin/clothing.
+
+Data
+
+Digital Footprint
+
+DOM, Domain
+(these are two completely unrelated things btw--DOM stands for "Document Object Model" and is the conceptual model of how a computer perceives a web page, while domain is e.g. google.com)
+
+E-C-Commerce
+
+Element
+
+Encryption
+
+Goggles, X-Ray Goggles
+
+Internet
+
+Jam
+
+Link
+
+Local
+
+Hack
+
+Hackasaurus
+
+Hackshop
+
+HTML
+HTML stands for HyperText Markup Langauge. We use HTML "tags" to tell  the browser (the bit of software that shows us webpages) what our  content is. When we're writing HTML, this is referred to as "marking up"  content. In other words, we're adding special annotations to it that  makes the content make more sense to humans and computers. If a web page is like a living organism, HTML is like its skeletal system.
+
+JavaScript
+If a web page is like a living organism, JavaScript (or JS for short) is like its brain and central nervous system.
+
+Mozilla
+
+Navigation
+
+Open Web
+
+Participatory Culture
+
+Privacy, Web Privacy
+
+Property
+
+Remix
+
+Selector
+
+Server
+
+Tabs
+
+Tabbed Browsing
+
+Tags
+
+Toolbar
+
+Tracking
+
+URL
+
+Value
+
+Web
+
+Webmaking, Webmaker
+
+Webpage
+
