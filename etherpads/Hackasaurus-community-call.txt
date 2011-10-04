@@ -10,10 +10,11 @@ October 4
 Roll Call (who is here?):
  * Jess
  * Helen
- * 
- * 
+ * Anna
+ * Richard
 
 MozFest Planning:
+Mozilla Festival - https://mozillafestival.org/
 http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
  * Who is on the Hackasaurus street team for the festival?
    * Anna
@@ -24,9 +25,14 @@ http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
 
  * Professional Development
    * 101 guide to HTML/CSS http://hackbook.hackasaurus.org/learn.php
+     * http://hackasaurus.lighthouseapp.com/projects/81480-events/tickets/30-create-a-html-101-guide-for-the-jam-in-a-box#ticket-30-5    
    * Glossary http://etherpad.mozilla.com:9000/Hackasaurus-glossary
    * Slide Set http://bit.ly/nbRbMi
+     *  http://etherpad.mozilla.com:9000/openweb
+     * Open Web definitions (slide #12+) needs fine-tuning for language?  More youth-friendly language
+     * Transform slides into HTML slides - Richard
    * Other materials from the wiki: https://wiki.mozilla.org/Drumbeat/Hackasaurus/jams
+     * Solid 1 hour lesson plans (targeted towards educators)
  * Youth Space
    * Create a template invitation for presenters -Anna:
      * On November 4th-6th, the Mozilla Festival is coming to London's Ravensbourne College, and we'd love you to be involved. We're looking for people to share the things they've built at our Youth Space on the Saturday and Sunday. Our goal is to bring people together to learn new skills that they can teach to others. There'll be lots of exciting things going on throughout the festival, so don't miss out!
@@ -41,7 +47,7 @@ http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
 Other Events:
  * Mobility Shifts- Oct. 12
  * Hive Professional Development workshop- Oct. 14
- * Hackshops at the Institute of Play- Oct 5, 12, 19
+ * Hive Hackshops: http://etherpad.mozilla.com:9000/hackasaurus-hive-calendar
  * Hackjam in Egypt
  * Hackjam in New Zealand
  * Hackjam in Nairobi
