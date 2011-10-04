@@ -39,10 +39,13 @@ http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
  * Design Challenge
  * Ticket pricing: youth free
  * Web Quilt:  http://labs.toolness.com/temp/quilt/
+     * http://labs.toolness.com/temp/quilt-proposal/
  * Swag:
-   *  USB sticks with portable FF, jam in a box PDF?
+   * USB sticks with portable FF, jam in a box PDF?
    * stickers?
-
+   * USB pens?
+ * Hackasaurus on mobile & tablet devices (e.g. iPad & android tablet)
+   * Mostly work but with some bugs, still debugging
 
 Other Events:
  * Mobility Shifts- Oct. 12
