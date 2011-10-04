@@ -8,24 +8,35 @@ irc.mozilla.org #hackasaurus: http://j.mp/chatzilla
 October 4
 
 Roll Call (who is here?):
- * 
- * 
+ * Jess
+ * Helen
  * 
  * 
 
 MozFest Planning:
 http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
- * Who is on the Hackasaurus street team?
+ * Who is on the Hackasaurus street team for the festival?
+   * Anna
+   * Jess
+   * Atul
+   * Helen
+   * Hive members- Chris, IOP, YouMedia, etc
+
  * Professional Development
-   * Swag- USB sticks with portable FF, jam in a box PDF?
    * 101 guide to HTML/CSS http://hackbook.hackasaurus.org/learn.php
+   * Glossary http://etherpad.mozilla.com:9000/Hackasaurus-glossary
+   * Slide Set http://bit.ly/nbRbMi
+   * Other materials from the wiki: https://wiki.mozilla.org/Drumbeat/Hackasaurus/jams
  * Youth Space
-   * Swag- stickers?
    * Create a template invitation for presenters -Anna:
      * On November 4th-6th, the Mozilla Festival is coming to London's Ravensbourne College, and we'd love you to be involved. We're looking for people to share the things they've built at our Youth Space on the Saturday and Sunday. Our goal is to bring people together to learn new skills that they can teach to others. There'll be lots of exciting things going on throughout the festival, so don't miss out!
  * Design Challenge
  * Ticket pricing: youth free
  * Web Quilt:  http://labs.toolness.com/temp/quilt/
+ * Swag:
+   *  USB sticks with portable FF, jam in a box PDF?
+   * stickers?
+
 
 Other Events:
  * Mobility Shifts- Oct. 12
