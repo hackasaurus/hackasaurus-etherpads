@@ -21,8 +21,8 @@ http://etherpad.mozilla.com:9000/Hackasaurus-mozfest
    * 101 guide to HTML/CSS http://hackbook.hackasaurus.org/learn.php
  * Youth Space
    * Swag- stickers?
-   * Create a template invitation for presenters:
-     * On November 4th-6th, the Mozilla Festival is coming to London's Ravensbourne College, and we'd love you to be there
+   * Create a template invitation for presenters -Anna:
+     * On November 4th-6th, the Mozilla Festival is coming to London's Ravensbourne College, and we'd love you to be involved. We're looking for people to share the things they've built at our Youth Space on the Saturday and Sunday. Our goal is to bring people together to learn new skills that they can teach to others. There'll be lots of exciting things going on throughout the festival, so don't miss out!
  * Design Challenge
  * Ticket pricing: youth free
  * Web Quilt:  http://labs.toolness.com/temp/quilt/
