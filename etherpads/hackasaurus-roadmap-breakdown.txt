@@ -26,7 +26,7 @@ Week of October 3
  * Glossary: Helen http://etherpad.mozilla.com:9000/Hackasaurus-glossary
  * Write up Goals Matrix/ Rubric : Helen
  * Clean up lesson plan : Helen
- * Hackasaurus Wordpress pages
+ * Hackasaurus Wordpress pages for
    * Educators (ready for Oct 14 PD) http://eduhackasaurus.wordpress.com/
    * Youth (need to be updated) http://hackasaurus.wordpress.com/
  * Write survey/questionnaire for follow up from PD
