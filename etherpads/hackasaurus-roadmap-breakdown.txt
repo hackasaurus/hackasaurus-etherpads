@@ -23,9 +23,12 @@ Week of October 3
  * Recruit educators to be part of the Educator Leadership Circle
  * Work on html5 slide set w/ Surman
  * Work on slides with Richard
- * Glossary: Helen
+ * Glossary: Helen http://etherpad.mozilla.com:9000/Hackasaurus-glossary
  * Write up Goals Matrix/ Rubric : Helen
  * Clean up lesson plan : Helen
+ * Hackasaurus Wordpress pages
+   * Educators (ready for Oct 14 PD) http://eduhackasaurus.wordpress.com/
+   * Youth (need to be updated) http://hackasaurus.wordpress.com/
  * Write survey/questionnaire for follow up from PD
  * Draft engagement/event strategy for Q4- looking towards 2012
  * Follow up with Legal about the permission slip
