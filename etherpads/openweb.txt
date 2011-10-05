@@ -4,7 +4,7 @@ We often talk about the power or importance of the open web, but what do we real
 
 I think our messaging for tweens and educators should focus on "creating a generation of web-makers." 
 
-- I Don't think this is about messaging as much is it is using a Understanding by Design approach (http://books.google.com/books?id=N2EfKlyUN4QC&printsec=frontcover&dq=inauthor:%22Grant+P.+Wiggins%22&hl=en&ei=_7sEToemEcj00gH7oLzdCw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q&f=false) to building a curriculum model that grounds Hackasaurus as a means to explore and construct knowledge about why it is essential to create a generation of web-makers. There has to be a "why" that they emerge with or else why not just be a passive consumer? +1
+- I Don't think this is about messaging as much is it is using a Understanding by Design approach (http://books.google.com/booWeb X-Ray Gogglesks?id=N2EfKlyUN4QC&printsec=frontcover&dq=inauthor:%22Grant+P.+Wiggins%22&hl=en&ei=_7sEToemEcj00gH7oLzdCw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q&f=false) to building a curriculum model that grounds Hackasaurus as a means to explore and construct knowledge about why it is essential to create a generation of web-makers. There has to be a "why" that they emerge with or else why not just be a passive consumer? +1
 
 If you are saying the word "hack", you need to define it in conjunction with this larger philosophy of building an open web.
 
