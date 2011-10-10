@@ -9,3 +9,4 @@ hackasaurus-roadmap-breakdown
 jammin
 Hackasaurus-glroadmap
 Hackasaurus-glossary
+hacktivity-kit
