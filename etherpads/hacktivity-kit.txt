@@ -1,0 +1,73 @@
+Hacktivity Kit
+
+Cover Page 
+ * Hackasaurus logo
+ * Hacktivity Kit logo- Cristina
+ * possibily an image
+ * mozilla logo
+
+How this Kit is organized- Jess
+ * Reference the About page: http://hackasaurus.org/about/ (eg this paragraph: Hackasaurus spreads skills, attitudes and ethics that help youth thrive  in a remixable digital world. By making it easy for youth to tinker and  mess around with the building blocks that make up the web, Hackasaurus  helps tweens move from digital consumers to active producers, seeing the  web as something they can actively shape, remix and make better.)
+ * Use this as a guide
+ * Feel free to remix it
+ * Goal = empowering you to collaborate and teach youth how to code
+ * Explain the 10 steps (in the T.O.C)
+
+Table of Contents
+ * Preparing for a Youth design jam
+ * Choose a theme and set learning goals
+ * Design the Lesson or Event Plan
+ * Set up for Success
+ * Work in Teams and Share
+
+Chapter 1: Preparing for a Youth Design Jam
+ * Prepping for the design jam
+   * Frequently Asked Questions - Anna to review
+   * Sample Permission slip - Jess follow up with legal
+   * Basic guide to HTML and CSS to familiarize yourself with coding - Anna
+   * Review the slide set - Jess to finish and give to Richard
+ * Call All Superheroes
+   * Recruiting facilitators and volunteers for your design jam
+     * Recruitment form template - Jess to bullet point
+     * Call to action recruitment poster - Jess to bullet point
+     * Talking Points about Hackasaurus- Anna to review
+
+Chapter 2: Choose a theme and set learning goals
+ * Having a design jam does not have to be themed around hacking
+   * Hackasaurus learning objectives
+ * Set Expectations for Outcomes
+   * Publicizing the event 
+   * videos
+   * embeddable/ reusable logos/ imagery
+
+Chapter 3: Design the Lesson or Event Plan
+ * Creating a lesson plan for youth
+   *  Superheroes of the Open Web Lesson Plan
+   *  Slide Presentation- basic slide set to teach the tools
+   *  X-Ray Goggles Cheat Sheet 
+   *  HTML Cheat Sheet (anna)
+   *  CSS Cheat Sheet (anna)
+   *  Superhero Power Pack / Superhero Badges (?)- Jess to design
+   *  Superhero Assessment Rubric 
+   * Glossary- Helen and Atul?
+
+Chapter 4: Set up for Success
+ * Technical and logistics prep for the event
+   * Technical Checklist - Anna to review https://etherpad.mozilla.org/hackasaurus-technical-checklist
+   * Stencils - Jess to design
+   * Stickers  - get link from Richard
+   * Fliers - Jess to bullet point
+ * Think of Participants as Makers
+   * Making the jam space interactive- Jess
+   * Ice breakers - compile ice breakers into 1 doc - Jess
+
+Chapter 5: Work in Teams and Share
+ * Tips for Working Open with Teens - Jess
+ * Tips for working on the project?- Anna
+ * Follow up
+   * Link to flickr pool
+   * Debrief guide- Jess
+   * Resources for designers and developers- Anna
+
+            
+
