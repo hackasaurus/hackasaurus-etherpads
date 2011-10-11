@@ -58,7 +58,6 @@ Educators
  * Prototype recruiting and training model in Hive
        * Educators need to complete design challenge (following training) to demonstrate a certain level of mastery of basic HTML, CSS and design w/ Hksrs tools
        * Get badge to be a Hackasaurus facilitator 
- * Recruit local youth champions to represent Hackasaurus at Drumbeat London
  * Develop a Hackasaurus Educator leadership circle
    * NYPL
    * Institute of Play
@@ -67,14 +66,35 @@ Educators
    * Hive at Large
 
 Teens
- * Recruit local youth champions to represent Hackasaurus at Moz Fest London
-
+ * Recruit local youth champions to co-develop Hackasaurus
 
 Tech
- * Web Goggles
+ * Web X-Ray Goggles
+   * fixing major bugs, various copy changes
+   * site metrics
+   * http://labs.toolness.com/temp/hackasaurus-dashboard/
+ * Website
+   * unified look and feel
+   * cleaned up navigation
+   * cleaned up information architecture
+ * Webpad
+   * out of scope for beta
+ * Hackbook
+   * out of scope for beta
 
 
 (December)
+
+Curriculum, OER, Community, Tech
+ * Follow up from MozFest
+ * clean up design docs on the OER
+ * figure out next steps for self guided curriculum
+ * website cleanup
+
+ 
+ Q1 2012
+
+
 Curriculum
  * Prototype self guided web based curriculum 
 
@@ -94,17 +114,34 @@ Teens
  * Create a list-serve via Google Form
  * Add a form for youth to sign up on website?
  * Prototype recruiting and training model in Hive
-       * Teens need to complete design challenge (following training) to demonstrate  a  certain level of mastery of basic HTML, CSS and design w/ Hksrs tools
+       * Teens  need to complete design challenge (following training) to demonstrate   a  certain level of mastery of basic HTML, CSS and design w/ Hksrs tools
        * Get badge to be a Hackasaurus facilitator 
        * Teens run jams 
        * Teens run P2PU course on busting a hack
  * Craft specific design missions (with teens) for youth to respond to in jams
- 
- Q1 2012
 
-Curriculum
- *  Design and implement self guided web based curriculum
- 
+Tech
+ * Goggles 
+   * social persistence
+   * integration with Hackbook
+ * Website
+   * designing a style guide
+   * building out systems participation
+   * building out systems for tracking participation
+   * Self-guided curriculum
+ * Webpad
+   * cleaning up the interface
+   * adding instructions for users
+   * moving it from "an experiment" to a tool offering within Hackasaurus
+   * unifying look and feel with the rest of Hackasaurus 
+ * Hackbook 
+   * productizing this tool
+   * reviewing all of the content
+   * having editor parse for language
+   * unifying look and feel with the rest of Hackasaurus
+
+
+
 12 months (June 2012)
 Curriculum
    * A trajectory for learners interested in web design/ development defined
