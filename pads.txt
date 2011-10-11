@@ -10,3 +10,6 @@ jammin
 Hackasaurus-glroadmap
 Hackasaurus-glossary
 hacktivity-kit
+hackasaurus-nypl
+hackasaurus-hive
+hackasaurus-hive-calendar
