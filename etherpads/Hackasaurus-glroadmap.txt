@@ -1,14 +1,15 @@
-HACKASAURUS LEARNING ROADMAP
+HACKASAURUS  ROADMAP
  
  Top-level goals:
  * Prototyping and codifying actual webmaking experiences with youth (curriculum)
  * Designing and developing an OER for educators to share resources for webmaking (OER)
  * Cultivating a community of teens & educators with sustained involvement (community)
+ * Prototyping technical innovations around webmaking with youth (tech)
 
 Beta (November)
 
 Curriculum
- * User tested with youth and co-developed lesson plan 
+ * Curriculum focused on X-Ray Goggles: user tested with youth and co-developed lesson plan
  * Run Hackasaurus jams with youth
    * Maker Faire
    * Institute of Play
@@ -19,9 +20,10 @@ Curriculum
    * Hackshops/jams
    * Webmaking certifications/ badges
    * Self guided web based curriculum
+     * explored comic/ parable
 
 OER
- * designed and implemented jam-in-a-box
+ * designed and implemented Hacktivity Kit
    * sample lesson plan
    * sample assessment structure
    * 10 steps to running a youth focused hacking class
@@ -31,8 +33,8 @@ OER
    * learning objectives
    * worksheets
    * Design and implement organizational feedback form
- * Release blog posts about the jam in a box and have links to wiki
- * Run xx Hackasaurus Professional Development sessions to user test j.i.a.b
+ * Release blog posts about the hacktivity kit and have links to wiki
+ * Run 6 Hackasaurus Professional Development sessions to user test Hacktivity Kit (and develop an engagement strategy for educators)
    * New Visions
    * Hive NYC
    * Seaton Hall
@@ -66,6 +68,10 @@ Educators
 
 Teens
  * Recruit local youth champions to represent Hackasaurus at Moz Fest London
+
+
+Tech
+ * Web Goggles
 
 
 (December)
