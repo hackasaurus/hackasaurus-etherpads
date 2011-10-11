@@ -94,7 +94,6 @@ Curriculum, OER, Community, Tech
  
  Q1 2012
 
-
 Curriculum
  * Prototype self guided web based curriculum 
 
