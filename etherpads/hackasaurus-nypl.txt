@@ -1,0 +1,23 @@
+Hackasaurus- NYPL 
+
+1. Hacklab on wheels:
+ * NYPL to dedicate a staff member to facilitate these sessions/work on curriculum
+ * NYPL to start bullet pointing concept
+ * Jess to look into potential funding w/ Make
+ * Curriculum/ instructables will be created in a modular way so that they can be used in other libraries across the country
+
+2. YALSA
+
+ * Hack the YALSA website design challenge:
+   * The goal of this challenge is to use the mozilla Hackasaurus Web X-Ray Goggles to create a new design for the YALSA teen website that reflects a more youthful and innovative vibe. The top 5 designs will be highlighted on the YALSA homepage, blogs and may have the chance to be featured on the Mozilla  Hackasaurus website.  The winning design will also have extra special recognition with the Champion YALSA Hacker badge. 
+
+     * Think about a design that: 
+       * incorporates unique graphic art
+       * has text the appeals to youth
+       * has a background color
+       * incorporates the YALSA logo 
+
+ * Jack and Chris to follow up with Beth re: the Yalsa meeting in TX
+ * NYPL to find staff to blog about ways for librarians to incorporate Hackasaurus and hacking into their programs
+
+

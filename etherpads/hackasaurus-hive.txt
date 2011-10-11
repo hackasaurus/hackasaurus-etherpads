@@ -1,0 +1,136 @@
+Hackasaurus Hive Hangout
+October 3, 2011, 10:00am
+New York Public Library
+455 Fifth Avenue
+New York, NY 10016
+
+Roll Call (Who is here?)
+ * Jess Klein - Mozilla
+ * Helen Lee-  Hive graduate intern (Columbia U. Teachers College)
+ * Chubby Checker
+ * Chris Shoemkaer- NYPL
+ * Michael Foster- AMNH
+ * Chris Lawrence- Hive
+ * Ariam Mogos- AMNH
+ * Marc Lesser- Mouse
+
+Agenda
+
+Update on the status of the project development - Jess
+ * Technical development to date and plans for the future
+   * X Ray Goggles: http://hackasaurus.org/goggles/
+   * Web Pad: http://htmlpad.org/
+   * Hackbook: http://hackbook.hackasaurus.org/
+   * Educational Resources: https://wiki.mozilla.org/Drumbeat/Hackasaurus/jams
+ * Roadmap
+   * Beta release will be at the Mozilla Festival- November 3, 2011 https://mozillafestival.org/
+     * lowest viable product 
+       * refined tools
+       * refined website
+       * version 1 of "jam in a box"
+
+   * OER thread- building out a platform for educators to share lessons, and resources on webmaking
+     * creating a "github" like system for people to "fork" education content
+     * curriculum development
+     * integration with P2PU http://p2pu.org/en/
+
+
+   * Prototyping and codifying actual webmaking experiences with youth
+     * Could include:
+       * Hackerspaces
+       * Hackshops/ Hackjams
+       * Webmaking certifications/ Badges
+       * Self directed web based learning experience/curriculum
+
+   * Creating and supporting an army of awesome facilitators and co-developers
+     * Educators
+     * Youth
+     * professional development materials
+
+What area are we most interested in co-developing? - Group Shareout
+ * NYPL: 
+   * Hackerspaces where Hackasaurus will have modules
+   * Hackjam spaces and events
+   * (PD to some degree)
+   * Teen tech time programs
+     * interest driven sessions
+     * minimal instruction
+   * Using more advanced tech spaces for schools and communities to use
+     * Hamm Grange- has temporary labs
+     * a couple of lab spaces are available 
+
+ * Institute of Play:
+   * informal learning space interested in piloting new approaches + curriculum
+   * interested in hackasaurus and popcorn.js
+   * did one design jam that was a collab btwn mouse, iop and eyebeam
+   * specifically interested in:
+     * kids learning stuff out of school and bring it back into the in - school space
+       * already seen this with pcomp
+     * early release day, kids out from 1:30- 3:30 (when teachers are out doing PD) and then again from 3:30- 5:30 - so during these slots do a series of workshops, moving towards a maker/hackerspace
+     * scaffold a process where kids are working with a number of tools
+     * also interested in developing PD tools for educators and specifically focused on developing content for "nonformal" space
+       * tech integration team
+       * informal learning team
+
+ * Mouse:
+   * Mouses NY sites are lab for Mouse national
+     * What can we do in NY that is innovative and then distributed?
+   * Most interested in: 
+     * bridging divide btwn old school media literacy and computational literacy
+     * difference btwn understanding privacy and creating media
+     * continue building curriculum that helps put young people in the drivers seat
+     * Creating webcraft curriculum
+     * wants to create a series of hack jams in the Spring (already have calendared this)
+       * youth led/ co-facilitated jams
+     * how to use these jams as a way to build out content 
+       * specialist certification? that could be distributed more widely
+   * Mouse Corps
+     * could take on role as hacksplainers
+     * linked to schools
+     * could do jams
+   * Interested in helping out with the PD stuff to help inspire educators (formal and informal)
+
+ * AMNH:
+   * has a center for PD (the Godessman Center) runs PD for teachers - not sure how much of it is happening in the informal learning space
+   * Urban Advantage program collaboration potential?
+   * special exhibitions 
+     * space in an exhibition to hack the exhibition
+     * correcting scientific information
+     * create a curriculum that could be placed in the OER
+     * normally they have explainers, have a youth facilitator who teaches hacking
+   * Youthcan
+     * young people who agree to take on a project around science and social
+     * facilitated globally by Michael and NYC group
+     * there is a NYC conference - could be a space to have a hackspace
+   * Research Hack
+     * you could take research papers and remix it somehow
+   * Advocate Hacking
+     * looking at media and use hacking as a mode of analysis
+
+ * University partners??
+   * NYU Poly?
+   * Parsons?
+   * 
+Action Items:
+ * next 2 meetings set
+   * 10/20- Team mtg at NYPL at 10:00am
+   * 11/18- Team mtg at NYPL at 10:00am
+ * jess to send out:
+   * ether
+   *  calendar: http://etherpad.mozilla.com:9000/hackasaurus-hive-calendar
+ * meet in-person every 5-6 weeks
+ * teen tech week in march
+
+
+
+
+
+
+
+
+
+
+
+
+
+
