@@ -1,0 +1,117 @@
+Hackasaurus Engagement Strategy
+
+Challenge: We have a huge opportunity for co-development and participation with the Hackasaurus project.
+
+1.What do we want them to do?
+
+(a few more low bar, get ben feedback, peer assist later on)
+(sort by easy to hard, maybe even put time estimate beside each)
+
+ * Run a hack jam for youth using Hackasaurus tools
+ * Write a curriculum for hacking a unique topic (ie, citizen science, game design, history)
+ * Create an afterschool hackerspace for youth (1 month setup, 1 day a week ongoing)
+ * User test our tools before we release them
+ * Give us feedback on our tools and curriculum
+ * Document success (break down in more detail. post what? post where?)
+ * Become an advocate for hacking the web 
+ * Teach a class on p2pu using Hackasaurus tools
+ * Co-develop an online learning experience for youth
+ * Attend a hack jam (3 hours)
+ * Create a webcraft certification 
+ * Make a webpage using HTML and CSS
+ * Tell a friend about Hackasaurus
+ * Prototype how to work in the open with youth
+ * Bust a hack, post it to flickr, tweet it with the right tag (15 mins)
+
+2. What motivations or incentives will get them to show up?
+ * Parent who wants their child to have "digital literacy skills"
+ * Youth wants to be a "hacker"
+ * Youth wants to learn HTML and CSS
+ * Parent who wants to support their childs enthusiasm for the computer 
+ * Educator who is looking for something innovative to teach
+ * A community for educators working in webmaking
+ * Mozilla is a trusted name in webmaking- learning from the professionals
+ * Earn a badge (or badges)
+   * Badges for youth but also badges for mentoring and teaching
+ * Get your work published on the internet
+ * Influence how other teachers teach web literacy (by writing curriculum)
+ * Show off as a teacher, be a superstar (and get noticed by your principal)
+ * Be seen as cool or expert by other youth
+ * Something to put on your college (or high school) application
+ * Someone who wants to show the web to other people, show it's easy
+
+3. How do we inspire this community to use the tools on a regular basis in the work that they aleady do?
+ * Use their channels to publicize and ask for help
+ * Make tools that are easy for anyone to use
+ * Have examples that show how to be creative in different settings (museums, libraries, classrooms etc.)
+   * Hackasaurus for Science
+   * Hackasaurus for Poets
+   * Etc.
+   * Citizen X
+
+4. (what tactics?) How do we engage a community of educators and youth to co-develop the project and make it stronger?
+ * Run design challenges for youth
+ * Run curriculum challenges for educators
+ * Large scale Youth Hack Design jams
+ * Small scale Curriculum Design Jams
+ * Create a platform for sharing curriculum (OER)
+ * Create a platform for sharing hacks/ responses for design challenges
+ * Use the website as a way to foster community
+ * Create messaging that makes community feel that they are part of a webmaking movement
+ * Create professional development resources (ie. Hacktivity Kit)
+ * Incentivize becoming a MoYo ambassador through a badge certification
+ * Create high visibility use- case examples
+
+5. How do we support the community (on ongoing basis) once we have warm bodies? (community management)
+ * Forums/message boards
+ * Online newsletter sign up
+ * MoYo Ambassador program
+ * Person / people to greet new comers, support them (Mark has volunteer)
+
+
+Reference Hackasaurus Roadmap: https://etherpad.mozilla.org/Hackasaurus-glroadmap
+(summary:)
+ * Designing and developing an OER for educators to share resources for webmaking (OER)
+ * Prototyping and codifying actual webmaking experiences with youth (curriculum)
+ * Cultivating a community of teens & educators with sustained involvement (community)
+ * Prototyping technical innovations around webmaking with youth (tech)
+
+
+_____________________________________
+
+Collaborations/ Partnerships:
+
+U.S:
+ * Hive NYC: 
+   * https://etherpad.mozilla.org/hackasaurus-hive
+   * https://etherpad.mozilla.org/hackasaurus-hive-calendar
+     * Mouse - webcraft certification/ jams/ PD
+     * NYPL- hacklab on wheels
+     * Institue of Play - hackerspace/ modular curriculum
+     * American Museum of Natural History - hackerspace/ science curriculum/ pd
+     * YouMedia
+     * Parsons? possible course?
+ * Hive CHI - running a PD session in January for members/ seeding jams
+ * Young Adult Library Services Association (YALSA)
+   * Teen Tech Week
+   * PD at conference
+   * Design challenge for youth:https://etherpad.mozilla.org/hackasaurus-nypl
+ * New Visions
+   * Running a design challenge for educators on: youpd.org
+ * US State Department
+ * BAYVAC?
+ * Boston mayors office
+ * The After School Corporation
+   * Professional Development
+   * Curriculum development
+
+International:
+ * Nairobits hackjam (Nairobi, Kenya)
+ * Media Education Project (Ontario, Canada)
+ * Barcelona Media Lab (Barcelona, Spain)
+
+
+Other:
+- currently over a dozen of youth want to work on the project
+- p2pu
+
