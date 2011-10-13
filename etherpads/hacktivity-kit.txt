@@ -63,11 +63,12 @@ Chapter 4: Set up for Success
 
 Chapter 5: Work in Teams and Share
  * Tips for Working Open with Teens - Jess
- * Tips for working on the project?- Anna
+ * Tips for working on the project?- Anna https://etherpad.mozilla.org/how-to-contribute-to-an-open-source-project
  * Follow up
    * Link to flickr pool
    * Debrief guide- Jess
    * Resources for designers and developers- Anna
+     * Links to software like bluegriffon
 
             
 
