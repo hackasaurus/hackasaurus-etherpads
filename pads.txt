@@ -13,3 +13,4 @@ hacktivity-kit
 hackasaurus-nypl
 hackasaurus-hive
 hackasaurus-hive-calendar
+Hackasaurus-engagement
