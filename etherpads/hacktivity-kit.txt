@@ -22,15 +22,15 @@ Table of Contents
 
 Chapter 1: Preparing for a Youth Design Jam
  * Prepping for the design jam
-   * Frequently Asked Questions - Anna to review
+   * Frequently Asked Questions - Anna to review https://etherpad.mozilla.org/Hackasaurus-FAQ
    * Sample Permission slip - Jess follow up with legal
-   * Basic guide to HTML and CSS to familiarize yourself with coding - Anna
+   * Basic guide to HTML and CSS to familiarize yourself with coding - Anna https://docs.google.com/document/d/1gAjmL6GMiLFr8Y6Hjnxsoe60EpHQlM-TnoVfX4x7ecQ/edit?hl=en_US
    * Review the slide set - Jess to finish and give to Richard
  * Call All Superheroes
    * Recruiting facilitators and volunteers for your design jam
      * Recruitment form template - Jess to bullet point
      * Call to action recruitment poster - Jess to bullet point
-     * Talking Points about Hackasaurus- Anna to review
+     * Talking Points about Hackasaurus- Anna to review https://etherpad.mozilla.org/Hackasaurus-talkingpoints
 
 Chapter 2: Choose a theme and set learning goals
  * Having a design jam does not have to be themed around hacking
@@ -63,12 +63,15 @@ Chapter 4: Set up for Success
 
 Chapter 5: Work in Teams and Share
  * Tips for Working Open with Teens - Jess
- * Tips for working on the project?- Anna https://etherpad.mozilla.org/how-to-contribute-to-an-open-source-project
+ * Tips for working on the project?- Anna https://etherpad.mozilla.org/how-to-contribute-to-an-open-source-project (needs feedback)
  * Follow up
    * Link to flickr pool
    * Debrief guide- Jess
-   * Resources for designers and developers- Anna
-     * Links to software like bluegriffon
+   * Resources for designers and developers - Anna ("similar tools" section in wiki appropariate?)
+     * Open source website software: http://bluegriffon.org/
+     * Firebug: https://addons.mozilla.org/en-US/firefox/addon/firebug/?src=search
+     * Web developer toolbar: https://addons.mozilla.org/en-US/firefox/addon/web-developer/
+     * Git for designers: http://www.webdesignerdepot.com/2009/03/intro-to-git-for-web-designers/
 
             
 
