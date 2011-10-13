@@ -67,11 +67,7 @@ Chapter 5: Work in Teams and Share
  * Follow up
    * Link to flickr pool
    * Debrief guide- Jess
-   * Resources for designers and developers - Anna ("similar tools" section in wiki appropariate?)
-     * Open source website software: http://bluegriffon.org/
-     * Firebug: https://addons.mozilla.org/en-US/firefox/addon/firebug/?src=search
-     * Web developer toolbar: https://addons.mozilla.org/en-US/firefox/addon/web-developer/
-     * Git for designers: http://www.webdesignerdepot.com/2009/03/intro-to-git-for-web-designers/
+   * Resources for designers and developers - Anna + Jess https://etherpad.mozilla.org/Hackasaurus-webresources
 
             
 
