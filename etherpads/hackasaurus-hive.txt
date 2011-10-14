@@ -106,6 +106,8 @@ What area are we most interested in co-developing? - Group Shareout
      * you could take research papers and remix it somehow
    * Advocate Hacking
      * looking at media and use hacking as a mode of analysis
+   * fix a exhibition label
+
 
  * University partners??
    * NYU Poly?
