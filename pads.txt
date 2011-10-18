@@ -14,3 +14,4 @@ hackasaurus-nypl
 hackasaurus-hive
 hackasaurus-hive-calendar
 Hackasaurus-engagement
+Hackasaurus-community
