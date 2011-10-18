@@ -1,0 +1,73 @@
+Hackasaurus Community Call
+Meeting and Communications Details  
+These weekly Hackasaurus community calls are open to all. Please join us! :)
+* Weekly dial-in meeting, Tuesday,3:00pm. EST  
+* Canada +1 416 848 3114 Ext. 92 Conference number 7600 
+* US or Intl. +1 650 903 0800 Ext. 92 Conference number 7600
+* US Toll-Free +1 800 707 2533 Pwd: 369 Conference number 7600
+* Mozilla Hackasaurus -> #hackasaurus | IRC channel
+* Please MUTE YOURSELF unless you're speaking. Press *1 to mute or un-mute.
+
+October 18, 2011
+
+Roll Call (please add your name!):
+ * Jess Klein
+ * Richard
+ * Atul
+ * Anna
+ * Enric
+
+Agenda
+
+ * Recent Events report back
+   * Mobility Shifts + several PD sessions
+
+ * Website 
+   * cleaning up the site - pairing down content for beta
+   * http://dl.dropbox.com/u/5445372/websiteredo_10_16.jpg (do not tweet)
+   * Styleguide being developed http://dl.dropbox.com/u/228132/hackasaurus/website-prototype/styleguide.html
+   * Videos: we make videos installing the goggles and cross post on sumo?
+
+ * Festival Update
+   * https://etherpad.mozilla.org/Hackasaurus-mozfest
+     * Can we tighten this up and discuss deliverables that we WANT as an outcome for the festival?
+     * 
+
+ * Hacktivity Kit
+   * Content done
+   * Editor hired
+   * Graphic designer working on it
+     * Feedback on mockups
+       * http://dl.dropbox.com/u/5445372/HacktivityCovers-3.pdf
+       * http://dl.dropbox.com/u/5445372/cover1.jpg
+       * http://dl.dropbox.com/u/5445372/cover2.jpg
+       * http://dl.dropbox.com/u/5445372/SamplePgs-1_Page_8.jpg
+   * Slides
+     * http://htmlpad.org/hackasaurus-presentation-01/
+     * Edit them at: http://htmlpad.org/hackasaurus-presentation-01/edit
+       * (But it looks like the etherpad update borked htmlpad).
+     * Slide Control:
+       * Left and Right arrows change slides.
+       * Up and Down Arrows move to start and end.
+       * Esc to Take or Relinquish Control
+       * Refresh the page after someone takes control to follow.
+       * Refresh again to stop following.
+       * Numbers 1 - 0 chage slide themes.
+     * Mockup for background to match the website etc: 
+       * http://dl.dropbox.com/u/5445372/side_mockup.jpg
+       * http://dl.dropbox.com/u/5445372/slide_blue.jpg
+       * http://dl.dropbox.com/u/5445372/slides-orange.jpg
+
+ * Tools
+   * update from Atul on goggles, (webpad and hackbook) etc.
+
+ * More sessions
+   * 25th oct: Ribes de Freser (Pyrenees) at Televall
+   * 17th nov: Ripoll (Pyrenees) at Televall
+
+
+
+Tuesday, October 11, 2011
+
+***Meeting cancelled***
+
