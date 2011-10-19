@@ -11,9 +11,35 @@ Roll Call (Who is here?)
 
 Agenda
 
-Update post-Hive PD sessions - Jess
-Thoughts & Feedbacks from everyone...
+Feedback and Notes from Mobility Shifts + Hive PD sessions
+Tools:
+ * Focus!!!!
+ * Make the goggles rock
+ * integrate the hackbook into goggles and site
+ * Do away with the webpad or fix it
+ * clean up CSS tool to make it easier to read and use
+ * share: the hacked page line should be included in the html
+ * Hackbook- loved  the "templates" pages
+Resources
+ * Website is all over the place
+   * have a single message
+   * have calls to action
+   * integrate hack book 
+ * Loved navigator badge- everyone wants these kinds of tests for all the skills
+ * Loved the parable +html5 comic
+ * Need to have modules for learning experiences for different ages
+Other
+ * some interest in integrating popcorn + goggles - even if just in curriculum
+ * lots of problems with slow internet connections
+ * NEED to buy Mifi
+ * need to review all of the tools to make sure there isnt casual language 
 
+Update on the status of the project development
+ * showcase new website mockup
+
+Plans for future scheduling
+Update plans for co-development in Hackasaurus Project
+Discuss opportunity of creating a webcraft certfiication as a group project?
 
 
 Hackasaurus Hive Hangout
