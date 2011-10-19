@@ -8,6 +8,31 @@ These weekly Hackasaurus community calls are open to all. Please join us! :)
 * Mozilla Hackasaurus -> #hackasaurus | IRC channel
 * Please MUTE YOURSELF unless you're speaking. Press *1 to mute or un-mute.
 
+
+Website Workflow
+
+Jess in charge of content in so far as copy and design so that changes to that would have to be reviewed by her
+
+Atul is in charge of technical - making sure that code can be localized and other architecture concerns
+
+Anna is in charge of making sure the website the works in multiple browsers
+
+This week: 
+ * Jess + Atul work on site for festival - sprinting
+ * Anna is going to work on making sure that site works in multiple browser and work on the style guide
+
+ * planning for stage 2 of the website which will be implemented in Q1.
+   * http://support.mozilla.com/en-US/army-of-awesome
+
+
+
+
+
+
+
+
+
+
 October 18, 2011
 
 Roll Call (please add your name!):
