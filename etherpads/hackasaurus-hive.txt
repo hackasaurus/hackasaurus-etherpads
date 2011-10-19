@@ -33,6 +33,7 @@ Other
  * lots of problems with slow internet connections
  * NEED to buy Mifi
  * need to review all of the tools to make sure there isnt casual language 
+ * Real interest in creating the webmaking certfication ( MoYo Ambassadors)
 
 Update on the status of the project development
  * showcase new website mockup
