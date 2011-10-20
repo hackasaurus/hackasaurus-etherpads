@@ -31,6 +31,13 @@ Resources
    * http://toolness.github.com/hackasaurus-parable/navigator-badge/#
  * Loved the parable +html5 comic
  * Need to have modules for learning experiences for different ages
+
+Review MOUSESquad.org Garage Robotics Specialist Certification
+http://www.mousesquad.org/certification/specialist/garage-robotics
+
+Login: Guest
+pass: guest2011
+
 Other
  * some interest in integrating popcorn + goggles - even if just in curriculum
  * lots of problems with slow internet connections
@@ -44,6 +51,14 @@ Update on the status of the project development
 Plans for future scheduling
 Update plans for co-development in Hackasaurus Project
 Discuss opportunity of creating a webcraft certfiication as a group project?
+
+Design lead and targeted
+
+
+- use cases and design backwards
+
+https://etherpad.mozilla.org/Hackasaurus-learning-objectives
+
 
 
 Hackasaurus Hive Hangout
