@@ -3,11 +3,15 @@ Hackasaurus Hive Hangout
 Remember to join the Hackasaurus Community Calls: https://etherpad.mozilla.org/Hackasaurus-community
 
 
-
-
-
-
-
+ACTION ITEMS:
+ *  We need an “audit” of all of the stuff so that we can get a real sense of everything that’s together; consensus that having a sense of everything that there is will be very useful to have;  things that aren’t ready for real Beta testing aren’t being put out there for usage just yet; at the moment the tools that aren’t ready for usage should not be used;
+ * Jess will send the mock-ups (for the site design) and then people can get back to her with comments and constructive criticism;
+ * It would be helpful to outline objectives, these could be youth learning objectives but also the outcomes sought by this group. What are the services that we’re trying to provide in addition to what we’re hoping youth get out of the tool?
+ * The different groups have different energy and scope; good way to start is to think of the three different user experiences and then create backwards to think about how we can use those tracks, and then give them to institutions to see how they can be used, these are supposed to be cross-institution tools. Three different tracks (but there are more than three in reality) “case studies;” (a new etherpad is created for these three tracks);
+ * a meta-pad with links to all of the etherpads is requested.  
+ * The goal of the new pad (Hawesome) is to work specifically on the project; homework for the group is to work on those case studies;
+ *  Jess will send out an e-mail asking for feedback on the mockups; our next meeting is scheduled for 11/18; who are the users:  (these are all on Hawesome) User 1: 16 year old who has just been introduced to programming at museum of natural history; by the next meeting we  should fill out the pad more; each institution will take a case study  and develop it out in more detail, the attention should be focused on  highlighting the important literacies that we want to make sure that  this user has.  Everybody should com on the 18th with as much answered  as possible (current literacy skills to targeted literacy skills), and  with a sketch for a possible learning trajectory; 
+ * Hackasaurus Community Calls are on Tuesdays at 3 pm, people should join; 
 
 ==========================================
 October 20, 2011, 10:00am
