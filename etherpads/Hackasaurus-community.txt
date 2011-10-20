@@ -8,7 +8,20 @@ These weekly Hackasaurus community calls are open to all. Please join us! :)
 * Mozilla Hackasaurus -> #hackasaurus | IRC channel
 * Please MUTE YOURSELF unless you're speaking. Press *1 to mute or un-mute.
 
+October 24, 2011
 
+Roll Call (add your name)
+
+Agenda
+
+Website 
+
+Hacktivity Kit
+
+
+
+
+=======================
 Website Workflow
 
 Jess in charge of content in so far as copy and design so that changes to that would have to be reviewed by her
@@ -23,11 +36,6 @@ This week:
 
  * planning for stage 2 of the website which will be implemented in Q1.
    * http://support.mozilla.com/en-US/army-of-awesome
-
-
-
-
-
 
 
 

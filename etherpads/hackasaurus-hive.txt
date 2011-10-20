@@ -1,11 +1,12 @@
 Hackasaurus Hive Hangout
-
 Remember to join the Hackasaurus Community Calls: https://etherpad.mozilla.org/Hackasaurus-community
 
-
+=================
 ACTION ITEMS:
  * We need an “audit” of everything Hackasaurus
  * Jess will send the mock-ups (for the site design) and then people can get back to her with comments and constructive criticism;
+   * Feedback here:
+     * 
  * Next mtg: Outline objectives, these could be youth learning objectives but also the outcomes sought by this group. What are the services that we’re trying to provide in addition to what we’re hoping youth get out of the tool?
  *  links to all of the etherpads is requested.  
  * The goal of the new pad (Hawesome) is to work specifically on the project; homework for the group is to work on those case studies;
