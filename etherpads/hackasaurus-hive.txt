@@ -1,4 +1,15 @@
 Hackasaurus Hive Hangout
+
+Remember to join the Hackasaurus Community Calls: https://etherpad.mozilla.org/Hackasaurus-community
+
+
+
+
+
+
+
+
+==========================================
 October 20, 2011, 10:00am
 New York Public Library
 455 Fifth Avenue
@@ -52,14 +63,15 @@ Plans for future scheduling
 Update plans for co-development in Hackasaurus Project
 Discuss opportunity of creating a webcraft certfiication as a group project?
 
+
+3 different use cases https://etherpad.mozilla.org/hackasaurus-hawesome
 Design lead and targeted
 
-
-- use cases and design backwards
+use cases and design backwards
 
 https://etherpad.mozilla.org/Hackasaurus-learning-objectives
 
-
+Homework: What are the import
 
 Hackasaurus Hive Hangout
 October 3, 2011, 10:00am
