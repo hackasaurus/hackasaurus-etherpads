@@ -7,6 +7,8 @@ New York, NY 10016
 Roll Call (Who is here?)
  * Jess Klein
  * Helen Lee
+ * Marc
+ * Leah
  * 
 
 Agenda
@@ -26,6 +28,7 @@ Resources
    * have calls to action
    * integrate hack book 
  * Loved navigator badge- everyone wants these kinds of tests for all the skills
+   * http://toolness.github.com/hackasaurus-parable/navigator-badge/#
  * Loved the parable +html5 comic
  * Need to have modules for learning experiences for different ages
 Other
