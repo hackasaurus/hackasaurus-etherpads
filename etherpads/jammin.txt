@@ -1,3 +1,24 @@
+October 21, 2011
+Meeting with Cristina, Barbara and Jess
+
+Agenda
+
+Order of project 
+
+Language
+
+Consistency
+
+Timeline 
+ * What is the fastest way to get this e
+
+
+
+
+
+
+
+
 
 Printable Hack Jam in a Box
 Updated: oct 4, 2011
@@ -45,6 +66,7 @@ Week of October 17:
  * Add content to master templates
  * 
 Week of October 24:
+ * Edit the content
  * Revise text/art/ content
  * Start user testing with educators
 
