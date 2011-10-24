@@ -1,6 +1,11 @@
 Hackasaurus Hive Hangout
 Remember to join the Hackasaurus Community Calls: https://etherpad.mozilla.org/Hackasaurus-community
 
+Hackasaurs Mock up Comments
+
+ * Jess- These look great!  I like the font you chose and I love the graphics.  I think I prefer V2, maybe in the top right hand corner you can replace Events with Teens? Also add Developers?- ARIAM
+
+
 =================
 ACTION ITEMS:
  * We need an “audit” of everything Hackasaurus
@@ -26,6 +31,7 @@ Roll Call (Who is here?)
  * Leah
  * Michael
  * Ariam
+ * Samara
 
 Agenda
 
