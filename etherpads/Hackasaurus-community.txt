@@ -11,12 +11,34 @@ These weekly Hackasaurus community calls are open to all. Please join us! :)
 October 24, 2011
 
 Roll Call (add your name)
+ * Jess
+ * 
+ * 
+ * 
 
 Agenda
 
+http://labs.toolness.com/temp/hackasaurus-dashboard/
+
 Website 
+ * Progress report:
+   * 2 pronged approach (beta and after beta)
+ * Roadmap:
+ * Critical Missing pieces:
+   * videos
+   * ??
+
 
 Hacktivity Kit
+ * Progress report:
+ * Roadmap:
+   * this Wednesday: all content edited
+   * Monday(Oct 31): Full layout complete
+   * Wednesday (Nov 2): ready for beta release
+ * Critical Missing pieces:
+   * illustrations
+   * slide set- Richard (status?)
+
 
 
 
