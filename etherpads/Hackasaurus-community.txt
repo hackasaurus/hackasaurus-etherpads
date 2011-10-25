@@ -12,7 +12,7 @@ October 24, 2011
 
 Roll Call (add your name)
  * Jess
- * 
+ * Helen
  * 
  * 
 
@@ -40,7 +40,9 @@ Hacktivity Kit
    * slide set- Richard (status?)
 
 
-
+Questions on Mozilla Festival Prep/Event Flow 
+ * What is happening during Mozilla Festival?  Any preparations required this week?
+   * https://etherpad.mozilla.org/Hackasaurus-mozfest
 
 
 =======================
