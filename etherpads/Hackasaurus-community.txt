@@ -44,6 +44,11 @@ Questions on Mozilla Festival Prep/Event Flow
  * What is happening during Mozilla Festival?  Any preparations required this week?
    * https://etherpad.mozilla.org/Hackasaurus-mozfest
  * Notes from our festival call today:
+   * Birds-eye view:
+     * Design Challenges
+     * Learning Labs
+     * Fireside Chats 
+     * One-offs (Science Fair, Keynotes, Hive London Youth Space)
    * Your Session Arc
      * As you kick off, be prepared to explain your challenge in 5 minutes or less. No big lectures :^)
      * Your goal is to get folks "doing" as quickly as possible, in whatever way you think moves your challenge forward
