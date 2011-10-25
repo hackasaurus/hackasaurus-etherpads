@@ -43,6 +43,22 @@ Hacktivity Kit
 Questions on Mozilla Festival Prep/Event Flow 
  * What is happening during Mozilla Festival?  Any preparations required this week?
    * https://etherpad.mozilla.org/Hackasaurus-mozfest
+ * Notes from our festival call today:
+   * Your Session Arc
+     * As you kick off, be prepared to explain your challenge in 5 minutes or less. No big lectures :^)
+     * Your goal is to get folks "doing" as quickly as possible, in whatever way you think moves your challenge forward
+       * Small collaborative groups beat large passive groups every time
+     * Have a sense of how you will spend the 3-hour units. 
+       * Will you do check-ins or updates along the way? 
+       * \Will there be show and tell during or at the end
+     * Things to consider as you plan:
+       * Make sure you have let us know all your needs so we can be messaging the same
+       * Think  through how you will adapt if the skills of folks who join your  challenge don't have the skills you are hoping to leverage?
+         * If there aren't enough developers, what can non-developers do to help. 
+         * If there are too many designers, how can you get them working productively
+         * Do you have something "general" folks can do that is useful?
+       * Model  for a range of group sizes. Think through your challenge process and  agenda for scenarios of 15, 25, 40 and 50 participants to know who 
+
 
 
 =======================
