@@ -25,9 +25,8 @@ Website
    * 2 pronged approach (beta and after beta)
  * Roadmap:
  * Critical Missing pieces:
-   * videos
+   * videos- ETA thursday or friday from Richard
    * ??
-
 
 Hacktivity Kit
  * Progress report:
@@ -37,8 +36,16 @@ Hacktivity Kit
    * Wednesday (Nov 2): ready for beta release
  * Critical Missing pieces:
    * illustrations
-   * slide set- Richard (status?)
+   * slide set- Richard - will make some edits
+     * http://hackasaurus.lighthouseapp.com/projects/81480/tickets/46-create-html5-slide-show
 
+
+The Puzzle: http://netfools.com/puzzle/
+The parable:
+The comic idea:
+
+
+github.com/toolness/hackasaurs-parable
 
 Questions on Mozilla Festival Prep/Event Flow 
  * What is happening during Mozilla Festival?  Any preparations required this week?
