@@ -27,8 +27,6 @@ Hackbook should have this link: http://hackbook.hackasaurus.org/
 Question- Hackbook and webpad are in an experimental state, is there  a way to put an asterisk to indicate that these tools are currently being developed?
 
 
-
-
 (Be sure to file bugs for each of these items!)
 
 
