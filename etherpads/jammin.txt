@@ -1,15 +1,35 @@
 October 31, 2011- Atul edits on Hacktivity
 
-Page
+Page 7- When Atul read this, he was caught off-guard because of the size of the jams- he assumed were small. I think to fix this we should add a sentence or two- like this: 
+
+While some hack jams will have only a few learners in attendance, other events could potentially be larger in scale. This section is to help you create publicity efforts surrounding a larger scale event.
+
+Page 9- FAQ's
+
+ * For "Isn't hacking bad?" we could provide a pointer to http://en.wikipedia.org/wiki/Hack_%28programmer_subculture%29 or a similar page that explains the historical context of the word, etc.
+
+ * For "What happens when Design Jam participants share their hacked webpages online?", Atul will give edits to Cristina/Barbara by EOD tuesday. (Atul should also add a link to the answer in the publish dialog UI itself.)
+
+
+Pages 10- 13 HTML and CSS Basics-  Atul to give edits to Cristina/ Barbara by EOD Tuesday
+
+
+Page 23- navigator website url should be: http://navigator.hackasaurus.org, and once they complete the challenge they should be presented w/ a navigator badge.
+
+Where it says - Bust the Hack- (step 5) it should say this instead:
+
+5. HACK- hit the "commit changes" button to save changes locally on your computer
+
+
+Page 26-  Open up WebPad should have this link: http://webpad.hackasaurus.org/
+Hackbook should have this link: http://hackbook.hackasaurus.org/
+
+Question- Hackbook and webpad are in an experimental state, is there  a way to put an asterisk to indicate that these tools are currently being developed?
 
 
 
 
-
-
-
-
-
+(Be sure to file bugs for each of these items!)
 
 
 
