@@ -7,7 +7,8 @@ If you'd like to help out by filing or fixing bugs, please use our beta release 
 Website (General) - 
 
 Goggles- Use the goggles link on the website to try these.
-
+Googles Page
+"Install the goggles into your bookmarks bar and use them to remix any web page!" probably needs some explanation of how. 
 
 Events
 
