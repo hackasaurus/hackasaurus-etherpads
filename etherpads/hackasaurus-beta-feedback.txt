@@ -1,0 +1,47 @@
+Hackasaurus Beta Feedback
+
+The in-development beta website is at http://dev.hksr.us and contains links to the latest draft of the Hacktivity Kit and the X-Ray Goggles. Collectively, these are the three main deliverables for the beta release (webpad and hackbook are still in development and won't yet be promoted directly from the website).
+
+If you'd like to help out by filing or fixing bugs, please use our beta release dashboard at http://dash.hksr.us. Otherwise, we'd love to have your feedback on this etherpad--just find the appropriate section below and add your comments or questions there.
+
+Website (General) - 
+
+Goggles- Use the goggles link on the website to try these.
+
+
+Events
+
+Blog
+
+About
+
+Educators - use the download link on the website to view the Hacktivity Kit
+
+Page  7- When Atul read this, he was caught off-guard because of the size of  the jams- he assumed were small. I think to fix this we should add a  sentence or two- like this: 
+
+While  some hack jams will have only a few learners in attendance, other  events could potentially be larger in scale. This section is to help you  create publicity efforts surrounding a larger scale event.
+
+Page 9- FAQ's
+
+ * For "Isn't hacking bad?" we could provide a pointer to http://en.wikipedia.org/wiki/Hack_%28programmer_subculture%29 or a similar page that explains the historical context of the word, etc.
+
+ * For  "What happens when Design Jam participants share their hacked webpages  online?", Atul will give edits to Cristina/Barbara by EOD tuesday. (Atul  should also add a link to the answer in the publish dialog UI itself.)
+
+
+Pages 10- 13 HTML and CSS Basics-  Atul to give edits to Cristina/ Barbara by EOD Tuesday
+
+
+Page 23- navigator website url should be: http://navigator.hackasaurus.org, and once they complete the challenge they should be presented w/ a navigator badge.
+
+Where it says - Bust the Hack- (step 5) it should say this instead:
+
+5. HACK- hit the "commit changes" button to save changes locally on your computer
+
+
+Page 26-  Open up WebPad should have this link: http://webpad.hackasaurus.org/
+Hackbook should have this link: http://hackbook.hackasaurus.org/
+
+Question- Hackbook and webpad are in an experimental state, is there  a way to put an asterisk to indicate that these tools are currently being developed?
+
+ 
+
