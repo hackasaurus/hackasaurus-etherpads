@@ -15,3 +15,4 @@ hackasaurus-hive
 hackasaurus-hive-calendar
 Hackasaurus-engagement
 Hackasaurus-community
+hackasaurus-beta-feedback
