@@ -8,6 +8,28 @@ These weekly Hackasaurus community calls are open to all. Please join us! :)
 * Mozilla Hackasaurus -> #hackasaurus | IRC channel
 * Please MUTE YOURSELF unless you're speaking. Press *1 to mute or un-mute.
 
+November 1, 2011
+
+** MEETING CANCELLED**
+
+Hey Hackasaurs!
+
+We're currently trying to sprint to beta for the Mozilla Festival (http://mozillafestival.org) and would love your help.
+
+The in-development beta website is at http://dev.hksr.us  and contains links to the latest draft of the Hacktivity Kit and the  X-Ray Goggles. Collectively, these are the three main deliverables for   the beta release (webpad and hackbook are still in development and won't  yet be promoted directly from the website, though we do mention them in  the Hacktivity Kit as experimental products).
+
+If  you could take a look at this site, play with the goggles, and/or read  through the Hacktivity Kit draft, we'd love to have your feedback on our  etherpad at https://etherpad.mozilla.org/hackasaurus-beta-feedback.
+
+If you'd like to help out even more by filing or fixing bugs, please feel free to use our beta release dashboard at http://dash.hksr.us.
+
+
+
+
+
+
+
+
+
 October 24, 2011
 
 Roll Call (add your name)
