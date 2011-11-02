@@ -1,0 +1,52 @@
+Hackasaurus P2PU 
+This etherpad is a space to brainstorm about design challenges that we should run for Hackasaurus on P2PU.org
+
+I would like to have a Hackasaurus channel there that we could link to from the Educators/ Resources page of the website
+
+Possible Challenges
+
+Hack a webpage
+ * based on our Hack- a - webpage lesson
+ * http://bit.ly/tt9YNR (Module 2)
+ * for excitement purposes could be Hack Facebook challenge instead
+ * smartools- they could earn a remixer badge and get one of these tools:
+   * X-Ray Goggles cheatsheet
+   * HTML cheatsheet
+   * CSS cheatsheet
+
+Hack the CSS of a webpage
+ * After someone hacks a webpage they could level up by focusing on style hacks
+ * smartools:
+   * CSS cheatsheet
+
+Design a Webpage using Hackasaurus Tools
+ * based on design jam that I did at Seaton Hall teaching UX with Hackasaurus
+ * http://museumtechnology.wordpress.com/tag/hackasaurus/
+
+Run a Hack Jam/
+Become a MOYO Ambassador
+ * challenge to encourage people to host Hackasaurus design jams
+ * will guide participants through the steps to create a jam
+ * MOYO ambassadors- complete this challenge- which is essentially a training session, and then a youth could become a Hackasaurus facilitator/mentor
+
+Navigate the web
+ * Based on our Navigator badge
+   * http://toolness.github.com/hackasaurus-parable/navigator-badge/#
+
+Create a superhero and hack to protect the open web
+ * based on our Superheros of the Open Web Hack Jam challenge
+ *  http://bit.ly/tt9YNR (Module 3)
+
+Hack a dance
+ * based on our Hack- a - dance ice breaker
+ * http://bit.ly/tt9YNR (Module 1)
+
+Hack a book report
+ * based on conversations with the NYPL and YALSA
+ * students can essentially do a book report by hacking news sites or references mentioned in the book
+
+Our badges:
+
+Assessment rubric for Hackasaurus badges: http://bit.ly/ukDYrg
+
+
