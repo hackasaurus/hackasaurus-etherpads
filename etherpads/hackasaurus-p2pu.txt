@@ -5,10 +5,10 @@ I would like to have a Hackasaurus channel there that we could link to from the 
 
 Possible Challenges
 
-Hack a webpage
+Hack a webpage 
+ * for excitement purposes could be Hack Facebook challenge instead
  * based on our Hack- a - webpage lesson
  * http://bit.ly/tt9YNR (Module 2)
- * for excitement purposes could be Hack Facebook challenge instead
  * smartools- they could earn a remixer badge and get one of these tools:
    * X-Ray Goggles cheatsheet
    * HTML cheatsheet
