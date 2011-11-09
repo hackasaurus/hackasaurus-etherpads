@@ -1,3 +1,63 @@
+
+How to Hack 
+How to Hack the web as a superhero
+How to Remix the HTML and CSS of any webpage
+How to Remix the HTML and CSS on Facebook
+Create a superhero identity to protect the open web by hacking HTML and CSS 
+
+Learning Goals:
+   * Remixing and creating elements, which are the blocks of code that make up webpages
+   * Identifying and altering element tags, which surround content and apply meaning to it
+   * Demonstrate the ability to write a paragraph using HTML and the <p> </p> tags
+   * Inspecting the HTML and/or CSS of an element on a webpage by using the X-Ray Goggles
+   * Changing webpage content locally by hacking
+   * Sharing content globally by publishing
+
+Mechanic
+   * Hacking
+   * Pretending? 
+
+End Product
+   * A superhero themed webpage that has remixed HTML and CSS
+
+Badges
+   * Remixer
+   * Super Styler
+   * Peer Coder
+   * Wordsmith
+   * Webmaker
+   
+Concept:
+
+We benefit from a world wide web where anyone can use, see and manipulate content on the Internet. This is a privilege that we don’t want to lose. Every so often there are things that compromise the web, such as firewalls, or blocking functionality of web browsers. This is something that can be protected — the perfect job for a team of superheroes.
+
+Design Challenge: Create a superhero identity to protect the open web using HTML and CSS hacking skills
+
+• Parameters:
+— The superhero must have a name and visual representation  
+— The superhero must have a biography
+— What are his/her superpowers?
+— How did he/she get them?
+— How do his/her superpowers help to protect the web?
+— Does the superhero have a nemesis or face a particular challenge? 
+— Hack into a news site using the Goggles to write a story about how the character saved or protected the open web
+Put the content on a webpage that was created or hacked and present it to the group at the end of the day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hackasaurus P2PU 
 This etherpad is a space to brainstorm about design challenges that we should run for Hackasaurus on P2PU.org
 
