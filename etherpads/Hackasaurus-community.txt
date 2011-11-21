@@ -23,8 +23,6 @@ Unfortunately, Jess and Atul just got back from MozFest+MozCamp EU       yesterd
         
 
 
-
-
 Recap from MozFest and MozCamp
  * London Hive Pop Up
  * Learning Game Prototypes
