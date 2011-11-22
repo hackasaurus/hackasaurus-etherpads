@@ -28,18 +28,23 @@ P2PU (10 minutes)
 
 Recent Events (15 minutes)
  * MozFest
+   * http://jessicaklein.blogspot.com/2011/11/this-past-weekend-hackasaurus-team-was.html
+   * 
  * MozCamp
  * Nairobi Jam
    * https://www.facebook.com/media/set/?set=oa.250729571647853&type=1
    * https://etherpad.mozilla.org/hackjam-nairobi
  * NWP Jam
- * Barcelon Jams
+   * part of National Writing Project Annual Meeting and NCTE 2011 conference
+   *  http://inforgood.wordpress.com/2011/11/20/hacked/
+ * Barcelona Jams
  * Institue of Play Jam
+   * http://explorecreateshare.org/2011/11/22/guest-post-hack-jam-at-institute-of-play/
 
 Other- add your agenda items:
 Localization FTW! (5 minutes)
  * dutch, french, spanish, catalan, and hebrew are up at http://dev.hksr.us/en-US/ and http://dev-goggles.hksr.us/. the translations are updated every 30 mins from localize.mozilla.org
- * How do we document the process better? localize.mozilla.org isn't as straightforward as we'd hoped.
+ * How do we document the process better? localize.mozilla.org isn't quite as straightforward as we'd hoped.
 
 IE9 (5 minutes)
  * initial IE9 support is up at http://dev-goggles.hksr.us/
