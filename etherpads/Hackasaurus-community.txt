@@ -18,7 +18,7 @@ Roll Call. Who's here?
  * Helen (@heli_tomato)
  * Atul Varma (@toolness)
  * Laura Hilliger (@epilepticrabbit)
- * Mike Larsson (needs to get on twitter, apparently+1)
+ * Mike Larsson (@stenington)
  * Joe Dytrych (@JoeOwnsSomeHats)
  * Anna Debenham (@anna_debenham)
  * Richard Milewski (@RAMilewski)
@@ -87,9 +87,6 @@ We are BETA than before- but now what? (15 minutes)
  * Internationalize+webify the "Resources" content on the website (hacktivity kit)
  * Encourage  active community members to finish up prototypes for Doctor Web and  Hacker Battle and make sure that these projects get visibility
  * Design P2PU courses that frame the existing curriculum as "Challenges"
-
-
-
 
 
 
