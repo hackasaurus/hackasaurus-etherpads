@@ -14,6 +14,11 @@ Roll Call. Who's here?
  (please add yourself to this list and add your twitter name)
  * Jess Klein (@iamjessklein)
  * Alina Mierlus (@alina_mierlus)
+ * Alex Wafula (@xelawafs)
+ * Helen Lee (@heli_tomato)
+ * Atul Varma (@toolness)
+ * Laura Hilliger (@epilepticrabbit)
+ * Mike Larsson
  * 
 Agenda
 
@@ -29,11 +34,13 @@ P2PU (10 minutes)
 Recent Events (15 minutes)
  * MozFest
    * http://jessicaklein.blogspot.com/2011/11/this-past-weekend-hackasaurus-team-was.html
-   * 
+   * https://wiki.mozilla.org/Festival2011/Hackasaurus_Game_Prototyping
  * MozCamp
+   * http://mozcamp2011.hksr.us/
  * Nairobi Jam
    * https://www.facebook.com/media/set/?set=oa.250729571647853&type=1
    * https://etherpad.mozilla.org/hackjam-nairobi
+   * https://wiki.mozilla.org/Hackasaurus_Jam_-_Nairobits
  * NWP Jam
    * part of National Writing Project Annual Meeting and NCTE 2011 conference
    *  http://inforgood.wordpress.com/2011/11/20/hacked/
@@ -52,6 +59,10 @@ IE9 (5 minutes)
 
 We are BETA than before- but now what? (15 minutes)
  * How to collect feedback and iterate?
+ * Internationalize+webify the "Resources" content on the website (hacktivity kit)
+ * Encourage  active community members to finish up prototypes for Doctor Web and  Hacker Battle and make sure that these projects get visibility
+ * Design P2PU courses that frame the existing curriculum as "Challenges"
+
 
 
 
