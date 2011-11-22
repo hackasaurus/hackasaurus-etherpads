@@ -1,33 +1,3 @@
-Notes from mtg in Berlin-steps to making a challenge
-
-1.  Big Idea
- * Skills 
- * Knowledge
-2. Context
- * need to know
- * fun
-3. Goal
- * make things
-   * media
-   * tutorials
-   * interactions/events
-4. Peer  Based
- * remixing
- * discussing/ debating
- * identifying
- * brainstorming
- * rapid prototyping
- * feedback
-5. Embedded Assessment/Reflection + Badges
- * Auto
- * Skill
- * Peer 
- * Mentor
-6. (collect feedback)
-
-
-
-=============================
 Hackasaurus P2PU 
 This etherpad is a space to brainstorm about design challenges that we should run for Hackasaurus on P2PU.org
 

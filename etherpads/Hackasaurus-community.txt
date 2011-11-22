@@ -8,9 +8,25 @@ These weekly Hackasaurus community calls are open to all. Please join us! :)
 * Mozilla Hackasaurus -> #hackasaurus | IRC channel
 * Please MUTE YOURSELF unless you're speaking. Press *1 to mute or un-mute.
 
-November 15, 2011
+November 22, 2011
+
+Roll Call
 
 Agenda
+
+Recent Events
+ * MozFest
+ * MozCamp
+ * Nairobi Jam
+ * NWP Jam
+
+
+
+
+
+
+November 15, 2011
+
 *********CALL CANCELLED!************
 
 Unfortunately, Jess and Atul just got back from MozFest+MozCamp EU       yesterday and we both caught the MozFlu.
