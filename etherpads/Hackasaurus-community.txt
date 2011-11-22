@@ -16,6 +16,10 @@ Roll Call
  * 
 Agenda
 
+How can we make these community calls better?
+ * time 
+ * format
+
 P2PU
  * We're testing 3 Challenges on P2PU. Hackasaurus will be a trial run for Mozilla as a whole
  * Helen, Alicia and Pauline from Columbia Teachers College
@@ -26,8 +30,10 @@ Recent Events
  * MozCamp
  * Nairobi Jam
  * NWP Jam
+ * Barcelon Jams
+ * Institue of Play Jam
 
-
+Other- add your agenda items:
 
 
 
