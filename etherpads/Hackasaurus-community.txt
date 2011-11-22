@@ -11,8 +11,14 @@ These weekly Hackasaurus community calls are open to all. Please join us! :)
 November 22, 2011
 
 Roll Call
-
+ * 
+ * 
+ * 
 Agenda
+
+P2PU
+ * We're testing 3 Challenges on P2PU. Hackasaurus will be a trial run for Mozilla as a whole
+
 
 Recent Events
  * MozFest
