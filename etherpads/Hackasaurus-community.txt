@@ -10,30 +10,44 @@ These weekly Hackasaurus community calls are open to all. Please join us! :)
 
 November 22, 2011
 
-Roll Call
- * 
- * 
+Roll Call. Who's here?
+ (please add yourself to this list and add your twitter name)
+ * Jess Klein (@iamjessklein)
+ * Alina Mierlus (@alina_mierlus)
  * 
 Agenda
 
-How can we make these community calls better?
- * time 
- * format
+How can we make these community calls better? (5 minute sprint)
+ * Time 
+ * Format
 
-P2PU
+P2PU (10 minutes)
  * We're testing 3 Challenges on P2PU. Hackasaurus will be a trial run for Mozilla as a whole
  * Helen, Alicia and Pauline from Columbia Teachers College
 
 
-Recent Events
+Recent Events (15 minutes)
  * MozFest
  * MozCamp
  * Nairobi Jam
+   * https://www.facebook.com/media/set/?set=oa.250729571647853&type=1
+   * https://etherpad.mozilla.org/hackjam-nairobi
  * NWP Jam
  * Barcelon Jams
  * Institue of Play Jam
 
 Other- add your agenda items:
+Localization FTW! (5 minutes)
+ * dutch, french, spanish, catalan, and hebrew are up at http://dev.hksr.us/en-US/ and http://dev-goggles.hksr.us/. the translations are updated every 30 mins from localize.mozilla.org
+ * How do we document the process better? localize.mozilla.org isn't as straightforward as we'd hoped.
+
+IE9 (5 minutes)
+ * initial IE9 support is up at http://dev-goggles.hksr.us/
+ * the unit test suite reliably crashes IE8. Awesome.
+
+We are BETA than before- but now what? (15 minutes)
+ * How to collect feedback and iterate?
+
 
 
 
