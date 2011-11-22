@@ -15,19 +15,27 @@ Roll Call. Who's here?
  * Jess Klein (@iamjessklein)
  * Alina Mierlus (@alina_mierlus)
  * Alex Wafula (@xelawafs)
- * Helen Lee (@heli_tomato)
+ * Helen (@heli_tomato)
  * Atul Varma (@toolness)
  * Laura Hilliger (@epilepticrabbit)
- * Mike Larsson
- * 
+ * Mike Larsson (needs to get on twitter, apparently+1)
+ * Joe Dytrych (@JoeOwnsSomeHats)
+ * Anna Debenham (@anna_debenham)
+ * Richard Milewski (@RAMilewski)
+
 Agenda
 
 How can we make these community calls better? (5 minute sprint)
  * Time 
+   * 8AM PST/11AM EST/4pm GMT
+   * rotating the times for the call - might also make it easier for youth to dial-in too, since they have school. +2
  * Format
+   * sending a follow up after meeting+1
 
 P2PU (10 minutes)
- * We're testing 3 Challenges on P2PU. Hackasaurus will be a trial run for Mozilla as a whole
+ * We're testing 3 Challenges on P2PU.org. Hackasaurus will be a trial run for Mozilla as a whole
+ * We have a trello: https://trello.com/board/challenges-101/4ecb53f6514c7a000000ed22
+ * http://toolness.github.com/hackasaurus-parable/navigator-badge/#
  * Helen, Alicia and Pauline from Columbia Teachers College
 
 
@@ -41,24 +49,41 @@ Recent Events (15 minutes)
    * https://www.facebook.com/media/set/?set=oa.250729571647853&type=1
    * https://etherpad.mozilla.org/hackjam-nairobi
    * https://wiki.mozilla.org/Hackasaurus_Jam_-_Nairobits
+     * a little bit older age group for the youth
+     * focus on "open web"
+     * students were really interested in learning about the project- how its made
+ * nairobits is for low income kids to learn tech
+     * blogpost coming soon!
+     * 45 kids and about 5 facilitators
  * NWP Jam
    * part of National Writing Project Annual Meeting and NCTE 2011 conference
    *  http://inforgood.wordpress.com/2011/11/20/hacked/
  * Barcelona Jams
- * Institue of Play Jam
+   * hackasaurus "facilitators" jam- PD jam
+   * hybrid popcorn +hackasaurus
+   * working on a blogpost summarizing the 3 events
+   * enthusiastic about P2PU but trying to figure out how to localize
+ * Institute of Play Jam
    * http://explorecreateshare.org/2011/11/22/guest-post-hack-jam-at-institute-of-play/
+POST EVENT FOLLOW UP:
+ * questionnaire: technical data, user data etc
+ * Anna: maybe keeping track of places that jams have been run in, so we can recommend them as suitable places to run them in again
 
 Other- add your agenda items:
 Localization FTW! (5 minutes)
- * dutch, french, spanish, catalan, and hebrew are up at http://dev.hksr.us/en-US/ and http://dev-goggles.hksr.us/. the translations are updated every 30 mins from localize.mozilla.org
+ * dutch, french, spanish, catalan, and hebrew are up at http://dev.hksr.us/en-US/ and http://dev-goggles.hksr.us/. the translations are updated every 30 mins from http://localize.mozilla.org
  * How do we document the process better? localize.mozilla.org isn't quite as straightforward as we'd hoped.
+ * Can we set up translations for the languages we'd like to have most.  That would encourage people to jump in?
 
 IE9 (5 minutes)
  * initial IE9 support is up at http://dev-goggles.hksr.us/
  * the unit test suite reliably crashes IE8. Awesome.
+   * need to prioritize whether IE
 
 We are BETA than before- but now what? (15 minutes)
  * How to collect feedback and iterate?
+   * post jam surveys
+   * ask event facilitators to conduct own user testing
  * Internationalize+webify the "Resources" content on the website (hacktivity kit)
  * Encourage  active community members to finish up prototypes for Doctor Web and  Hacker Battle and make sure that these projects get visibility
  * Design P2PU courses that frame the existing curriculum as "Challenges"
