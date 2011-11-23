@@ -49,6 +49,7 @@ Recent Events (15 minutes)
    * https://www.facebook.com/media/set/?set=oa.250729571647853&type=1
    * https://etherpad.mozilla.org/hackjam-nairobi
    * https://wiki.mozilla.org/Hackasaurus_Jam_-_Nairobits
+   * http://mozilla-kenya.org/component/content/article/22-hackjam-nairobi-nairobits
      * a little bit older age group for the youth
      * focus on "open web"
      * students were really interested in learning about the project- how its made

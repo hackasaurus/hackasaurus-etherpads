@@ -32,7 +32,7 @@ OER
    * Talking points
    * learning objectives
    * worksheets
-   * Design and implement organizational feedback form
+   * Design and implement organizational feedback questionnaire
  * Release blog posts about the hacktivity kit and have links to wiki
  * Run 6 Hackasaurus Professional Development sessions to user test Hacktivity Kit (and develop an engagement strategy for educators)
    * New Visions
@@ -51,13 +51,13 @@ OER
        * Parsons
 
 Community 
- * Draft an engagement strategy
+ * Draft an engagement strategy See: https://etherpad.mozilla.org/Hackasaurus-engagement
 Educators
  * Create a list-serve via Google group/Form
  * Add a form for educators to sign up on website
  * Prototype recruiting and training model in Hive
        * Educators need to complete design challenge (following training) to demonstrate a certain level of mastery of basic HTML, CSS and design w/ Hksrs tools
-       * Get badge to be a Hackasaurus facilitator 
+       * Get badge to be a Hackasaurus facilitator (3 P2PU courses + TC grad students work)
  * Develop a Hackasaurus Educator leadership circle
    * NYPL
    * Institute of Play
@@ -87,18 +87,25 @@ Tech
 
 Curriculum, OER, Community, Tech
  * Follow up from MozFest
- * clean up design docs on the OER
- * figure out next steps for self guided curriculum
+ * Design P2PU courses that frame the existing curriculum as "Challenges" to test out as a possible OER platform (design phase)
  * website cleanup
-
+ * Internationalize+webify the "Resources" content on the website (hacktivity kit)
+ * Encourage  active community members to finish up prototypes for Doctor Web and  Hacker Battle and make sure that these projects get visibility
+ * Work with multiple contacts made in london and berlin (mozcamp) to localize hackasaurus  into different languages like hebrew, french, catalan, spanish.   translations are underway at localize.mozilla.org and live previews of  them are online (updated every 30 mins) at http://dev.hksr.us/ and http://dev-goggles.hksr.us/. Identify community member to write how to guide for localization.
+ 
+ 
+ 
+ 
  
  Q1 2012
 
 Curriculum
- * Prototype self guided web based curriculum 
+ * Prototype self guided web based curriculum with Hive Hackasaurus Education Leadership Team
+ * Work on learning experiences
+ * 
 
 OER
-
+ * Run challenges on P2PU 
 Community
 
 Educators
@@ -109,7 +116,7 @@ Educators
    * have 3 calls to action for response
 
 Teens
- * Design a model for recruiting and training youth Hackasaurus facilitators
+ * Design and prototype a model for recruiting and training youth Hackasaurus facilitators
  * Create a list-serve via Google Form
  * Add a form for youth to sign up on website?
  * Prototype recruiting and training model in Hive
