@@ -91,6 +91,7 @@ Curriculum, OER, Community, Tech
  * Internationalize+webify the "Resources" content on the website (hacktivity kit)
  * Encourage  active community members to finish up prototypes for Doctor Web and  Hacker Battle and make sure that these projects get visibility
  * Work with multiple contacts made in london and berlin (mozcamp) to localize hackasaurus  into different languages like hebrew, french, catalan, spanish.   translations are underway at localize.mozilla.org and live previews of  them are online (updated every 30 mins) at http://dev.hksr.us/ and http://dev-goggles.hksr.us/. Identify community member to write how to guide for localization.
+ * Prototyping training/ MoYo Ambassador certification (Webcraft certification) with Mouse December intensive
  
  
  
@@ -101,7 +102,7 @@ Curriculum, OER, Community, Tech
 Curriculum
  * Prototype self guided web based curriculum with Hive Hackasaurus Education Leadership Team
  * Work on learning experiences
- * 
+ * Create Webcraft Certification
 
 OER
  * Run challenges on P2PU 
