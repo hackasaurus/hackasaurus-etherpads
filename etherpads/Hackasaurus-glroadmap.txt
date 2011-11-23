@@ -49,7 +49,6 @@ OER
      * explore potential partnerships for co-development
        * New Visions
        * Parsons
-
 Community 
  * Draft an engagement strategy See: https://etherpad.mozilla.org/Hackasaurus-engagement
 Educators
