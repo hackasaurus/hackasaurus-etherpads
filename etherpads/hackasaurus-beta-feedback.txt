@@ -1,6 +1,6 @@
 Hackasaurus Beta Feedback
 
-The in-development beta website is at http://dev.hksr.us and contains links to the latest draft of the Hacktivity Kit and the X-Ray Goggles. Collectively, these are the three main deliverables for the beta release (webpad and hackbook are still in development and won't yet be promoted directly from the website).
+The in-development beta website is at www.hackasaurus.org and contains links to the latest draft of the Hacktivity Kit and the X-Ray Goggles. Collectively, these are the three main deliverables for the beta release (webpad and hackbook are still in development and won't yet be promoted directly from the website).
 
 If you'd like to help out by filing or fixing bugs, please use our beta release dashboard at http://dash.hksr.us. Otherwise, we'd love to have your feedback on this etherpad--just find the appropriate section below and add your comments or questions there.
 
