@@ -1,6 +1,16 @@
 Hackasaurus Hive Hangout
 Remember to join the Hackasaurus Community Calls: https://etherpad.mozilla.org/Hackasaurus-community
 
+Notes from December 6, 2011 call
+Potential for applying for a Spark grant for this work
+Basically get paid for the work that these organizations are already doing
+
+
+
+
+
+
+
 Hackasaurs Mock up Comments
 
  * Jess- These look great!  I like the font you chose and I love the graphics.  I think I prefer V2, maybe in the top right hand corner you can replace Events with Teens? Also add Developers?- ARIAM
