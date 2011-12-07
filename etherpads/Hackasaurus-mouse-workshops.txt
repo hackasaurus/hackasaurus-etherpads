@@ -1,0 +1,215 @@
+Mouse Workshop Curriculum
+This is a prototype for a series of challenges to become certified to facilitate a hack jam.
+
+For Mouse, I have scheduled 4, 4 hour sessions that I think will look like:
+
+ * Intro to hacking, "open web" and intro to X-Ray Goggles
+ * Deeper dive into HTML and CSS - design challenge
+ * Facilitation and event planning- "how to run a hack jam"
+ * Practice event with peers
+
+Session 1- Monday, December 5th: 1:30pm – 5:30pm
+Intro to hacking, "open web" and intro to X-Ray Goggles
+
+Big Ideas of the Day:
+ * Hacking means changing a piece of something to create something new
+ * You can hack physical things- like board games or you can hack the web
+ * Web designers get inspired by existing websites to come up with new ones
+ * Webpages are written with HTML and styled with CSS
+ * Websites are dynamic systems that are easily changeable
+ * A website designer works with inter-related parts
+ * The open web is a place where anyone can participate and contribute
+
+(would it be possible to do pizza during/before this activity? not sure they will have already had lunch yes yaaaay, we'll take care of food)
+1:30- 2:15- Challenge: Define Hacking
+ * (15 mins) Mindmapping activity:what words come to mind when you think of the word "hack"? Collaboratively create a mindmap- save to bring out on the last day of workshop
+ * (30 mins) Beak into teams and create a tweetable definition of hacking
+   * Parameters: 
+     * must have back up references:
+       * 3 positive articles/ web assets from reliable sources
+       * 3 negative articles/ web assets from reliable sources
+   * Discussion
+
+2:15- 3:15 Challenge: Hack a Board game/ or Hack a robot dance/ or Hack the game Maffia (hack robot dance described but board game/maffia is similar- although takes longer to do)
+ * The goal of this activity is for learners to understand that hacking has always been a key element in the creative process, and that it is a constructive collaborative activity, not a destructive one. Participants will learn how to hack a popular dance from the 80s to design a brand new dance.
+ * How to play
+   * Participants form a circle
+   * Play the “How To Do The Robot (Totally Rad 80’s Dances)” video
+   * Facilitator tells the group that they are now going to hack the dance, starting with examining all of the steps in the dance
+   * Everyone practices the dance in its entirety
+   * The first participant finds one step of the dance to change
+   * The participant demonstrates the hacked dance in the circle
+   * The person to the left of the initial hacker must hack that move or repeat it
+   *  If hacking the move, the person has to demonstrate the new dance move they are adding or replacing
+   * Repeat until everyone in the circle has danced
+   * When the last person in the circle has made their hack, everyone in the whole circle needs to try out the new dance. 
+
+ *  Discussion
+   * After the dance party is over, direct guiding questions to participants to help identify the stepsto hacking. Write definition/key words that participants come up with on the board/poster paper.
+     * How did you hack the dance? Discuss the rules — what were they?
+     * What made the dance fun? Discuss creativity and co-developing the project.
+     * What actions were you doing while hacking?
+     * Discuss the mechanics and dynamic systems — Break down the activity, first they looked at the dance, then they changed bits and pieces of it until it became a new dance. One person made a change which affected the entire dance.
+     * What was the goal of the activity?Discuss goal — creating a new dance by hacking
+     * How do you think hacking a dance will be similar to hacking a website?
+
+3:15- 3:30- BREAK
+
+3:30- 4:00  Open Web Overview
+ * Fill in the blanks (index cards- save for day 2):
+   * I think that ___________ makes the web special
+   * I think that ____________ makes the web difficult to use.
+ * Discuss what makes the web unique:
+   * Participation/Community
+   * Contribution
+ * Show "View Source" and explain that the web was created so that anyone can see how it was made and remix that content
+
+4:00- 4:15 Challenge: Hack your first Webpage
+ * Step 1: Install Goggles
+ * Step 2: Turn on goggles to inspect webpages- have participants try to guess what element tags mean
+ * Step 3: Remix a <p> tag 
+ * Step 4: Share hacks
+
+4:15- 5:00 Challenge: Choose any webpage to hack
+At the end of the session- we have to guess what page you hacked so try to change as many things as possible including:
+ * <img> tags
+ * <p>
+ * <style>
+Distribute cheat sheets
+
+5:00- 5:30 Shareout and overview of gameplan for next 3 sessions
+<3 this workshop.
+
+
+Session 2- Wednesday, December 7th: 1:30pm – 5:30pm
+Deeper dive into HTML and CSS - design challenge
+
+Big Ideas of the Day:
+ * HTML is a language used to tell computers how to build webpages so that humans can consume them
+ * CSS means cascading style sheets
+ * Parts of a webpage include HTML, CSS, graphic assets and text content
+ * The combination of an opening tag and its corresponding closing tag and the content in between is called an element
+ * It is important to write code following standards so that it is accessible to different kinds of users
+ * There are resources on the web for webmaking
+
+
+1:30- 2:30 Challenge: Create a Superhero of the Open Web 
+ * Go back to your I think __________ makes the web special/ difficult to use cards and choose one card which will be the aspect of the web you are going to defend or compete against
+ * 5 minute activity: bio for your superhero
+   * turn to your partner and come up with a nemesis
+
+ * Create a superhero identity to protect the open web:
+   * Parameters:
+     * The superhero must have a name and visual representation
+     * The superhero must have a biography
+     * What are his/her superpowers?
+     * How did he/she get them?
+     * How do his/her superpowers help to protect the web?
+     * Does the superhero have a nemesis or face a particular challenge?
+     * Hack into a news site using the Goggles to write a story about how the character saved or protected the open web
+     * Put the content on a webpage that was created or hacked and present it to the group at the end of the day.
+
+Superhero Pitch presentations: show us your superheroes.... 
+Discussion: 
+ * What ingredients make up a webpage?
+ * Draw out a wireframe
+ * Parts of a webpage include HTML, CSS, graphic assets and text content
+ * When writing HTML, what makes up an element?
+   * The combination of an opening tag and its corresponding closing tag and the content in between is called an element
+
+2:30- 2:45 BREAK
+
+
+
+2:45:  Design 101 (this could be a challenge in itself)
+Challenge: Create a How To Website
+Make an instructional Website to teach someone something that you are an expert at (ie: tying your shoes, playing XBox etc)
+ * Process:
+   * Research Your subject
+     * and collect assets
+   * Identify your User
+   * Structure
+     * information architecture
+   * Wireframing
+     * Vocab: 
+       * Interface
+       * Navigation
+       * Header 
+       * Body
+       * Footer
+   * Tone Mood and Atmosphere
+ * Visit: http://toolness.github.com/webpage-maker-prototype/
+ * Choose one template to change 
+
+Discussion: How do we critique a webpage? (write out on the board)
+ * Have participants present their sites and try out their how tos (if possible)
+ * Do a group critique
+
+5:00  Bonus Challenge: Create a Webpage for a vision impaired user (if we have time- otherwise move to a special session)
+
+A vision impaired user has to use a screen reader to "view" a webpage. Let's take a few minutes to check out what a screen reader does. 
+
+Discussion: 
+ * What do you think about the screen reader?
+ * How would you go about designing a website for a visually impaired user?
+ * How would you change your current webpages to accommodate that user?
+
+
+
+
+(did we already tell you that their Legacy Projects this year will be tech for the blind/visually impaired?? if not, that this is a pretty crazy coincidence NOOOO so cool! yah, last night we visited the Visions center for the blind and took a tour/met some teens who go there, they are super pumped to design for this community. anyway, yay. WOW ive never tried this before so its a bit of an experiment, hooray for the unknown. :) )
+
+
+Session 3- Friday, December 9th: 1:30pm – 5:30pm
+How to run a hack jam
+
+Big Ideas of the Day:
+ * A Hack Jam is an event where people collaborate to make stuff for the web
+ * When planning an event you should choose a theme and set learning goals
+ * To design a lesson or event plan you need to break down the learning goals into steps
+ * Running an event means accounting for all the details
+ * Working in the open means collaborating and sharing your process and products
+
+Facilitation Overview:
+ * Helen to give overview of TASC
+ * Print out of the 5 Steps to running an event
+
+
+Challenge: Create an ice breaker
+Challenge: 5 minute event plans with the "power up cards" (similar to the grow-a-game deck? yes)
+cards:
+ * goal
+ * mechanic
+ * concept
+
+Challenge: Plan the MOUSE Hacking for the Holidays Event (Hacky Holidays)/ merry hacksmus, happy hacknukkah, etc 
+
+
+***
+Short presentation about TASC:
+
+What/who is TASC?
+The After-School Corporation (TASC) is a nonprofit organization based in New York City. TASC does not operate after-school programs, instead they assist public schools & community organizations to work together to provide after-school & summer programs available for lower-income neighborhoods in NYC.  A lot of what TASC does is seeking funding opportunities for running these programs so families don't have to pay for their kids to go to after-school programs.  
+
+What kinds of kids are involved?
+Age from K-12.  Usually kids from lower-income neighborhood who do not have frequent access to computers and/or high speed Internet.  Most of the time the schools also do not have great access to fast computers & high speed internet access.
+
+What is STEM?
+STEM stands for Science, Technology, Engineering and Mathematics.  TASC has a Science/STEM program team that focuses on providing STEM activities & curriculum for after-school sites.  They train staff members – most of whom don’t have science backgrounds – to confidently lead STEM activities.  As they teach science inquiry, they demonstrate that anyone can be a scientist.
+
+Additional details about TASC.
+TASC has helped almost 500 NYC public schools run after-school & summer programs.  TASC is dedicated to giving all kids expanded learning opportunities that support, educate and inspire them. 
+TASC helps kids from every background in having access to a range of experiences and a world class education that all families want for their  children. Schools will support students’ intellectual, creative and  healthy development and prepare them to thrive in a democratic society.
+
+My experience working at TASC.
+I interned at TASC over the summer semester as their Web Communications Intern when the Web Communications Manager went away for maternity leave.  My job included maintaining the TASC websites and drafting member newsletters, where I used my HTML & CSS skills.  I also shot and edited video clips on expaneded learning time that advocated for after-school funding.  I also visited a few schools to learn more about them, which some of you might end up doing as you facilitate Hackasaurus workshops.  TASC is very interested in incorporating web & technology skills in their after-school programs, so it's very exciting that all of you will become part of this process.  
+***
+
+
+Session 4- Monday, December 12th: 1:30pm – 5:30pm
+Practice event with peers
+1:30- 3:00- prep for jam
+3:00- 5:00- Hacking for the Holidays hack jam at Mouse HQ
+5:00-5:30- post jam debrief- review the mindmap
+We will recruit our other mouse corps youth on the Tuesday before, I'm hopeful most of them will want to come. "Mozilla" is so geek-cool to our kids :) thats great. plus part of the plan for session 3 is to publicize, if for some reason, a large bunch of our students know in advance that they aren't free on Monday, we can probably round up some MOUSE staff (most of whom know nothin' about html) I know it is not ideal, but a possible backup.  OR we could have them recruit their siblings? Yeah - we could also put a call out to the Hive if need be
+
