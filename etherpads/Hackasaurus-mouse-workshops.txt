@@ -153,6 +153,8 @@ Discussion:
  * What do you think about the screen reader?
  * How would you go about designing a website for a visually impaired user?
  * How would you change your current webpages to accommodate that user?
+ * What are web standards?
+ * Why are they important?
 
 
 
