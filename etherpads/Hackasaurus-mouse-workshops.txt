@@ -210,12 +210,14 @@ cards:
  * concept
  * Goal: to teach what we mean by hacking
  * 
-Challenge: 5 minute event plans 
- * 
+Challenge: create event plans 
+ * same concept as the icebreaker development
 
 
 Challenge: Plan the MOUSE Hacking for the Holidays Event (Hacky Holidays)/ merry hacksmus, happy hacknukkah, etc 
+ * Come up with an event plan
 
+Practice talking and doing a dry run
 
 
 
