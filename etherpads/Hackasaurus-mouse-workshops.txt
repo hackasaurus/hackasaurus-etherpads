@@ -175,14 +175,6 @@ Big Ideas of the Day:
 Facilitation Overview:
  * Helen to give overview of TASC
  * Print out of the 5 Steps to running an event
-
-Practice talking about Hackasaurus
- * How can you describe the project and your role as a Mozilla Youth Ambassador  to a friend or a stranger? 
-   * Come up with a 5 minute or less "pitch"
-   * Topics:
-     * What is Hackasaurus?
-     * What is special about the web- and why you should learn to code?
-   * We are going to film you.
  * Event planning: 
    * Overview of the 5 steps to a successful jam (Hacktivity Kit)
    * As a group, discuss the logistics that we know about the event at Mouse
@@ -191,15 +183,38 @@ Practice talking about Hackasaurus
      * What is the duration of the event?
      * Has the event already been publicized? If so how?
      * Is there a sign up?
+       * eventbrite?
+       * lanyrd
+     * Discuss what the theme for the event could be 
+     * Discuss taking on different kinds of roles for the event
+       * MC's
+       * Activity Coordinator: Ice breaker
+       * Activity Coordinator: How to hack
+       * Roaming Mentors
+       * Publicity and/ Documentation
+
+Challenge: pitching Hackasaurus
+ * How can you describe the project and your role as a Mozilla Youth Ambassador  to a friend or a stranger? 
+   * Come up with a 5 minute or less "pitch"
+   * Topics:
+     * What is Hackasaurus?
+       * Guide them to look at the talking points in Hacktivity Kit
+     * What is special about the web- and why you should learn to code?
+       * Guide them to look at slide show on Hackasaurus site
+   * We are going to film you.
 
 Challenge: Create an ice breaker
+ * Goal: to teach what we mean by hacking
 Challenge: 5 minute event plans with the "power up cards" (similar to the grow-a-game deck? yes)
 cards:
  * goal
  * mechanic
  * concept
 
+
 Challenge: Plan the MOUSE Hacking for the Holidays Event (Hacky Holidays)/ merry hacksmus, happy hacknukkah, etc 
+
+
 
 
 ***
