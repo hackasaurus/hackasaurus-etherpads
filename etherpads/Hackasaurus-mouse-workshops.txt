@@ -173,7 +173,7 @@ Big Ideas of the Day:
  * Working in the open means collaborating and sharing your process and products
 
 Facilitation Overview:
- * Helen to give overview of TASC
+ * Overview of TASC
  * Print out of the 5 Steps to running an event
  * Event planning: 
    * Overview of the 5 steps to a successful jam (Hacktivity Kit)
@@ -220,32 +220,19 @@ Challenge: Plan the MOUSE Hacking for the Holidays Event (Hacky Holidays)/ merry
 Practice talking and doing a dry run
 
 
-
-***
-Short presentation about TASC:
-
-What/who is TASC?
-The After-School Corporation (TASC) is a nonprofit organization based in New York City. TASC does not operate after-school programs, instead they assist public schools & community organizations to work together to provide after-school & summer programs available for lower-income neighborhoods in NYC.  A lot of what TASC does is seeking funding opportunities for running these programs so families don't have to pay for their kids to go to after-school programs.  
-
-What kinds of kids are involved?
-Age from K-12.  Usually kids from lower-income neighborhood who do not have frequent access to computers and/or high speed Internet.  Most of the time the schools also do not have great access to fast computers & high speed internet access.
-
-What is STEM?
-STEM stands for Science, Technology, Engineering and Mathematics.  TASC has a Science/STEM program team that focuses on providing STEM activities & curriculum for after-school sites.  They train staff members – most of whom don’t have science backgrounds – to confidently lead STEM activities.  As they teach science inquiry, they demonstrate that anyone can be a scientist.
-
-Additional details about TASC.
-TASC has helped almost 500 NYC public schools run after-school & summer programs.  TASC is dedicated to giving all kids expanded learning opportunities that support, educate and inspire them. 
-TASC helps kids from every background in having access to a range of experiences and a world class education that all families want for their  children. Schools will support students’ intellectual, creative and  healthy development and prepare them to thrive in a democratic society.
-
-My experience working at TASC.
-I interned at TASC over the summer semester as their Web Communications Intern when the Web Communications Manager went away for maternity leave.  My job included maintaining the TASC websites and drafting member newsletters, where I used my HTML & CSS skills.  I also shot and edited video clips on expaneded learning time that advocated for after-school funding.  I also visited a few schools to learn more about them, which some of you might end up doing as you facilitate Hackasaurus workshops.  TASC is very interested in incorporating web & technology skills in their after-school programs, so it's very exciting that all of you will become part of this process.  
-***
-
-
-Session 4- Monday, December 12th: 1:30pm – 5:30pm
+Session 4- Monday, December 12th: 1:30pm – 6:00pm
 Practice event with peers
-1:30- 3:00- prep for jam
-3:00- 5:00- Hacking for the Holidays hack jam at Mouse HQ
-5:00-5:30- post jam debrief- review the mindmap
+2:00- 4:00- prep for jam
+ * Tech Setup
+ * Practice Run
+ * Feedback
+4:00- 6:00- Hacking for the Holidays hack jam at Mouse HQ
+post jam debrief- review the mindmap
+talk about what went well and what didn't go so well in the jam
+talk about next steps:
+ * blog
+ * their role as moyo ambassadors
+ * 
+
 We will recruit our other mouse corps youth on the Tuesday before, I'm hopeful most of them will want to come. "Mozilla" is so geek-cool to our kids :) thats great. plus part of the plan for session 3 is to publicize, if for some reason, a large bunch of our students know in advance that they aren't free on Monday, we can probably round up some MOUSE staff (most of whom know nothin' about html) I know it is not ideal, but a possible backup.  OR we could have them recruit their siblings? Yeah - we could also put a call out to the Hive if need be
 
