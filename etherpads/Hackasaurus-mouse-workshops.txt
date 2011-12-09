@@ -203,13 +203,15 @@ Challenge: pitching Hackasaurus
        * Guide them to look at slide show on Hackasaurus site
    * We are going to film you.
 
-Challenge: Create an ice breaker
- * Goal: to teach what we mean by hacking
-Challenge: 5 minute event plans with the "power up cards" (similar to the grow-a-game deck? yes)
+Challenge: Create an ice breaker with the "power up cards" (similar to the grow-a-game deck? yes)
 cards:
  * goal
  * mechanic
  * concept
+ * Goal: to teach what we mean by hacking
+ * 
+Challenge: 5 minute event plans 
+ * 
 
 
 Challenge: Plan the MOUSE Hacking for the Holidays Event (Hacky Holidays)/ merry hacksmus, happy hacknukkah, etc 
