@@ -227,8 +227,9 @@ Practice event with peers
  * Practice Run
    * Session of peer facilitation:
      * Challenge: Help a peer learn how to use the X-Ray Goggles
-       * Break up into pairs and take on roles- each o
+       * Break up into pairs and take on roles- one person pretend that you are learning the tools for the first time, act as computer illiterate as you want- the other person will have to trouble shoot and help you- without touching your computer. Do that for 15 minutes and then switch roles.
  * Feedback
+
 4:00- 6:00- Hacking for the Holidays hack jam at Mouse HQ
 post jam debrief- review the mindmap
 talk about what went well and what didn't go so well in the jam
