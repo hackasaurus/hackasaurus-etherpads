@@ -225,6 +225,9 @@ Practice event with peers
 2:00- 4:00- prep for jam
  * Tech Setup
  * Practice Run
+   * Session of peer facilitation:
+     * Challenge: Help a peer learn how to use the X-Ray Goggles
+       * Break up into pairs and take on roles- each o
  * Feedback
 4:00- 6:00- Hacking for the Holidays hack jam at Mouse HQ
 post jam debrief- review the mindmap
