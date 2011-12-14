@@ -80,6 +80,8 @@ Distribute cheat sheets
 5:00- 5:30 Shareout and overview of gameplan for next 3 sessions
 <3 this workshop.
 
+THIS IS HOW IT WENT: http://jessicaklein.blogspot.com/2011/12/hacking-your-world-mouse-moyo.html
+
 
 Session 2- Wednesday, December 7th: 1:30pm – 5:30pm
 Deeper dive into HTML and CSS - design challenge
@@ -157,6 +159,7 @@ Discussion:
  * Why are they important?
 
 
+THIS IS HOW IT WENT: http://jessicaklein.blogspot.com/2011/12/transitioning-from-hacking-to-webmaking.html
 
 
 (did we already tell you that their Legacy Projects this year will be tech for the blind/visually impaired?? if not, that this is a pretty crazy coincidence NOOOO so cool! yah, last night we visited the Visions center for the blind and took a tour/met some teens who go there, they are super pumped to design for this community. anyway, yay. WOW ive never tried this before so its a bit of an experiment, hooray for the unknown. :) )
@@ -219,6 +222,7 @@ Challenge: Plan the MOUSE Hacking for the Holidays Event (Hacky Holidays)/ merry
 
 Practice talking and doing a dry run
 
+THIS IS HOW IT WENT: http://jessicaklein.blogspot.com/2011/12/hive-mozilla-youth-ambassador-training.html
 
 Session 4- Monday, December 12th: 1:30pm – 6:00pm
 Practice event with peers
@@ -237,6 +241,10 @@ talk about next steps:
  * blog
  * their role as moyo ambassadors
  * 
+
+THIS IS HOW IT WENT: http://jessicaklein.blogspot.com/2011/12/hacking-holidays-peer-to-peer-jam-at.html
+
+
 
 We will recruit our other mouse corps youth on the Tuesday before, I'm hopeful most of them will want to come. "Mozilla" is so geek-cool to our kids :) thats great. plus part of the plan for session 3 is to publicize, if for some reason, a large bunch of our students know in advance that they aren't free on Monday, we can probably round up some MOUSE staff (most of whom know nothin' about html) I know it is not ideal, but a possible backup.  OR we could have them recruit their siblings? Yeah - we could also put a call out to the Hive if need be
 
