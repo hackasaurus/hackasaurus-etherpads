@@ -13,7 +13,7 @@ MoJo-
  * who is the audience? Journalists
  * what would be the goals? Be able to do basic html/javascript
  * what would be learning objectives / skills
- * what resources already exist?
+ * what resources already exist? Readability API
 
  * Webmaking 101 for Journalists
    * Learning Objectives:
