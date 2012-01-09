@@ -2,7 +2,40 @@ Hacktivity Kit Session
 
 1. What is the Hacktivity Kit?
    * Overview and history by Jess
-2. iF
+   * http://hackasaurus.org/en-US/educators/
+2. If you were going to do a Hacktivity Kit for a component your project what would it include?
+ * who is the audience?
+ * what would be the goals
+ * what would be learning objectives / skills
+ * what resources already exist?
+
+MoJo- 
+ * Mojo Hackfest in a Box
+ * Webmaking 101 for Journalists
+
+Open Badges
+ * How to implement a system for badges 
+   * Can we provide best practices or kits to onramp people, help them create badge systems
+   * Tradeoff: guiding work/discussion/learning but also supporting innovation/hacking the process
+
+Events 
+
+Hive
+
+Ignite
+
+
+
+
+
+
+
+3. Shareout and Common Themes
+
+4. Next steps and moving forward
+
+
+
 
 
 
