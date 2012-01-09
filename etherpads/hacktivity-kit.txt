@@ -16,21 +16,25 @@ MoJo-
  * what resources already exist?
 
  * Webmaking 101 for Journalists
-   * basic styling (wrapping stuff in a tag)
-   * images & links (tag with an attribute)
-   * embedding resources (google maps, youtube videos, twitter widgets)
+   * Learning Objectives:
+     * basic styling (wrapping stuff in a tag)
+     * images & links (tag with an attribute)
+     * CSS styling
+       * background color, line widths, font sizes, font families
+       * image manipulation & floats
+       * full-bore positioning (make a sidebar)
+     * embedding resources (google maps, youtube videos, twitter widgets)
+     * Data Viz (advanced embedding)
 
-   * Exercises concentrate on doing practical things
+ * Exercises concentrate on doing practical things
      * find a CC-licensed image and add it to an article
      * source & place links within an article
      * link to related articles at the bottom
 
-   * once-a week, brown bags, one hour, one skill
-
+ * once-a week, brown bags, one hour, one skill
    * Readability API to strip an author's story of all the CMS bullshit & chrome
    * Bleach to strip out the post-readability styling
 
-   * 
 
 Open Badges
  * How to implement a system for badges 
