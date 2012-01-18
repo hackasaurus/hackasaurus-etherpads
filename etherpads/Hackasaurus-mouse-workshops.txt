@@ -1,3 +1,16 @@
+Mozilla Youth Ambassador Program (MoYo Ambassadors)
+
+Relevant Blogposts: 
+
+ * Hacking Your World: MoYo Ambassadors: http://jessicaklein.blogspot.com/2011/12/hacking-your-world-mouse-moyo.html
+ * Transitioning from Hacking to Webmaking: http://jessicaklein.blogspot.com/2011/12/transitioning-from-hacking-to-webmaking.html
+ * Hack Jams for Youth, by Youth: http://jessicaklein.blogspot.com/2011/12/hive-mozilla-youth-ambassador-training.html
+ * Hacking the Holidays http://jessicaklein.blogspot.com/2011/12/hacking-holidays-peer-to-peer-jam-at.html
+
+
+
+
+
 Mouse Workshop Curriculum
 This is a prototype for a series of challenges to become certified to facilitate a hack jam.
 
