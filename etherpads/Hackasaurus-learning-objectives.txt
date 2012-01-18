@@ -2,7 +2,7 @@ Hackasaurus Learning Objectives
 
 After substantial engagement with the Hackasaurus toolkit a learner will/should be able to:
 
- * Browser Basics: skills required for "retrieving, presenting and traversing information resources on the world wide web"(wikipedia definition of browser)
+ * Browser Basics: skills required for "retrieving, presenting and traversinMoPad: Hackasaurus-learning-objectivesg information resources on the world wide web"(wikipedia definition of browser)
 
    * identify where the "address bar" is within the browser
    * demonstrate basic ability to "tweak" the address bar URL
