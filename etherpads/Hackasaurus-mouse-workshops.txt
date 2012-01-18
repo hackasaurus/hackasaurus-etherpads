@@ -8,9 +8,6 @@ Relevant Blogposts:
  * Hacking the Holidays http://jessicaklein.blogspot.com/2011/12/hacking-holidays-peer-to-peer-jam-at.html
 
 
-
-
-
 Mouse Workshop Curriculum
 This is a prototype for a series of challenges to become certified to facilitate a hack jam.
 
