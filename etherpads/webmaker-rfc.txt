@@ -1,0 +1,141 @@
+Request for Comment:
+Mozilla WebMaker (webapp)
+
+second draft - march 11, 2012
+
+[long comments should go in the bottom / edits should go inline]
+
+To do list:
+
+ * First draft to start discussion (Mark)
+ * Add in design principles (Jess)
+ * Flesh out our 1 paragraph user stories (various)
+ * Add in research and community feedback components (?)
+ * Review and analysis by software / web teams (?)
+ * Resource planning (?)
+
+Overview: 
+
+We should create an 'app' inside make.mozilla.org makes it easy for people to make, remix and share webpages / simple apps. This should be called WebPageMaker or WebMaker.
+
+Building on what's been starteded with LoveBomb and StoryThing, the WebMaker apps is designed to let people:
+
+ * Go to make.mozilla.org and make something fast.
+ * Make something nice based on one of our beautiful remixable templates.
+ * Learn HTML, CSS and Javascript, on their own, with a group or with a teacher.
+ * Share what you make in a low friction way (ie. don't need your own hosting).
+ * Earn badges based on what you make and contribute.
+ * Easily make a new guided learning experience like LoveBomb. 
+
+In the immediate term, this could simply be a clearly-branded generic version of the side-by-side editor / renderer we have for LoveBomb. However, in the not-to-distant future, we should add the ability for anyone to create and fork guided learning experiences. A gallery plus badges are also a fairly near term priority. The good news is that many of the components needed are already being developed as part of WebPageMaker / LoveBomb / PopcornMaker / Towtruck. 
+
+Design Principles:
+
+1. Publish content and applications on the web in open standards
+2. Code and implement the web standards that that content/apps depend on
+3. Design software that invites participation, remixing and peer interaction
+4. Support / encourage the potential for a social aspect to the tool
+5. Support interest-driven learning - allow people to hack on things they care about
+6. Design for extensibility / scale beyond ourselves.
+7.Give recognition: support badging tools/experiences
+8. Support graceful degradation
+9. Produce consumer grade web experiences and software.
+10. Design tools so that they are interoperative and have portable components / modules
+
+Read more about Design Principles here: https://mozlearning.etherpad.mozilla.org/design-principles
+
+What we have already (or almost):
+
+ * XrayGoggles -- Simple way to inspect a page. Helpful for showing page structure.
+ * LoveBomb -- Great UX, shows the two pane rendering concept. Feels like what we want. http://lovebomb.me
+ * StoryThing -- Promises good UX, goes further than LoveBomb in how much it teaches. - http://on.toolness.org
+ * PopcornMaker -- Has many of the things we want here, but is only for video. Probably build on Cornfield and PopcornMaker template repository into this.
+ * Badge issuing widget -- Method to issue badges when people make things.
+ * Hack Book -- Collection of mini-learning nuggets. - http://hackbook.hackasaurus.org/
+ * Hackpub API -- Allows for effortless publishing of HTML and JSON to any subdomain that we control. Currently used for web page publishing by XrayGoggles, LoveBomb, and for badge issuance by the openbadges.org website. - https://github.com/hackasaurus/hackpub
+ * Hacktionary API- user friendly definitions for HTML tags and CSS properties. All of the above would be perfect "clients" for the Hacktionary API. - https://github.com/brianloveswords/hacktionary
+
+Problems we're trying to solve:
+
+ * We're re-inventing the wheel toolwise and brandwise, each time we create a new guided learning experience like LoveBomb. We need a consistent underlying toolset and brand. 
+
+ * Right now there is no way to simply invite people to 'come make something with Mozilla'. PopcornMaker will fix this in part, but we should have some that provides the same kind of open ended, low friction making experience for basic web pages and simple apps. 
+
+ * We have no way for people who don't work for Mozilla to build their own guided learning experiences. If we want to build a teacher community and grow a wide variety of interest-based offerings it needs to be easy to make new learning experiences.
+
+ * With experiences like StoryThing, there is no graceful way to fall out of the 'learning' experience and into a generic set of web making tools. This is needed. 
+
+Features and components:
+
+ * Editor: A web based collaborative editor. Shows code and rendered page side by side. Lets people edit in the code together etherpad style. This is already being developed in part for LoveBomb and StoryThing. What we need is a generic implementation that can be used in an open ended way to make anything and that can also be the basis of many different guided learning experiences. (P1)
+
+ * Lesson maker: A way to create guided learning experiences / learning games on top of the editor. Anyone (or anyone we trust) should be able to create this. This means the mechanism must be simple / should not require custom web dev. The simplest approach may be a special-case version of the template collection, where a user can import / default to a template that is well designed and has well written 'hack this page' copy in it. (P1)
+
+ * Gallery: A place to to save / share / show off / invite remixes of the things you create. Also, ability to create an account with Browser ID. Simple  version: you just get a persistent copy of what you  made. Advanced  version: you'd have collections tied to your profile, your  badges, etc. Integrate with Cornfield work. (P2) 
+
+ * Badge issuing widget: Reusable widget that plugs together with the editor and gallery. Something like this is already being developed by the badges team, just needs to be integrated into this app / section of make.mozilla.org. (P1) cf.: Badgestack
+
+ * Assessment builder: Method to build asessments that feed into the badge issuing widget. Should be fully scoped once Chloe joins Mozilla. (P3)
+   * are there any artefacts here... I'd really like to read up on what has been discussed so far in this area...PJR
+
+ * Template collection: Starting  points for things you might want to remix or just tinker with for  learning reasons, eg. a library or Tumblr or Wordpress templates. PopcornMaker is also building this, so it could be the same code or at least the same approach. (P1)
+
+ * Hacktionary API: Simple collection of 'HTML5 learning hints' that can be automatically pulled into WebMaker, PopcornMaker, etc. as inline instructional aides. Already prototyped by Brian Brennan. (P2)
+
+User Stories:
+
+ * [person running a OpenNews lunchtime teaching session, basic HTML + CSS]
+ * [person wanting to create a simple 'lesson' based on a hackable HTML5 template page]
+ * [person who has good HTML5 skills, wants to host a kitchen table event]
+ * [novice with some knowledge who just wants an easy way to edit a page, some advice when they get stuck]
+ * [person who has knowledge and wants to share it with a broader community, i.e., mentor, guide]
+ * [novice who has no knowledge and wants some approachable projects to help her get started]
+ * [youth interested in learning webmaking, comes to make.mozilla and chooses to make a webpage on their own]
+ * [mom who wants to inspire her son and connect with him while making something together and learning to code together in the process]
+ * [lurker (maybe middle aged) who wants to watch some video, read some documents, works through some simple tutorials to get them started with webmaking. Build some confidence before engaging more actively] - this isn't really what this tool is for.
+ * [add more, flesh these out]
+
+Questions:
+
+ * Are there any parts LoveBomb, etc. that are already 'good enough'?
+ * What parts of this overlap w/ what we are doing w/ PopcornMaker / Cornfield?
+ * Are there any pieces in the near term that truly need to be build from scratch? If so, can we delay?
+
+Links to stuff we're already building:
+
+ * Lesson Maker: http://toolness.github.com/webmaking-tutorial-prototype/ and blog post at http://www.toolness.com/wp/2012/03/webmaker-tutorial-prototyping/
+ * Hacktionary API: extremely pre-alpha, https://github.com/brianloveswords/hacktionary, example instance running here http://hacktionary.bjb.io/term/html/sup 
+
+Tools we could build on:
+
+ *  http://codemirror.net/ <-- Foundation of LoveBomb / WebPageMaker? Could continue to use this.
+ * http://jsfiddle.net <-- Possibly a good foundation for us to build on as an editor, would have to build in learning components.
+ * http://bit.ly/openhtml <-- Tool learning team at Drexel is using? Te want to work with them. (user/password = test/test)
+
+Other tools to look at for inspiration: 
+
+ * http://rendera.heroku.com/ <-- Examples section good inspiration in terms of small, simple, importable learning templates.
+ * http://billmill.org/static/canvastutorial/index.html <-- Interesting example of step by ste learning, could give us idea for building templated learning experiences.
+ * http://demo.qooxdoo.org/devel/playground/#Hello%20World-ria <-- Shows examples of how to build particular UI elements, might also have ideas to help w/ our templating. 
+
+ * Google Code Playground: http://code.google.com/apis/ajax/playground/
+ * List of tools under "similar tools" https://wiki.mozilla.org/Drumbeat/Hackasaurus
+ * http://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_source_code_editors
+ * ScrollMkr
+ * Codecademy
+
+Add long comments here:
+
+AV: I have some concerns with the statement "What we need is a generic implementation that can be used in an open ended way to make anything and that can also be the basis of many different guided learning experiences."
+ * From a technical standpoint, webpagemaker, lovebomb.me and storything all feature very little "rebuilding of each other's wheels", because they leverage reusable components to do a lot of their work: CodeMirror2 for the editor widget, hackpub for the publishing, and soon the hacktionary API for context-sensitive help. In other words, they are all a cobbling together of many different, reliable components that "do one thing and do it well"; everything else is mostly glue, and we can factor out the most common code into reusable components as we get a better idea of what's actually being copied-and-pasted between each product.
+ * This is generally a good thing, because all 3 of these tools solve very concrete user needs, and have very well-defined audiences. We can't create a "generic implementation" until we know what all the different user needs have in common--even then, I'm concerned that we're in danger of creating a giant Powerpoint-like monster that tries to do too many things at once.
+   * Atul: we're just talking about create creating a web site that is more general than the three that have already being created, but with a more general set of use cases and narrative wrapping. So, while we should guard against creating a giant Powerpoint-like, that's not at all what's being proposed here. ms
+ * We need to figure out exactly what our target "lesson maker" is. The less actual webmaking (HTML/CSS/JS) experience we assume the lesson makers have, the more work it'll take for us to create the lesson maker UX, and the less generative the ultimate result will be. My personal inclination is to make a "lesson maker kit" that requires lesson makers to know some HTML/CSS/JS, but I suspect that may be too technical a leaning. (It should be noted that wpm/lovebomb/storything have no server-side components, which significantly reduces the barrier to entry.)
+   * Atul: I totally agree with this approach -- just get people to build the lessons as web pages. I think that is okay as a starting point given what it is that we're trying to teach. ms
+
+I am so flipped out with what you are doing here. I really wanted to jump right in. My deepest appology if I have been too bold as a new member of the group and I should have RTFM. But I could not hold back... I set up a new mopad for assessment builder https://etherpad.mozilla.org/assessment-builder I have a bunch of experience / education here and I've been working on a mass-collaboration approach for assessment (more on that later)... anyhow please consider what I have written, be candid and let me know if I am in the right place, going down the right path, etc, etc... thanks for you time, eyeballs and patience.
+~ Peter
+
+JK- I am wondering if we should really test out the value of the Lesson Maker with educators before prioritizing it. We haven't really seen how educators of any level are responding to the tool, although obviously there is quite a bit of potential here. My two questions for this tool are 1. what are the design questions/ problems that it is trying to solve? and 2.who is the audience? When those are in fact known, I wonder if a tool like this does exist and if the current version of the tool solves any of the design questions.
+As Atul suggests, we may just ask people to create web pages as a starting point for lesson making. That would be a good way to test.
+
