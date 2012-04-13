@@ -1,4 +1,4 @@
-Hackasaurus Learning Objectives
+ Hackasaurus Learning Objectives
 
 After substantial engagement with the Hackasaurus toolkit a learner will/should be able to:
 
@@ -6,11 +6,11 @@ After substantial engagement with the Hackasaurus toolkit a learner will/should 
 
    * identify where the "address bar" is within the browser
    * demonstrate basic ability to "tweak" the address bar URL
-   * open multiple browser tabs and switch between them
+   * open multiple browser tabs and switch between them 
    * master basic selection of content on a web page/address bar
-   * master "copy" and "paste"  function via keyboard shortcuts
+   * master "copy" and "paste"  function via keyboard shortcutsr
      * within the same web page and between two different ones
-   * use the mouse to point, click, secondary-click (aka "right click") and scroll over objects on the webpage
+   * use the mouse to point, click, secondary-click (aka "right click") and scr   oll over objects on the webpage
    * be able to type non-alphanumeric characters like @, ", < etc.
 
  * Web- Authoring: skills required for making content and publishing to the world wide web
@@ -41,7 +41,7 @@ After substantial engagement with the Hackasaurus toolkit a learner will/should 
    * demonstrate ability to impact the design of a webpage by changing compositional elements (i.e: header, footer, background, navigation)
    * build web pages using html in webpad
    * understand the box model and selectors
-   * demonstrate an understanding  that there are resources available on the web for developers by using  html or css snippets from the hackbook
+ * demonstrate an understanding  that there are resources available on the web for developers by using  html or css snippets from the hackbook
    * demonstrates ability to work collaboratively by coding html and/or css with a peer
    * demonstrates ability to create web content that is accessible for other users
    * demonstrates ability to teach a hackshop or p2pu class on webdesign with Hackasaurus?
