@@ -49,7 +49,7 @@ Overview:
 
 Building on what's been started with LoveBomb and StoryThing, the WebMaker apps is designed to let people:
 
- * Go to make.mozilla.org and make something fast.
+ * Go to thimble.mozilla.org and make something fast.
  * Make something nice based on one of our beautiful remixable templates.
  * Share what you make in a low friction way (ie. don't need your own hosting).
  * Earn badges based on what you make and contribute.
