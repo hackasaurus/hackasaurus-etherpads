@@ -149,7 +149,7 @@ Tools we could build on:
 Other tools to look at for inspiration: 
 
  * http://rendera.heroku.com/ <-- Examples section good inspiration in terms of small, simple, importable learning templates.
- * http://billmill.org/static/canvastutorial/index.html <-- Interesting example of step by ste learning, could give us idea for building templated learning experiences.
+ * http://billmill.org/static/canvastutorial/index.html <-- Interesting example of step by step learning, could give us idea for building templated learning experiences.
  * http://demo.qooxdoo.org/devel/playground/#Hello%20World-ria <-- Shows examples of how to build particular UI elements, might also have ideas to help w/ our templating. 
 
  * Google Code Playground: http://code.google.com/apis/ajax/playground/
