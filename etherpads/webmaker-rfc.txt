@@ -5,7 +5,9 @@ fifth draft - may, 2012
 
 See also:
 
-
+https://github.com/mozilla/webpagemaker
+http://www.flickr.com/groups/1927983@N24/ (UX mocks)
+http://jessicaklein.blogspot.ca/2012/05/revised-uiux-for-app-formerly-known-as.html
 https://etherpad.mozilla.org/webmaker-for-summer-campaign
 
 Overview: 
@@ -75,8 +77,6 @@ To do list:
  * Add in research and community feedback components (?)
  * Review and analysis by software / web teams (?)
  * Resource planning (?)
-
-
 
 What we have already (or almost):
 
