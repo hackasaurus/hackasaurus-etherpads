@@ -1,7 +1,39 @@
 Request for Comment:
-Mozilla WebMaker (webapp)
+Mozilla Thimble (webapp)
 
-fourth draft - march 21, 2012
+fifth draft - may, 2012
+
+See also:
+
+
+https://etherpad.mozilla.org/webmaker-for-summer-campaign
+
+Overview: 
+
+Building on what's been started with LoveBomb and StoryThing, the Thimble app is designed to let people:
+
+ * Go to thimble.mozilla.org and make something fast.
+ * Make something nice based on one of our beautiful remixable templates.
+ * Share what you make in a low friction way (ie. don't need your own hosting).
+ * Earn badges based on what you make and contribute.
+ * Easily make a new guided learning experience like LoveBomb. 
+
+In  the immediate term, this could simply be a clearly-branded generic  version of the side-by-side editor / renderer we have for LoveBomb.  However, in the not-to-distant future, we should add the ability for anyone  to create and fork guided learning experiences. A gallery plus badges  are also a fairly near term priority. The good news is that many of the  components needed are already being developed as part of WebPageMaker /  LoveBomb / PopcornMaker / Towtruck. 
+
+Design Principles:
+
+1. Publish content and applications on the web in open standards
+2. Code and implement the web standards that content/apps depend on
+3. Design software that invites participation, remixing and peer interaction
+4. Support / encourage the potential for a social aspect to the tool
+5. Support interest-driven learning - allow people to hack on things they care about
+6. Design for extensibility / scale beyond ourselves.
+7. Give recognition: support badging tools/experiences
+8. Support graceful degradation
+9. Produce consumer grade web experiences and software.
+10. Design tools so that they are interoperative and have portable components / modules
+
+Read more about Design Principles here: https://mozlearning.etherpad.mozilla.org/design-principles
 
 ------------
 
@@ -44,33 +76,7 @@ To do list:
  * Review and analysis by software / web teams (?)
  * Resource planning (?)
 
-Overview: 
 
-
-Building on what's been started with LoveBomb and StoryThing, the WebMaker apps is designed to let people:
-
- * Go to thimble.mozilla.org and make something fast.
- * Make something nice based on one of our beautiful remixable templates.
- * Share what you make in a low friction way (ie. don't need your own hosting).
- * Earn badges based on what you make and contribute.
- * Easily make a new guided learning experience like LoveBomb. 
-
-In the immediate term, this could simply be a clearly-branded generic version of the side-by-side editor / renderer we have for LoveBomb. However, in the not-to-distant future, we should add the ability for anyone to create and fork guided learning experiences. A gallery plus badges are also a fairly near term priority. The good news is that many of the components needed are already being developed as part of WebPageMaker / LoveBomb / PopcornMaker / Towtruck. 
-
-Design Principles:
-
-1. Publish content and applications on the web in open standards
-2. Code and implement the web standards that content/apps depend on
-3. Design software that invites participation, remixing and peer interaction
-4. Support / encourage the potential for a social aspect to the tool
-5. Support interest-driven learning - allow people to hack on things they care about
-6. Design for extensibility / scale beyond ourselves.
-7. Give recognition: support badging tools/experiences
-8. Support graceful degradation
-9. Produce consumer grade web experiences and software.
-10. Design tools so that they are interoperative and have portable components / modules
-
-Read more about Design Principles here: https://mozlearning.etherpad.mozilla.org/design-principles
 
 What we have already (or almost):
 
