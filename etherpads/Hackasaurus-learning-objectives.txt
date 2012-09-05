@@ -4,20 +4,20 @@
 
 After substantial engagement with the Hackasaurus toolkit a learner will/should be able to:
 
- * Browser Basics: skills required for "retrieving, presenting and traversinMoPad: Hackasaurus-learning-objectivesg information resources on the world wide web"(wikipedia definition of browser)
+ * Browser Basics: skills required for "retrieving, presenting and traversing information resources on the world wide web"(wikipedia definition of browser)
 
+ * Hackasaurus-learning-objectives
    * identify where the "address bar" is within the browser
    * demonstrate basic ability to "tweak" the address bar URL
    * open multiple browser tabs and switch between them 
    * master basic selection of content on a web page/address bar
-   * master "copy" and "paste"  function via keyboard shortcutsr
+   * master "copy" and "paste"  function via keyboard shortcuts
      * within the same web page and between two different ones
-   * use the mouse to point, click, secondary-click (aka "right click") and scr   oll over objects on the webpage
+   * use the mouse to point, click, secondary-click (aka "right click") and scroll over objects on the webpage
    * be able to type non-alphanumeric characters like @, ", < etc.
 
  * Web- Authoring: skills required for making content and publishing to the world wide web
-
-   * understanding   the distinction between resource types--e.g. image URLs vs. web page URLs. (this will be especially important when kids get to authoring   their own HTML)
+   * understanding the distinction between resource types--e.g. image URLs vs. web page URLs. (this will be especially important when kids get to authoring their own HTML)
    * identify and alter element tags, which surround content and apply meaning to it
    * remix content of element attributes, which appear inside the opening tag and their value is always inside quotation marks
    * remix and create elements, which are the blocks of code that make up webpages.
@@ -28,14 +28,14 @@ After substantial engagement with the Hackasaurus toolkit a learner will/should 
    * understand what the "open web" means
          * understand that website accessibility helps different kinds of users experience web content
          * understand that the web "doesn't break" --> i.e., is standards-based, not owned by a company
-         * understand  that the web can always be made less open/less free -- e.g. through   firewalls, other things schools and some gov'ts deploy
+         * understand  that the web can always be made less open/less free -- e.g. through firewalls, other things schools and some gov'ts deploy
    * understands what ethical web making means
 
  * Tool Competencies: skills that demonstrate comfort and competency of the Hackasaurus toolkit
 
    * install and use a "bookmarklet" 
    * install and use an "add-on"
-   * inspect the html and/or css of an element  on a webpage by using the goggles to hover over an object and view the code
+   * inspect the html and/or css of an element on a webpage by using the goggles to hover over an object and view the code
    * understands what a "heads up display" (HUD) is and demonstrates ability to read information in this part of the browser
    * change webpage content "locally" by busting a hack
    * share webpage content using the "cloud" by sharing a hack using webpad
@@ -43,7 +43,7 @@ After substantial engagement with the Hackasaurus toolkit a learner will/should 
    * demonstrate ability to impact the design of a webpage by changing compositional elements (i.e: header, footer, background, navigation)
    * build web pages using html in webpad
    * understand the box model and selectors
- * demonstrate an understanding  that there are resources available on the web for developers by using  html or css snippets from the hackbook
+ * demonstrate an understanding that there are resources available on the web for developers by using html or css snippets from the hackbook
    * demonstrates ability to work collaboratively by coding html and/or css with a peer
    * demonstrates ability to create web content that is accessible for other users
    * demonstrates ability to teach a hackshop or p2pu class on webdesign with Hackasaurus?
