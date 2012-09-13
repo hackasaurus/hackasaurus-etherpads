@@ -1,5 +1,4 @@
  
-
  Hackasaurus Learning Objectives
 
 After substantial engagement with the Hackasaurus toolkit a learner will/should be able to:
