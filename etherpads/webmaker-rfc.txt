@@ -46,7 +46,7 @@ Components for summer campaign [Mid June]:
  * Gallery service:
    * JS function to publish HTML to our server.  Returns a URL pointer to that rendered HTML page. - goggles, lovebomb.me, storything, openbadges.org use https://github.com/hackasaurus/hackpub
    * Remix method. Given a page on the gallery service, return a string with that HTML.  (Includes an HTML comment with unique ID so we can track what remixed what.) - very easy to add to hackpub.
-   * [Nice to have, but not required]: Browser ID ownership of the pages published to the service. (not currently part of hackpub)
+   * [Nice to have, but not requd]: Browser ID ownership of the pages published to the service. (not currently part of hackpub)
  * Gallery front-end:
    * See what's currently being created, and (if applicable) what it was remixed from, or which pages remixed it. - every hackpub page's metadata does contain an 'original url' that it is based on.
      * Should this be snapshots, or live views like MoPad, with collaborative (or sabotative =D) editing?
